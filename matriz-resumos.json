@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-20 01:21",
+ "gerado": "2026-09-20 12:39",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -358,10 +358,22 @@
    "pct": 76,
    "lado": "negativas"
   },
+  "2026-09-19|Justiça": {
+   "texto": "No dia 19 de setembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza diversa. Relativamente à Madeira, os títulos referem uma alegação de corrupção por parte de André Ventura e a subsequente comunicação social em torno de um caso arquivado pelo Ministério Público contra Manuel Pinho e António Bernardo, ambos suspeitos de corrupção. Em matéria penal, foram decretadas medidas de coação, nomeadamente prisão preventiva, para quatro suspeitos de rapto na Marinha Grande, e reafirmada a prisão preventiva de outros indivíduos envolvidos em casos semelhantes. Adicionalmente, o Ministério Público iraniano acusou os organizadores de uma maratona de mulheres sem véu, e o Tribunal Europeu dos Direitos Humanos rejeitou queixas de pais de estudantes falecidos numa praxe na praia do Meco.",
+   "n": 15,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-09-20|Defesa Nacional": {
+   "texto": "No dia 2026-09-20, a área da Defesa Nacional registou um conjunto de acontecimentos relacionados com a atividade militar e as operações de paz internacionais. Destacam-se um ataque ucraniano a Moscovo, com múltiplos relatos de utilização de drones, que resultou em vítimas mortais e danos na capital russa. Paralelamente, as Forças Armadas dos EUA efetuaram um ataque aéreo contra uma embarcação suspeita de tráfico de droga nas Caraíbas, causando a morte de quatro pessoas. Adicionalmente, Portugal assumiu a liderança de um mês no Conselho de Segurança da ONU, no âmbito de missões de paz em regiões em conflito, nomeadamente Ucrânia, Gaza, Sudão e Iémen. O tema dominante foi a intensificação de ações militares e de segurança no contexto internacional.",
+   "n": 12,
+   "pct": 80,
+   "lado": "negativas"
+  },
   "2026-09-19|Agricultura e Mar|+": {
-   "texto": "O dia foi marcado por desenvolvimentos na política agrícola e florestal. O Governo lançou um inquérito sobre o bem-estar animal, no âmbito da política agrícola comum. Foram abertas candidaturas ao mecanismo de compensação para apoios setoriais, reforçando a coesão na área. Adicionalmente, a proteção legal comunitária da floresta das borboletas em Moçambique demonstra um alargamento da salvaguarda ambiental. Não obstante, a cobertura mediática incluiu um incidente florestal em Águeda, onde foram feitas exigências públicas para a remoção de materiais considerados perigosos.",
-   "n": 10,
-   "pct": 71,
+   "texto": "No dia 19 de setembro de 2026, o Governo lançou um inquérito nacional sobre o bem-estar animal, abrangendo diversas espécies e contextos de criação. Simultaneamente, o Primeiro-Ministro reiterou o seu empenho em que o próximo Orçamento da União Europeia priorize a coesão territorial e a Política Agrícola Comum, conforme noticiado por diversos órgãos de comunicação social. Adicionalmente, foram abertas candidaturas ao mecanismo de compensação para os setores afetados por incêndios florestais, respondendo a um apelo público de dezenas de cidadãos em Águeda. Por fim, a floresta das borboletas em Moçambique passou a beneficiar de proteção legal comunitária, reforçando a cooperação internacional na conservação da biodiversidade.",
+   "n": 11,
+   "pct": 73,
    "lado": "positivas"
   }
  }
