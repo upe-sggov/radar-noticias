@@ -435,7 +435,18 @@ table.pp tr.pp-cauda .pp-barra i{background:var(--borda);opacity:1}
 table.esp .esp-ind{font-weight:600;color:var(--azul)}
 
 /* Matrizes de cruzamento */
-.mtz-rolo{overflow-x:auto;margin-top:.9rem}
+/* A coluna das áreas fica presa à esquerda dentro deste contentor
+   (position:sticky). O Safari do iPhone tem uma falha conhecida em que um
+   elemento sticky dentro de um contentor com deslocamento lateral impede o
+   gesto de arrastar — o dedo desliza e nada se move. As duas propriedades
+   seguintes contornam-na: a rolagem por wheel/toque nativa e a indicação
+   explícita de que o gesto horizontal pertence a este elemento, e não à
+   página. Sem elas, no telemóvel o gráfico de volume desliza (não tem coluna
+   presa) mas a matriz do tom fica bloqueada — foi o que se reportou. */
+.mtz-rolo{overflow-x:auto;margin-top:.9rem;
+  -webkit-overflow-scrolling:touch;touch-action:pan-x;padding-bottom:.35rem}
+.mtz-rolo::-webkit-scrollbar{height:8px}
+.mtz-rolo::-webkit-scrollbar-thumb{background:var(--borda);border-radius:99px}
 .pp-rolo{margin-top:.9rem}
 .pp-rolo .pp{width:100%;table-layout:auto}
 table.mtz{border-collapse:collapse;font-size:.74rem;min-width:100%}
