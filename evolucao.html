@@ -160,11 +160,14 @@ header .accoes{margin-left:auto;display:flex;gap:.45rem;flex-wrap:wrap;justify-c
      algarismos, 8px de letra e 3px de margem chegam para os 190mm úteis. */
   /* (!important porque este bloco de impressão vem antes das regras de ecrã
      da matriz no ficheiro, e sem isso perdia para elas.) */
+  .mtz-wrap{display:flex !important}
   table.mtz{font-size:7.5px !important;width:100% !important;min-width:0 !important;table-layout:auto}
   table.mtz td, table.mtz th{padding:2px 2px !important;font-size:7.5px !important}
   table.mtz tr:first-child th{font-size:7px !important}
-  table.mtz .mtz-lin{font-size:7.5px !important;position:static !important;box-shadow:none;padding-right:5px !important}
-  table.mtz tr:first-child th:first-child{position:static !important}
+  table.mtz-fixa{font-size:7.5px !important}
+  table.mtz-fixa th{padding:2px 5px 2px 2px !important;font-size:7.5px !important;
+    box-shadow:none !important;background:transparent !important}
+  table.mtz-fixa tr:first-child th{font-size:7px !important}
   .imp-resumo{margin:.6rem 0 .9rem;padding:.6rem .9rem;border-left:3px solid #BE9C54;
     background:#fbf7ef;font-size:.84rem;line-height:1.5}
   .imp-resumo strong{display:block;margin-bottom:.25rem;color:#1F2A37}
@@ -443,7 +446,7 @@ table.esp .esp-ind{font-weight:600;color:var(--azul)}
    explícita de que o gesto horizontal pertence a este elemento, e não à
    página. Sem elas, no telemóvel o gráfico de volume desliza (não tem coluna
    presa) mas a matriz do tom fica bloqueada — foi o que se reportou. */
-.mtz-rolo{overflow-x:auto;margin-top:.9rem;
+.mtz-rolo{flex:1 1 auto;min-width:0;overflow-x:auto;
   -webkit-overflow-scrolling:touch;touch-action:pan-x;padding-bottom:.35rem}
 .mtz-rolo::-webkit-scrollbar{height:8px}
 .mtz-rolo::-webkit-scrollbar-thumb{background:var(--borda);border-radius:99px}
@@ -452,18 +455,38 @@ table.esp .esp-ind{font-weight:600;color:var(--azul)}
 table.mtz{border-collapse:collapse;font-size:.74rem;min-width:100%}
 table.mtz th{font-weight:500;color:var(--texto-suave);padding:.3rem .35rem;white-space:nowrap}
 table.mtz tr:first-child th{font-size:.68rem;color:var(--texto-ligeiro)}
-/* A coluna das áreas fica FIXA à esquerda. Sem isto, a matriz aberta à direita
-   mostrava números sem se saber de que área eram, e ao recuar o nome vinha
-   cortado por reticências. Agora acompanha o deslocamento, com fundo próprio
-   para os números não passarem por baixo, e o nome quebra em duas linhas em
-   vez de ser truncado — uma área chamada «Trabalho, Solidariedade e Segurança
-   Social» não se identifica pelas primeiras palavras. */
-table.mtz .mtz-lin{text-align:left;white-space:nowrap;
-  position:sticky;left:0;z-index:2;background:var(--superficie);
-  box-shadow:1px 0 0 var(--borda);padding-right:.7rem}
-/* O canto superior esquerdo tapa o cruzamento das duas fixações */
-table.mtz tr:first-child th:first-child{position:sticky;left:0;z-index:3;
-  background:var(--superficie)}
+/* A coluna das áreas vive numa TABELA SEPARADA, ao lado da que desliza, e não
+   presa por «position:sticky» dentro dela. O Safari do iPhone tem uma falha
+   conhecida em que um elemento sticky dentro de um contentor com deslocamento
+   lateral bloqueia o gesto de arrastar — o dedo desliza e nada se move. Como
+   a coluna das áreas ocupa a maior parte de um ecrã estreito, quase todo o
+   toque começava nela, e a matriz ficava presa. Duas tabelas lado a lado, sem
+   nada sticky, não tem essa falha em navegador nenhum. */
+.mtz-wrap{display:flex;align-items:flex-start;margin-top:.9rem}
+table.mtz-fixa{flex:none;border-collapse:collapse}
+table.mtz-fixa th{font-weight:500;color:var(--texto-suave);padding:.3rem .35rem;
+  text-align:left;white-space:nowrap;padding-right:.7rem;
+  background:var(--superficie);box-shadow:1px 0 0 var(--borda)}
+table.mtz-fixa tr:first-child th{font-size:.68rem;color:var(--texto-ligeiro)}
+/* Alturas de linha fixas nas duas tabelas — não dependem do conteúdo, para
+   que uma linha da tabela de nomes e a linha correspondente na tabela de
+   dados fiquem sempre à mesma altura, célula a célula. */
+table.mtz-fixa th, table.mtz td, table.mtz th{line-height:1.3;box-sizing:border-box}
+/* Em ecrã estreito, uma única linha com o nome inteiro da área — «Trabalho,
+   Solidariedade e Segurança Social» — pode sozinha exceder a largura do
+   telemóvel, sem deixar espaço nenhum para a tabela de dados ao lado: era
+   esse o motivo por que só se viam os nomes. Abaixo de 640px o nome volta a
+   quebrar em duas linhas e a coluna fica com um limite de largura, como
+   antes de se ter pedido a linha única — que continua a valer no ecrã
+   largo, onde há espaço de sobra. */
+@media (max-width: 640px){
+  /* «max-width» num <td>/<th> não é fiável: a tabela usa layout automático,
+     que dimensiona as colunas pelo conteúdo e costuma ignorar o limite.
+     «table-layout:fixed» com uma largura no próprio <table> obriga a coluna
+     a respeitá-la, e só assim o texto quebra em vez de esticar a tabela. */
+  table.mtz-fixa{table-layout:fixed;width:118px}
+  table.mtz-fixa th{white-space:normal;line-height:1.22;overflow-wrap:break-word}
+}
 table.mtz td{text-align:center;padding:.3rem .35rem;font-variant-numeric:tabular-nums;
   background:color-mix(in srgb, var(--vermelho) calc(var(--i) * 72%), transparent);
   color:var(--texto);border-radius:4px}
@@ -1304,6 +1327,28 @@ function cargoInclusivo(p){
    no fim — o contrário do que se procura num painel de acompanhamento. Depois
    de cada desenho, encosta-se o contentor à direita; quem quiser recuar
    arrasta para a esquerda, que é o gesto natural para ir ao passado. */
+/* As duas tabelas da matriz — a dos nomes e a dos dados — crescem de forma
+   independente: um nome com três linhas fica mais alto do que a linha de
+   números ao lado, se nada as ligar. Em vez de adivinhar uma altura fixa,
+   que falha para nomes compridos ou acerta por acaso para os curtos, mede-se
+   cada par de linhas depois de desenhado e aplica-se a ambas a maior — como
+   as duas tabelas só têm uma coluna cada, o emparelhamento é pela ordem. */
+function alinharLinhasDaMatriz(){
+  document.querySelectorAll(".mtz-wrap").forEach(w => {
+    const nomes = [...w.querySelectorAll("table.mtz-fixa tr")];
+    const dados = [...w.querySelectorAll(".mtz-rolo table.mtz tr")];
+    nomes.forEach(tr => tr.style.height = "");
+    dados.forEach(tr => tr.style.height = "");
+    nomes.forEach((tr, i) => {
+      const par = dados[i];
+      if(!par) return;
+      const alto = Math.max(tr.getBoundingClientRect().height,
+                             par.getBoundingClientRect().height);
+      tr.style.height = par.style.height = alto + "px";
+    });
+  });
+}
+
 function encostarMatrizADireita(){
   document.querySelectorAll(".mtz-rolo").forEach(r => {
     r.scrollLeft = r.scrollWidth;
@@ -1895,16 +1940,21 @@ function blocoMatrizTom(linhas, pares, areas){
         <h4 id="painelResumoCab"></h4>
         <p id="painelResumoTexto"></p>
       </div>
-      <div class="mtz-rolo">
-        <table class="mtz">
-          <tr><th></th>${chaves.map((k, i) =>
-            `<th class="${semanaNova(k, i)}${diaEscolhido && k === diaEscolhido ? " mtz-foco-cab" : ""}"
-              title="${descreverPeriodo(k)}">${rotuloCurto(k)}</th>`).join("")}</tr>
-          ${comDados.map(n => `<tr>
-            <th class="mtz-lin" title="${n}">${n}</th>
-            ${chaves.map((k, i) => celula(n, k, semanaNova(k, i))).join("")}
-          </tr>`).join("")}
+      <div class="mtz-wrap">
+        <table class="mtz-fixa">
+          <tr><th>&nbsp;</th></tr>
+          ${comDados.map(n => `<tr><th class="mtz-lin" title="${n}">${n}</th></tr>`).join("")}
         </table>
+        <div class="mtz-rolo">
+          <table class="mtz">
+            <tr>${chaves.map((k, i) =>
+              `<th class="${semanaNova(k, i)}${diaEscolhido && k === diaEscolhido ? " mtz-foco-cab" : ""}"
+                title="${descreverPeriodo(k)}">${rotuloCurto(k)}</th>`).join("")}</tr>
+            ${comDados.map(n => `<tr>
+              ${chaves.map((k, i) => celula(n, k, semanaNova(k, i))).join("")}
+            </tr>`).join("")}
+          </table>
+        </div>
       </div>
       <p class="nota">Percentagem de notícias <strong>${ladoTom}</strong> em cada área e
         período, sobre a comunicação social nacional avaliada pelo Amália, em validação.
@@ -3248,6 +3298,7 @@ function desenhar(){
   const limpar = document.getElementById("limparDia");
   if(limpar) limpar.addEventListener("click", () => { diaEscolhido = null; desenhar(); });
 
+  alinharLinhasDaMatriz();
   encostarMatrizADireita();
 }
 
