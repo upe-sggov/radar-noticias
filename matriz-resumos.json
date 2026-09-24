@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-24 11:53",
+ "gerado": "2026-09-24 12:54",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -382,11 +382,23 @@
    "pct": 50,
    "lado": "positivas"
   },
-  "2026-09-24|Justiça": {
-   "texto": "No dia 24 de setembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza diversa. Organismos anticorrupção solicitaram a salvaguarda da integridade em investimentos de montantes elevados no setor da Defesa, enquanto a GNR deteve um indivíduo por violência psicológica contra a sua progenitora. Paralelamente, a comunidade judicial assinalou a eleição da juíza Maria José Costeira, e a vice-presidente do Tribunal Geral da UE felicitou-a publicamente.\n\nO escrutínio da atuação judicial intensificou-se, com a PJ a ser objeto de buscas e a ser questionada sobre a sua autogestão, com indícios de que a ministra da Justiça desconheceria a situação interna. Contradições em documentos de processos judiciais, nomeadamente no caso Football Leaks, e a contestação da integridade de depoimentos da PJ em tribunal, agravaram a perceção de fragilidades no sistema.\n\nUm caso de violência doméstica, envolvendo a violação da namorada do filho de um indivíduo, foi levado a julgamento no Tribunal de Coimbra, evidenciando a aplicação da lei em situações de criminalidade grave. Estes eventos, agrupados em torno de temas como a integridade, a investigação criminal e a proteção de vítimas, caracterizaram o dia na área da Justiça.",
-   "n": 15,
-   "pct": 75,
+  "2026-09-24|Administração Interna": {
+   "texto": "No dia 24 de setembro de 2026, a GNR desenvolveu diversas operações de âmbito criminal e de segurança pública. Foram detidas 14 pessoas em Alvor, no âmbito de uma operação contra a navegação ilegal, com a apreensão de embarcações e combustível. Adicionalmente, a GNR efetuou detenções relacionadas com assaltos a casas em várias regiões do país, incluindo Lisboa, Setúbal, Leiria, Beja e Santarém. Paralelamente, foi detido um homem em Alter do Chão por violência psicológica contra a mãe, e a GNR alertou para burlas com imagens de desaparecidos manipuladas por inteligência artificial. Um tema dominante foi a atuação da GNR no combate a ilícitos criminais, nomeadamente roubos e navegação ilegal.",
+   "n": 10,
+   "pct": 77,
    "lado": "negativas"
+  },
+  "2026-09-24|Ambiente e Energia|+": {
+   "texto": "No dia 24 de setembro de 2026, foram noticiados diversos desenvolvimentos no âmbito da área do Ambiente e Energia. O Alzamora Group procedeu à instalação de uma bateria para armazenamento de energia solar numa fábrica em Girona, visando otimizar a gestão de recursos renováveis. O tema dominante é a procura de soluções para a segurança energética, evidenciado pela análise da Comissão Europeia sobre potenciais \"apagões seletivos\" e pelo reconhecimento do armazenamento de energia como fator chave para responder ao aumento da procura, conforme referido pelo CEO da EDP. Adicionalmente, a produção de energia solar em Moçambique registou um crescimento de 6,4% no primeiro semestre do ano.",
+   "n": 6,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-09-24|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 24 de setembro de 2026, Portugal destacou-se em eventos culturais e desportivos. No âmbito dos Triatlo Mundiais, Letícia Magalhães e Catarina Santos alcançaram a 29.ª e 30.ª posição numa prova júnior em Pontevedra, iniciando a competição nacional com quatro atletas desta faixa etária. Adicionalmente, foi inaugurada uma edição histórica de \"Os Lusíadas\" na Biblioteca Geral da Universidade de Coimbra, sendo simultaneamente apresentada na Biblioteca da Universidade dos Açores, com impacto académico e cultural. Paralelamente, a Região Autónoma da Madeira promoveu o Museu da Banana com entradas gratuitas, e os Açores lançaram um vale de apoio psicológico para jovens, enquanto se promoveu o Desporto Escolar com a participação de 12 mil alunos. A nível social, a AstraZeneca reforçou o seu compromisso com a prevenção junto de jovens, e destacou-se o reconhecimento ao artista Jorge no âmbito do encerramento do evento cultural \"Terra dos Sonhos\".",
+   "n": 10,
+   "pct": 53,
+   "lado": "positivas"
   }
  }
 }
