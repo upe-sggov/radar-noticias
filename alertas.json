@@ -1,70 +1,70 @@
 {
- "atualizado": "2026-09-24 18:07",
+ "atualizado": "2026-09-24 21:14",
  "dia": "2026-09-24",
- "corte": "18:07",
+ "corte": "21:14",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 18:07, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 21:14, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Reforma do Estado",
-   "hoje": 37,
-   "mediana": 14.0,
-   "limiar": 27.3,
-   "excesso": 23.0,
-   "variacao_pct": 164,
+   "hoje": 39,
+   "mediana": 18.0,
+   "limiar": 31.3,
+   "excesso": 21.0,
+   "variacao_pct": 117,
    "dias_base": 28,
    "tempestade": true
   }
  ],
  "momentum": [
   {
+   "area": "Finanças",
+   "hoje": 69,
+   "mediana": 38.5,
+   "limiar": 84.5,
+   "excesso": 30.5,
+   "variacao_pct": 79,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Justiça",
+   "hoje": 77,
+   "mediana": 53.5,
+   "limiar": 118.7,
+   "excesso": 23.5,
+   "variacao_pct": 44,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Presidência",
+   "hoje": 49,
+   "mediana": 27.0,
+   "limiar": 49.2,
+   "excesso": 22.0,
+   "variacao_pct": 81,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
    "area": "Reforma do Estado",
-   "hoje": 37,
-   "mediana": 14.0,
-   "limiar": 27.3,
-   "excesso": 23.0,
-   "variacao_pct": 164,
+   "hoje": 39,
+   "mediana": 18.0,
+   "limiar": 31.3,
+   "excesso": 21.0,
+   "variacao_pct": 117,
    "dias_base": 28,
    "tempestade": true
   },
   {
-   "area": "Justiça",
-   "hoje": 61,
-   "mediana": 43.5,
-   "limiar": 86.5,
-   "excesso": 17.5,
-   "variacao_pct": 40,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
    "area": "Economia e Coesão Territorial",
-   "hoje": 66,
-   "mediana": 53.0,
-   "limiar": 97.5,
-   "excesso": 13.0,
-   "variacao_pct": 25,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 48,
-   "mediana": 37.0,
-   "limiar": 69.6,
-   "excesso": 11.0,
-   "variacao_pct": 30,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Finanças",
-   "hoje": 44,
-   "mediana": 33.0,
-   "limiar": 70.1,
-   "excesso": 11.0,
-   "variacao_pct": 33,
+   "hoje": 84,
+   "mediana": 64.0,
+   "limiar": 107.0,
+   "excesso": 20.0,
+   "variacao_pct": 31,
    "dias_base": 28,
    "tempestade": false
   }
@@ -969,9 +969,9 @@
   {
    "data": "2026-09-24",
    "area": "Reforma do Estado",
-   "hoje": 37,
-   "mediana": 14.0,
-   "limiar": 27.3
+   "hoje": 39,
+   "mediana": 18.0,
+   "limiar": 31.3
   }
  ]
 }
