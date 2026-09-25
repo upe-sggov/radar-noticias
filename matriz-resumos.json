@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-25 10:40",
+ "gerado": "2026-09-25 12:27",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -383,10 +383,22 @@
    "lado": "positivas"
   },
   "2026-09-25|Administração Interna": {
-   "texto": "No dia 25 de setembro de 2026, registaram-se dois incidentes graves na área da Administração Interna. Em Resende, um incêndio florestal motivou a morte de uma bombeira de 24 anos e ferimentos graves noutra operativa, mantendo-se as operações de combate ativas. Adicionalmente, em Oeiras, durante uma perseguição policial, suspeitos furtaram uma mota, colidindo repetidamente com uma patrulha da PSP, estando estes atualmente a ser procurados.",
-   "n": 8,
-   "pct": 80,
+   "texto": "No dia 25 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa na área da Administração Interna. Destacam-se um incêndio num jardim-de-infância em Castelo Branco que motivou a evacuação de 195 pessoas, uma perseguição policial em Oeiras que culminou numa colisão com um veículo da PSP e o desaparecimento de uma mulher na Marinha Grande, ainda em investigação. Adicionalmente, verificou-se a ocorrência de incêndios ativos em Odemira e Resende, com operações de combate em curso, e a deteção de uma estrutura ilegal de cultivo de canábis em Tavira, resultando na detenção de três indivíduos.",
+   "n": 15,
+   "pct": 76,
    "lado": "negativas"
+  },
+  "2026-09-25|Cultura, Juventude e Desporto|+": {
+   "texto": "No âmbito do desporto, Dinis Ferreira obteve uma medalha de prata em competições mundiais de triatlo, reforçando o projeto olímpico português. Dois jovens madeirenses foram distinguidos com a atribuição do Mérito Associativo, sendo selecionados para a Summer Academy na Catalunha. O Município do Porto Santo promoveu a prática desportiva em espaços públicos, no âmbito do Dia Europeu do Desporto. Adicionalmente, o Governo anunciou a preparação de um serviço militar de curta duração, destinado a jovens que pretendam experimentar a vida na tropa durante as férias escolares.",
+   "n": 7,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-09-25|Saúde|+": {
+   "texto": "No dia 25 de setembro de 2026, o Governo anunciou uma verba de 383 milhões de euros para a despesa com a linha SNS24, com execução prevista até 2032, visando reforçar a capacidade de resposta e acesso a serviços de saúde. Simultaneamente, foi reportada a morte de uma bombeira de Resende, ferida durante um incêndio, no Hospital de Lamego, num trágico evento que sublinha os riscos inerentes ao combate a incêndios florestais. Adicionalmente, foi noticiado que a inteligência artificial suporta já um terço das marcações de consultas e exames no Hospital da Luz, evidenciando a crescente integração de tecnologias de apoio à gestão clínica. Não obstante, o dia ficou marcado por um evento negativo, a perda de uma profissional de emergência, que não se enquadra no âmbito de medidas ou resultados positivos da área da saúde.",
+   "n": 5,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
