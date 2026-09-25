@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-24 21:42",
+ "gerado": "2026-09-25 01:42",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -334,12 +334,6 @@
    "pct": 76,
    "lado": "negativas"
   },
-  "2026-09-17|Presidência|+": {
-   "texto": "No dia 17 de setembro de 2026, o Governo aprovou medidas de alívio ao custo de vida, nomeadamente no âmbito fiscal e energético. Foram confirmadas a descida das taxas de IRS entre 0,3 e 0,5 pontos até ao 6.º escalão, o pagamento de um suplemento extraordinário a pensionistas pelo terceiro ano consecutivo e a extensão do apoio de 10 cêntimos por litro de gasóleo profissional até ao fim do ano. Adicionalmente, o Primeiro-Ministro comprometeu-se com a concretização de um superávite orçamental no final do ano, enquanto se preparava para informar o país sobre as medidas fiscais e os apoios aos combustíveis. O tema dominante é o alívio económico aos cidadãos e empresas, através de medidas fiscais e de apoio direto.",
-   "n": 14,
-   "pct": 56,
-   "lado": "positivas"
-  },
   "2026-09-17|Justiça": {
    "texto": "No dia 17 de setembro de 2026, registaram-se múltiplos acontecimentos judiciais de natureza criminal e administrativa na área da Justiça. Destacam-se a aplicação de prisão preventiva a indivíduos por crimes de violência doméstica, agressão física e roubo, incluindo um caso de homicídio tentado por esfaqueamento. Adicionalmente, verificou-se a prisão preventiva de suspeitos de tiroteio na Baixa de Lisboa, com impacto num turista, e de uma mulher por incêndio criminoso contra o marido, em múltiplas jurisdições. Observou-se ainda um conjunto de reavaliações de penas e decisões judiciais que geraram controvérsia, nomeadamente no âmbito da Operação Marquês, onde ex-ministros contestaram acusações de corrupção, e a prisão preventiva de uma funcionária por crime de fogo posto. O tema dominante foi a aplicação de medidas de coação e a resolução de casos criminais graves.",
    "n": 50,
@@ -380,6 +374,12 @@
    "texto": "O dia foi marcado por uma série de anúncios governamentais e acordos com foco na resiliência económica e energética, bem como na gestão de recursos essenciais. O Governo anunciou um pacote de apoio de 40 milhões de euros para produtores agrícolas e energéticos afetados por custos elevados, visando mitigar impactos e assegurar a continuidade da atividade. Paralelamente, foram celebrados acordos para a resolução de problemas de abastecimento de água, nomeadamente entre Almada e Seixal, e foram apresentados planos de diversificação de fontes hídricas em diversas localidades. Adicionalmente, registou-se um reconhecimento internacional através do Prémio Gulbenkian para a Humanidade, destacando a importância do conhecimento indígena na abordagem das alterações climáticas, e foram noticiados sinais de resiliência económica na Zona Euro, com aceleração da atividade económica.",
    "n": 23,
    "pct": 52,
+   "lado": "positivas"
+  },
+  "2026-09-17|Presidência|+": {
+   "texto": "O Governo aprovou medidas de alívio ao custo de vida, nomeadamente a descida das taxas de IRS entre 0,3 e 0,5 pontos até ao 6.º escalão, a manutenção de um apoio de 10 cêntimos por litro de gasóleo profissional e a atribuição de um suplemento extraordinário a pensionistas pelo terceiro ano consecutivo. Adicionalmente, foram confirmados apoios ao IRS já em novembro, com impacto nos salários líquidos, e prolongado o benefício fiscal aos combustíveis profissionais. O Primeiro-Ministro, Luís Montenegro, comprometeu-se com a concretização de um superávite orçamental no final do ano e reafirmou a recusa de trocar a política fiscal por medidas que comprometessem a sustentabilidade das contas públicas.",
+   "n": 14,
+   "pct": 54,
    "lado": "positivas"
   }
  }
