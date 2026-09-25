@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-25 01:42",
+ "gerado": "2026-09-25 10:40",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -381,6 +381,12 @@
    "n": 14,
    "pct": 54,
    "lado": "positivas"
+  },
+  "2026-09-25|Administração Interna": {
+   "texto": "No dia 25 de setembro de 2026, registaram-se dois incidentes graves na área da Administração Interna. Em Resende, um incêndio florestal motivou a morte de uma bombeira de 24 anos e ferimentos graves noutra operativa, mantendo-se as operações de combate ativas. Adicionalmente, em Oeiras, durante uma perseguição policial, suspeitos furtaram uma mota, colidindo repetidamente com uma patrulha da PSP, estando estes atualmente a ser procurados.",
+   "n": 8,
+   "pct": 80,
+   "lado": "negativas"
   }
  }
 }
