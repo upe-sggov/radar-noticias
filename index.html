@@ -1261,8 +1261,8 @@ footer.fim .fontes{font-size:.74rem;opacity:.65;max-width:46ch;text-align:right}
       <small>Suporte à Decisão · Direção de Serviços de Suporte à Decisão · Unidade de Pesquisa e Estatísticas</small>
     </div>
     <div class="fontes">
-      Fontes: 64 órgãos de comunicação social (OCS) — imprensa, rádio e televisão, de Portugal,
-      da lusofonia e internacionais — lidos em 66 entradas, umas pelo feed próprio e outras
+      Fontes: <span id="rodapePub">64</span> órgãos de comunicação social (OCS) — imprensa, rádio e televisão, de Portugal,
+      da lusofonia e internacionais —, uns lidos pelo feed próprio e outros
       via Google Notícias. Recolha diária, todos os dias. Versão de <span id="rodapeVersao">—</span>.
     </div>
   </div>
@@ -2260,7 +2260,7 @@ const MANUAL = [
     <p>Um painel que reúne o que a comunicação social noticiou sobre cada uma das <strong>17 áreas
     governativas</strong>, com sete dias de arquivo.</p>
     <div class="man-fichas">
-      <div class="man-ficha"><b>64 publicações</b><span>45 escrevem em português e são classificadas por área; as outras entram na pesquisa por termo</span></div>
+      <div class="man-ficha"><b id="fichaTotalPub">64 publicações</b><span id="fichaPtPub">45 escrevem em português e são classificadas por área; as outras entram na pesquisa por termo</span></div>
       <div class="man-ficha"><b>276 expressões</b><span>é o que classifica cada notícia por área</span></div>
       <div class="man-ficha"><b>7 dias</b><span>o que o painel consulta</span></div>
       <div class="man-ficha"><b>De 2 em 2 horas</b><span>ritmo da recolha, das 07h07 às 19h07, mais as 23h07</span></div>
@@ -2296,7 +2296,7 @@ const MANUAL = [
       <dt>Pesquisa por termo</dt><dd>Para o que as palavras-chave não cobrem — um nome,
         um acontecimento. Procura em <strong>todos os artigos que a recolha leu</strong>,
         incluindo os que nenhuma área classificou. Não sai do corpus: só encontra o que as
-        64 publicações subscritas publicaram nos últimos sete dias. Não encontrando nada,
+        publicações subscritas publicaram nos últimos sete dias. Não encontrando nada,
         é porque nenhuma delas usou essa palavra nesse período.</dd>
       <dt>Período, OCS e área</dt><dd>Na barra abaixo. O seletor de área troca de área
         sem fechar a janela.</dd>
@@ -2373,14 +2373,12 @@ const MANUAL = [
     ligações resolvidas para o endereço do jornal. Cada artigo é marcado com as áreas cujas
     expressões satisfaz, e o resultado fica ao lado do painel. Depois da recolha da manhã,
     escreve-se a síntese e enviam-se os relatórios.</p>
-    <p>Das 64 publicações, <strong>45 escrevem em português</strong> e só essas são
-    classificadas por área; num dia útil marcam tipicamente 35 a 40, porque as
-    especializadas só marcam quando têm matéria da sua área. As 19 restantes são imprensa
-    estrangeira em língua estrangeira, que entra apenas na pesquisa por termo.</p>
-    <p class="man-aviso">A 17 de agosto de 2026 o conjunto de fontes efetivamente lidas
-    alargou-se: recuperaram-se feeds que estavam em falha silenciosa e entrou a segunda via
-    de leitura. Comparações que atravessem essa data medem também esse alargamento, e não
-    apenas a atualidade — o painel de evolução assinala-a nos seus quadros.</p>
+    <p>Das publicações subscritas, as que <strong>escrevem em português</strong> —
+    nacionais e da restante lusofonia — são classificadas por área; o volume que cada uma
+    marca por dia varia com a atualidade, e mais nas especializadas, que só marcam quando
+    têm matéria da sua área. As restantes são imprensa estrangeira em língua estrangeira,
+    que entra apenas na pesquisa por termo. O capítulo seguinte lista a contagem exata de
+    cada grupo, tal como a última recolha as leu.</p>
     <p>Cada recolha deixa também registado o retrato do dia. O <strong>painel de
     evolução</strong>, no ícone de gráfico da barra do topo, mostra essa série ao longo do
     tempo: volume por período e por origem, trajetória de cada área e expressões que mais
@@ -2409,7 +2407,17 @@ const MANUAL = [
         das fontes.</dd>
     </dl>
     <p class="man-aviso">A lista é o que se subscreve, não o que existe: nenhuma seleção
-    de fontes cobre tudo o que foi publicado. O que fica de fora está no capítulo 7.</p>` }
+    de fontes cobre tudo o que foi publicado. O que fica de fora está no capítulo 7.</p>
+    <p class="man-aviso">Esta contagem não é a mesma do capítulo 1. Ali conta-se quem
+    <strong>escreve em português</strong>, porque é essa língua que decide se uma
+    publicação é classificada por área. Aqui agrupa-se por <strong>origem
+    geográfica</strong>, que é o que colore os quadros de volume. As duas coisas quase
+    sempre coincidem, mas não sempre: a edição em português da RFI, da Deutsche Welle e
+    da Euronews escreve em português — e por isso é classificada por área — mas conta
+    como imprensa internacional, por serem redações francesa, alemã e pan-europeia.
+    Por outro lado, uma publicação pode ser lida por mais do que uma <strong>entrada</strong>:
+    o El País é lido pela edição geral e pela secção «Internacional», e o The Guardian
+    pelas secções «Europe» e «Mundo» — por isso há mais entradas do que publicações.</p>` }
 ];
 
 
@@ -3027,6 +3035,48 @@ function enviarSubscricao(){
   });
 }
 
+/* UMA PUBLICAÇÃO É UM DOMÍNIO. O ficheiro das fontes tem uma linha por ENTRADA
+   de leitura, e há publicações lidas por duas — o El País e o The Guardian têm a
+   secção geral e a internacional. Contar linhas dava 66 «publicações», quando
+   são 64 publicações em 66 entradas: foi um erro que chegou a ser publicado na
+   ficha do manual. Esta função é a única que conta; o rodapé, a ficha do
+   capítulo 1 e os grupos do capítulo 10 usam-na todos, para nunca divergirem. */
+function contarFontes(detalhe){
+  const dominios = lista => new Set(lista.map(f => f.dominio || f.fonte)).size;
+  const porOrigem = o => detalhe.filter(f => f.origem === o);
+  return {
+    entradas: detalhe.length,
+    publicacoes: dominios(detalhe),
+    emPortugues: dominios(detalhe.filter(f => f.pt)),
+    outraLingua: dominios(detalhe.filter(f => !f.pt)),
+    grupo: o => ({ publicacoes: dominios(porOrigem(o)), entradas: porOrigem(o).length }),
+  };
+}
+
+/* Os números do rodapé e da ficha levam o valor certo escrito no HTML, para
+   aparecerem mesmo sem rede; depois de ler o ficheiro das fontes, confirmam-se
+   ou corrigem-se sozinhos. Corre ao abrir o painel, e não só ao abrir o manual,
+   porque o rodapé está sempre à vista. */
+async function atualizarContagemFontes(){
+  for(const endereco of enderecosDados()){
+    try{
+      const r = await fetch(endereco.replace("noticias.json", "fontes-recolha.json"),
+                            { cache:"no-store" });
+      if(!r.ok) continue;
+      const dados = await r.json();
+      if(!Array.isArray(dados.detalhe) || !dados.detalhe.length) return;
+      const c = contarFontes(dados.detalhe);
+      const pub = $("#rodapePub");
+      if(pub) pub.textContent = c.publicacoes;
+      const t = $("#fichaTotalPub"), p = $("#fichaPtPub");
+      if(t) t.textContent = `${c.publicacoes} publicações`;
+      if(p) p.textContent = `${c.emPortugues} escrevem em português e são classificadas `
+        + `por área; as outras entram na pesquisa por termo`;
+      return;
+    }catch(e){ /* tenta o endereço seguinte */ }
+  }
+}
+
 /* A lista das fontes no manual vem do relatório que CADA recolha escreve, e
    não de uma cópia da lista dentro do painel. Duas razões: uma segunda cópia
    dessincroniza-se sempre (já aconteceu com a lista de áreas, em quatro
@@ -3097,7 +3147,11 @@ async function preencherFontes(){
 
   alvo.innerHTML = Object.entries(porOrigem).filter(([, v]) => v.length).map(([o, v]) => `
     <div class="fo-grupo">
-      <h5>${ROTULO[o]} <span>${v.length} ${v.length === 1 ? "publicação" : "publicações"}</span></h5>
+      <h5>${ROTULO[o]} <span>${(() => {
+        const pub = new Set(v.map(f => f.dominio || f.fonte)).size;
+        const txt = `${pub} ${pub === 1 ? "publicação" : "publicações"}`;
+        return pub === v.length ? txt : `${txt}, em ${v.length} entradas`;
+      })()}</span></h5>
       <ul class="fo-lista">${v.slice().sort((a, b) =>
         a.fonte.localeCompare(b.fonte, "pt")).map(linha).join("")}</ul>
     </div>`).join("")
@@ -4323,6 +4377,7 @@ $("#capa").addEventListener("click", e => { if(e.target.id === "capa") fecharCap
   const el = $(id);
   if(el) el.textContent = CONFIG.versao;
 });
+atualizarContagemFontes();
 
 /* ── Alertas de tempestade política e momentum ────────────────────────────
    O ficheiro alertas.json é escrito pela recolha agendada: o painel limita-se
