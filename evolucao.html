@@ -463,7 +463,11 @@ table.mtz tr:first-child th{font-size:.68rem;color:var(--texto-ligeiro)}
    toque começava nela, e a matriz ficava presa. Duas tabelas lado a lado, sem
    nada sticky, não tem essa falha em navegador nenhum. */
 .mtz-wrap{display:flex;align-items:flex-start;margin-top:.9rem}
-table.mtz-fixa{flex:none;border-collapse:collapse}
+/* «width:auto» é obrigatório: a regra genérica «table{width:100%}», mais abaixo
+   neste ficheiro, apanhava também esta tabela — no computador os nomes ocupavam a
+   largura toda e a tabela dos dados ficava com zero. No telemóvel não se notava
+   porque a regra do ecrã estreito já lhe dá largura própria. */
+table.mtz-fixa{flex:none;border-collapse:collapse;width:auto}
 table.mtz-fixa th{font-weight:500;color:var(--texto-suave);padding:.3rem .35rem;
   text-align:left;white-space:nowrap;padding-right:.7rem;
   background:var(--superficie);box-shadow:1px 0 0 var(--borda)}
