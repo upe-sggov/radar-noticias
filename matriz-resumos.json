@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-25 20:30",
+ "gerado": "2026-09-26 12:43",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -387,6 +387,18 @@
    "n": 7,
    "pct": 50,
    "lado": "positivas"
+  },
+  "2026-09-25|Administração Interna": {
+   "texto": "No dia 25 de setembro de 2026, registaram-se múltiplos incidentes de segurança pública e criminalidade em todo o território nacional, com particular incidência em ocorrências de trânsito, detenções e incêndios. Destacam-se a agressão a um agente da GNR na Lousã, a detenção de indivíduos por furtos e tráfico, a identificação de um falso inspetor da PJ e a desarticulação de estruturas de cultivo de canábis. O tema dominante é, assim, a criminalidade e a segurança rodoviária, com ocorrências de perseguições, colisões e incêndios florestais.",
+   "n": 34,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-09-26|Defesa Nacional": {
+   "texto": "No dia 26 de setembro de 2026, a área da Defesa Nacional foi marcada por múltiplos acontecimentos de natureza diversa. Relativamente à política de defesa internacional, o Ministro dos Negócios Estrangeiros, João Gomes Cravinho, reiterou a sua oposição à aquisição de caças F-35, considerando-a um \"erro grave\" para Portugal. Paralelamente, o conflito no Médio Oriente continuou a gerar consequências, com o Pentágono a reportar mais 37 militares feridos em operações no Irão. Adicionalmente, verificou-se um incidente humanitário em Ceuta, com a descoberta de um acampamento de migrantes num túnel militar, e um desastre aéreo na República Democrática da Congo, resultando em 14 vítimas mortais, incluindo dois oficiais militares.",
+   "n": 10,
+   "pct": 83,
+   "lado": "negativas"
   }
  }
 }
