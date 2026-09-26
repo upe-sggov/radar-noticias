@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-26 17:39",
+ "gerado": "2026-09-26 22:27",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -388,10 +388,28 @@
    "pct": 50,
    "lado": "positivas"
   },
-  "2026-09-26|Presidência|+": {
-   "texto": "No dia 26 de setembro de 2026, o Papa visitou um centro de acolhimento a migrantes em Paris, tendo reiterado a importância do respeito pela dignidade humana durante a sua intervenção. A visita, que decorreu ao longo do dia, incluiu momentos de contacto direto com os acolhidos e um apelo público a favor da proteção dos direitos dos migrantes. O tema dominante associado a estes acontecimentos foi a defesa da dignidade humana e a promoção da solidariedade com as populações em situação de vulnerabilidade.",
+  "2026-09-26|Justiça": {
+   "texto": "No dia 26 de setembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza diversa. Voto: foi noticiado o possível cancelamento de e-Títulos no dia da votação. Criminal: foram decretadas medidas de coação, incluindo prisão preventiva, face a suspeitas de violação e crimes conexos, em São Miguel e em França. Político: Eduardo Bolsonaro foi condenado a um ano de prisão por difamação contra uma deputada, decisão confirmada por tribunais brasileiros e portugueses. Institucional: a provedoria das prisões identificou falhas num serviço de investigação de maus tratos a reclusos, e um tribunal recusou a reintegração da Anthropic no Pentágono. Tema dominante: condenações judiciais e decisões criminais.",
+   "n": 17,
+   "pct": 83,
+   "lado": "negativas"
+  },
+  "2026-09-26|Ambiente e Energia": {
+   "texto": "No dia 26 de setembro de 2026, não se registaram acontecimentos concretos na área governativa do Ambiente e Energia decorrentes da cobertura mediática negativa. Os títulos referem-se a temas distintos: um impacto económico de uma crise internacional, um incidente de segurança com um mergulhador, questões de resíduos em instalações desativadas e eventos eleitorais no estrangeiro. Não se identifica um tema dominante específico relacionado com o Ambiente e Energia.",
    "n": 6,
-   "pct": 64,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-09-26|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 26 de setembro de 2026, foram registados diversos acontecimentos na área da Cultura, Juventude e Desporto. A cineasta Inês Nunes foi distinguida com um prémio no Festival de Cinema de San Sebastián, enquanto a atriz Ana Vilaça recebeu o Prémio Melhor Atriz de Cinema, reforçando a visibilidade do cinema português. O programa INOV Contacto abriu 100 vagas para estágios no estrangeiro, promovendo a mobilidade de jovens e a sua integração no mercado de trabalho internacional. Adicionalmente, o artista plástico Beco inaugurou a exposição \"Antilike\" em Lisboa, e Miguel Vieira foi agraciado com a Medalha de Mérito Cultural, reconhecendo a sua contribuição para a cultura nacional. O tema dominante foi o reconhecimento e a promoção de talentos nacionais, tanto no cinema como nas artes plásticas e na cultura em geral.",
+   "n": 16,
+   "pct": 52,
+   "lado": "positivas"
+  },
+  "2026-09-26|Presidência|+": {
+   "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a um centro de acolhimento a migrantes em Paris, França, onde reiterou o seu apelo ao respeito pela dignidade humana. Durante a visita, o Papa dedicou especial atenção a este tema, proferindo declarações públicas sobre a importância de assegurar condições de acolhimento dignas para os migrantes. O evento, amplamente noticiado, serviu como um momento de reconhecimento público da vulnerabilidade dos migrantes e da responsabilidade coletiva na sua proteção. O tema dominante foi, assim, a defesa da dignidade humana e a proteção de pessoas em situação de vulnerabilidade.",
+   "n": 7,
+   "pct": 62,
    "lado": "positivas"
   }
  }
