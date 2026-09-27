@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-27 01:42",
+ "gerado": "2026-09-27 11:05",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -400,10 +400,16 @@
    "pct": 54,
    "lado": "positivas"
   },
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, a PSP realizou uma apreensão de 20 quilos de comida estragada num restaurante em Sintra, no âmbito de uma operação de fiscalização sanitária. Entretanto, um incêndio florestal na Chamusca mobilizou cerca de 270 bombeiros, encontrando-se ainda em fase de vigilância para evitar a sua propagação. Adicionalmente, a GNR registou mais de 2600 casos de abandono e maus-tratos a animais no período de 2024 a 2026, evidenciando um problema persistente no âmbito da proteção animal. O tema dominante destes acontecimentos é a segurança pública, abrangendo a saúde alimentar, a gestão de emergências e a proteção de animais.",
+   "n": 11,
+   "pct": 79,
+   "lado": "negativas"
+  },
   "2026-09-26|Presidência|+": {
-   "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a um centro de acolhimento a migrantes em Paris, França, onde reiterou o seu apelo ao respeito pela dignidade humana. Durante a visita, o Papa dedicou especial atenção a este tema, proferindo declarações públicas sobre a importância de assegurar condições de acolhimento dignas para os migrantes. O evento, amplamente noticiado, serviu como um momento de reconhecimento público da vulnerabilidade dos migrantes e da responsabilidade coletiva na sua proteção. O tema dominante foi, assim, a defesa da dignidade humana e a proteção de pessoas em situação de vulnerabilidade.",
+   "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a Paris, centrada na temática da dignidade humana e da acolhimento de migrantes. Durante a sua estadia, o Papa visitou uma casa de acolhimento de migrantes, onde proferiu declarações públicas sobre a importância do respeito pela dignidade das pessoas em situação de vulnerabilidade. A visita e as declarações do Papa foram noticiadas por diversos órgãos de comunicação social, enfatizando o seu apelo à proteção dos direitos humanos e à solidariedade com os migrantes. O tema dominante dos acontecimentos foi a defesa da dignidade humana e a promoção da inclusão social.",
    "n": 7,
-   "pct": 57,
+   "pct": 60,
    "lado": "positivas"
   }
  }
