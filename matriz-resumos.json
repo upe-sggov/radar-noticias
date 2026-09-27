@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-27 11:05",
+ "gerado": "2026-09-27 13:21",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -394,21 +394,33 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-09-26|Cultura, Juventude e Desporto|+": {
-   "texto": "No dia 26 de setembro de 2026, a área da Cultura, Juventude e Desporto registou uma série de reconhecimentos e iniciativas. David Esteves recebeu o Globo de Ouro pelo filme \"Entroncamento\", enquanto Inês Nunes foi premiada no Festival de Cinema de San Sebastián, e Ana Vilaça distinguida com o Prémio Melhor Atriz de Cinema. Paralelamente, Miguel Vieira foi agraciado com a Medalha de Mérito Cultural. No âmbito da juventude e inovação, o programa INOV Contacto anunciou 100 vagas para estágios no estrangeiro. O desporto beneficiou de reforços de infraestruturas na Ribeira Grande e da celebração da 10.ª edição do BioRace, com cerca de 5000 atletas participantes no Baixo Vouga. A nível cultural, destacaram-se a inauguração da exposição \"Antilike\" de Beco em Lisboa e a estreia do Festival Internacional de Cinema nos Açores. Adicionalmente, o Museu da Banana registou um crescimento de 25% e resultados positivos para a GESBA, e a pesca do peixe-espada preto foi alvo de proposta de reconhecimento como património cultural.",
-   "n": 19,
-   "pct": 54,
-   "lado": "positivas"
-  },
-  "2026-09-27|Administração Interna": {
-   "texto": "No dia 27 de setembro de 2026, a PSP realizou uma apreensão de 20 quilos de comida estragada num restaurante em Sintra, no âmbito de uma operação de fiscalização sanitária. Entretanto, um incêndio florestal na Chamusca mobilizou cerca de 270 bombeiros, encontrando-se ainda em fase de vigilância para evitar a sua propagação. Adicionalmente, a GNR registou mais de 2600 casos de abandono e maus-tratos a animais no período de 2024 a 2026, evidenciando um problema persistente no âmbito da proteção animal. O tema dominante destes acontecimentos é a segurança pública, abrangendo a saúde alimentar, a gestão de emergências e a proteção de animais.",
-   "n": 11,
-   "pct": 79,
-   "lado": "negativas"
-  },
   "2026-09-26|Presidência|+": {
    "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a Paris, centrada na temática da dignidade humana e da acolhimento de migrantes. Durante a sua estadia, o Papa visitou uma casa de acolhimento de migrantes, onde proferiu declarações públicas sobre a importância do respeito pela dignidade das pessoas em situação de vulnerabilidade. A visita e as declarações do Papa foram noticiadas por diversos órgãos de comunicação social, enfatizando o seu apelo à proteção dos direitos humanos e à solidariedade com os migrantes. O tema dominante dos acontecimentos foi a defesa da dignidade humana e a promoção da inclusão social.",
    "n": 7,
+   "pct": 60,
+   "lado": "positivas"
+  },
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, a Administração Interna registou múltiplos acontecimentos de natureza diversa. A GNR realizou diversas apreensões de veículos ilegalmente alterados em Setúbal e na Chamusca, associadas a concentrações de tuning e a um incêndio florestal que se encontrava em vigilância. Paralelamente, a PSP efetuou detenções em Mem Martins, após arremesso de pedras contra agentes policiais durante um festival, e apreendeu armas e substância ilícita numa discoteca em Lisboa. Adicionalmente, a Guarda Nacional Republicana e a Polícia de Segurança Pública detiveram indivíduos por tráfico de estupefacientes durante operações rodoviárias, apreenderam alimentos deteriorados num restaurante de Sintra e registaram um número elevado de casos de maus-tratos a animais, ultrapassando os 2.600 desde o início do ano. O tema dominante foi a atuação das forças de segurança em resposta a infrações criminais e situações de risco público.",
+   "n": 23,
+   "pct": 83,
+   "lado": "negativas"
+  },
+  "2026-09-27|Infraestruturas e Habitação": {
+   "texto": "No dia 27 de setembro de 2026, verificou-se um protesto de centenas de pessoas em Madrid, que acamparam no centro da cidade, nomeadamente na Porta do Sol, em oposição à crise habitacional. A contestação, sem data definida para a sua resolução, motivou a concentração de um número elevado de cidadãos espanhóis. O evento foi coberto por diversos meios de comunicação social, destacando a dimensão da mobilização face à situação habitacional em Espanha. O tema dominante associado aos títulos é a crise da habitação e as suas consequências sociais.",
+   "n": 8,
+   "pct": 77,
+   "lado": "negativas"
+  },
+  "2026-09-26|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 26 de setembro de 2026, a área da Cultura, Juventude e Desporto registou uma série de reconhecimentos e iniciativas. David Esteves recebeu o Globo de Ouro pelo filme \"Entroncamento\", enquanto Inês Nunes foi premiada no Festival de Cinema de San Sebastián, e Ana Vilaça distinguida com o Prémio Melhor Atriz de Cinema. Paralelamente, Miguel Vieira foi agraciado com a Medalha de Mérito Cultural. No âmbito da juventude e inovação, o programa INOV Contacto anunciou 100 vagas para estágios no estrangeiro. O desporto beneficiou de reforços de infraestruturas na Ribeira Grande e da celebração da 10.ª edição do BioRace, com cerca de 5000 atletas participantes no Baixo Vouga. A nível cultural, destacaram-se a inauguração da exposição \"Antilike\" de Beco em Lisboa e a estreia do Festival Internacional de Cinema nos Açores. Adicionalmente, o Museu da Banana registou um crescimento de 25% e resultados positivos para a GESBA, e a pesca do peixe-espada preto foi alvo de proposta de reconhecimento como património cultural.",
+   "n": 19,
+   "pct": 53,
+   "lado": "positivas"
+  },
+  "2026-09-27|Negócios Estrangeiros|+": {
+   "texto": "No dia 27 de setembro de 2026, a China concretizou o envio de dois pandas-gigantes para os Estados Unidos, no âmbito de um programa de cooperação ambiental e cultural. Paralelamente, a visita do Presidente chinês Xi Jinping aos EUA foi qualificada por Pequim como um “sinal positivo” para as relações bilaterais. No plano da saúde, Moçambique foi distinguido como Campeão Leap pela Gavi, reconhecendo o seu progresso na vacinação infantil, enquanto o Parlamento português alargou para dois anos a duração do estágio de especialização médica para profissionais da CPLP. O Brexit, por sua vez, motivou um aumento dos pedidos de nacionalidade britânica por parte de emigrantes portugueses. Não se identificou um tema dominante transversal a todos os acontecimentos.",
+   "n": 6,
    "pct": 60,
    "lado": "positivas"
   }
