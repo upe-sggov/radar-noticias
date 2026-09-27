@@ -1,23 +1,12 @@
 {
- "atualizado": "2026-09-27 17:55",
+ "atualizado": "2026-09-27 22:18",
  "dia": "2026-09-27",
- "corte": "17:55",
+ "corte": "22:18",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 17:55, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 22:18, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
- "momentum": [
-  {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 33,
-   "mediana": 31.5,
-   "limiar": 52.3,
-   "excesso": 1.5,
-   "variacao_pct": 5,
-   "dias_base": 28,
-   "tempestade": false
-  }
- ],
+ "momentum": [],
  "historico": [
   {
    "data": "2026-08-11",
