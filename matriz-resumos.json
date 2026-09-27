@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-27 18:03",
+ "gerado": "2026-09-27 22:47",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -376,40 +376,52 @@
    "pct": 75,
    "lado": "negativas"
   },
-  "2026-09-27|Administração Interna": {
-   "texto": "No dia 27 de setembro de 2026, a Administração Interna registou múltiplos acontecimentos de natureza diversa. A PSP e a GNR efetuaram intervenções em Lisboa e Sintra, incluindo o encerramento de uma discoteca por questões de higiene e a detenção de sete indivíduos por apedrejarem agentes policiais. Adicionalmente, foram apreendidos veículos ilegalmente alterados em Setúbal, num contexto de concentração de tuning. Paralelamente, a GNR reportou um aumento significativo de casos de maus-tratos a animais, ultrapassando os 2.600 registados desde 2024. Um incêndio florestal na Chamusca mobilizou cerca de 270 bombeiros. As ações de protesto da ASPP/PSP no Porto visaram a reivindicação de mais meios e efetivos.",
-   "n": 27,
-   "pct": 85,
+  "2026-09-26|Justiça": {
+   "texto": "No dia 26 de setembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza diversa. Voto: foi noticiado o possível cancelamento de e-Títulos no dia da votação. Criminal: foram decretadas medidas de coação, incluindo prisão preventiva, face a suspeitas de violação e crimes conexos, em São Miguel e em França. Político: Eduardo Bolsonaro foi condenado a um ano de prisão por difamação contra uma deputada, decisão confirmada por tribunais brasileiros e portugueses. Institucional: a provedoria das prisões identificou falhas num serviço de investigação de maus tratos a reclusos, e um tribunal recusou a reintegração da Anthropic no Pentágono. Tema dominante: condenações judiciais e decisões criminais.",
+   "n": 17,
+   "pct": 80,
    "lado": "negativas"
   },
-  "2026-09-27|Negócios Estrangeiros|+": {
-   "texto": "1. **Suíça**: O povo suíço rejeitou por larga maioria uma proposta legislativa que visava tornar mais rigorosa a neutralidade do país, confirmando o compromisso com uma política externa de neutralidade ativa e diálogo multilateral.\n\n2. **Cooperação sino-americana**: A República Popular da China enviou dois pandas-gigantes para os Estados Unidos, reforçando os laços diplomáticos e culturais entre os dois países.\n\n3. **Diplomacia e cooperação regional**: A visita do Presidente chinês Xi Jinping aos Estados Unidos foi qualificada como um “sinal positivo” para a cooperação bilateral e a estabilidade global.\n\n4. **Migração e identidade nacional**: O Brexit provocou um aumento significativo nos pedidos de nacionalidade britânica por parte de emigrantes portugueses, refletindo a importância da identidade e da ligação transatlântica.\n\n5. **Saúde global e desenvolvimento**: Moçambique foi distinguido como Campeão Leap da Gavi, reconhecendo o seu papel na promoção da vacinação infantil e na erradicação de doenças preveníveis.\n\n6. **Formação médica e cooperação lusófona**: O Parlamento português alargou para dois anos a duração do estágio de especialização médica para profissionais da CPLP, reforçando a cooperação técnica e a mobilidade profissional.",
-   "n": 8,
-   "pct": 64,
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas de atuação da Administração Interna. Destacam-se um acidente aéreo no aeroporto do Porto, com 14 feridos, e a identificação de um caso de homicídio no Estoril. No âmbito da segurança pública, a GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no contexto de operações contra o tráfico de combustível e de droga, e por infrações rodoviárias e de higiene em estabelecimentos de restauração. Adicionalmente, registaram-se incidentes de violência contra agentes da autoridade e ocorrências relacionadas com maus-tratos a animais, com a GNR a contabilizar mais de 2600 casos de abandono e maus-tratos desde 2024.",
+   "n": 33,
+   "pct": 84,
+   "lado": "negativas"
+  },
+  "2026-09-21|Economia e Coesão Territorial|+": {
+   "texto": "No dia 21 de setembro de 2026, foram registados diversos acontecimentos relevantes nas áreas da economia e coesão territorial. O Governo procedeu à permanência de apoios às artes e ofícios tradicionais, iniciados no âmbito do PRR, consolidando medidas de incentivo à economia cultural. A Lusíadas Saúde concretizou a inauguração de um novo hospital na Beloura, após um investimento de 40 milhões de euros, reforçando a capacidade do setor da saúde. Simultaneamente, a Navigator evidenciou uma redução de quase 300 mil toneladas de CO₂ através de projetos apoiados pelo PRR, demonstrando o impacto de iniciativas de sustentabilidade. Adicionalmente, o setor portuário assistiu a um desenvolvimento significativo com a implementação de portos maiores, novas marinas e navegação noturna no Douro, enquanto o Governo e a CCILC apoiaram empresas portuguesas na promoção de exportações para a China.",
+   "n": 24,
+   "pct": 53,
    "lado": "positivas"
   },
-  "2026-09-26|Justiça": {
-   "texto": "No dia 26 de setembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza diversa. Voto eletrónico: o e-Título poderá ter sido afetado, com potenciais baixas no dia da votação. Ação judicial: Eduardo Bolsonaro foi condenado a um ano de prisão por difamação contra uma deputada. Prisões preventivas: foram decretadas medidas de coação para suspeitos de crimes de violação e roubo, incluindo um caso nos Açores. Decisão judicial: o Tribunal do Irão confirmou uma condenação a chicotadas e proibição de cantar contra uma cantora, e um tribunal norte-americano recusou a reintegração da Anthropic no Pentágono.",
-   "n": 17,
-   "pct": 81,
-   "lado": "negativas"
-  },
   "2026-09-21|Agricultura e Mar|+": {
-   "texto": "1. A Fundação Nacional de Bussaco assumiu a coordenação de um projeto internacional de investigação sobre florestas terapêuticas, com o objetivo de promover o bem-estar através da interação com a natureza.  \n2. Foi divulgado um estudo científico que demonstra a eficácia das florestas terapêuticas, tendo a Floresta do Fanal, na Madeira, sido reconhecida como a mais encantadora da Europa.  \n3. A Comissão Europeia propôs novas regras para facilitar o acesso a financiamento para as pescas e aquicultura, visando o apoio ao setor.  \n4. Um investimento imobiliário de 10 milhões de euros foi realizado em Gaia, com a reconversão de uma antiga fábrica de pipas num complexo residencial, sem que, contudo, haja informação sobre a área governativa diretamente envolvida.  \n5. Um estudo divulgado nos EUA evidenciou que o regadio naquele país evita 363 vezes mais emissões de gases com efeito de estufa do que as emissões geradas pelo próprio sistema de rega.",
+   "texto": "1. A Fundação Nacional de Bussaco assumiu a coordenação de um projeto internacional de investigação sobre florestas terapêuticas, com base na Mata Nacional do Bussaco.  \n2. Foi formalizada a coordenação de um projeto científico europeu sobre florestas terapêuticas a partir da Estação de Investigação e Expérimentação Florestal do Bussaco.  \n3. A Floresta do Fanal, na Madeira, foi reconhecida como a floresta mais encantadora da Europa, num concurso internacional.  \n4. A Comissão Europeia propôs novas regras para facilitar o acesso ao financiamento para as pescas e a aquicultura, visando simplificar processos burocráticos.  \n\nTemas dominantes: investigação florestal e reconhecimento de património natural. Não foram reportados desenvolvimentos significativos no setor da agricultura ou da aquicultura em Portugal.",
    "n": 6,
-   "pct": 55,
+   "pct": 54,
    "lado": "positivas"
   },
   "2026-09-26|Cultura, Juventude e Desporto|+": {
-   "texto": "No dia 26 de setembro de 2026, foram registados múltiplos acontecimentos na área da Cultura, Juventude e Desporto. Destacaram-se a atribuição do Globo de Ouro a David Esteves, pela obra \"Entroncamento\", e o prémio de Melhor Atriz de Cinema a Ana Vilaça, ambos no âmbito do cinema. No âmbito do fomento da mobilidade juvenil, o programa INOV Contacto anunciou a abertura de cem vagas para estágios internacionais. No domínio do desporto, a BioRace, na sua décima edição, mobilizou cinco mil atletas no Baixo Vouga, enquanto Dinis Ferreira alcançou o segundo lugar no Campeonato do Mundo de Triatlo. Adicionalmente, a GESBA reportou um crescimento de 25% no Museu da Banana, e a Polícia Judiciária divulgou alertas sobre redes online que aliciam jovens para automutilação e violência.",
+   "texto": "No dia 26 de setembro de 2026, a área da Cultura, Juventude e Desporto registou múltiplos acontecimentos. O cineasta David Esteves recebeu o Globo de Ouro pelo filme \"Entroncamento\", enquanto Inês Nunes foi distinguida no Festival de Cinema de San Sebastián. A nível de prémios individuais, Ana Vilaça foi galardoada com o Prémio Melhor Atriz de Cinema. Paralelamente, o programa INOV Contacto abriu 100 vagas para estágios no estrangeiro, e Miguel Vieira recebeu a Medalha de Mérito Cultural. O tema dominante foi o reconhecimento de mérito artístico e cultural, bem como o fomento da atividade desportiva e a promoção de iniciativas juvenis e educativas.",
    "n": 19,
-   "pct": 58,
+   "pct": 53,
    "lado": "positivas"
   },
   "2026-09-26|Presidência|+": {
-   "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a Paris, centrada em temas de acolhimento e dignidade humana. O evento principal consistiu numa missa campal perante aproximadamente 800 mil fiéis, na qual o Papa enfatizou a procura de sentido e valorização da dignidade das pessoas. Adicionalmente, o Papa visitou um centro de acolhimento a migrantes na capital francesa, reiterando o apelo ao respeito pela dignidade humana e solidariedade para com as populações deslocadas. O tema dominante da cobertura mediática foi a defesa da dignidade humana e a promoção da inclusão social.",
+   "texto": "No dia 26 de setembro de 2026, o Papa Leão XIV realizou uma visita pastoral a Paris, centrada na temática da dignidade humana e da integração de migrantes. A visita incluiu a visita a um centro de acolhimento a migrantes, onde o Papa proferiu um apelo ao respeito pela dignidade humana, reiterado em diferentes órgãos de comunicação social. O evento, com impacto mediático significativo, serviu como um reconhecimento público do papel da Igreja Católica na defesa dos direitos dos migrantes e na promoção da inclusão social. O tema dominante da cobertura mediática foi, portanto, a defesa da dignidade humana e a atenção às populações migrantes.",
    "n": 7,
-   "pct": 58,
+   "pct": 60,
+   "lado": "positivas"
+  },
+  "2026-09-27|Cultura, Juventude e Desporto|+": {
+   "texto": "Em 27 de setembro de 2026, verificaram-se múltiplos acontecimentos nas áreas da cultura, juventude e desporto. O Museu da Terra de Miranda reabriu ao público, permitindo a fruição de um importante património cultural. No plano desportivo, Vasco Vilaça alcançou o título mundial de triatlo, enquanto o Clube de atletismo do Porto registou um recorde de atletas, reforçando a sua relevância no panorama nacional. Adicionalmente, a intervenção cirúrgica com enxerto de cadáver permitiu a reconstituição de estruturas ósseas de dois jovens, evidenciando avanços na medicina regenerativa.",
+   "n": 16,
+   "pct": 53,
+   "lado": "positivas"
+  },
+  "2026-09-27|Negócios Estrangeiros|+": {
+   "texto": "1. **Eleições em São Tomé e Príncipe**: São Tomé e Príncipe realizaram eleições legislativas, marcando um processo democrático no arquipélago.\n\n2. **Rejeição na Suíça de alteração à neutralidade**: A Suíça rejeitou por larga maioria uma proposta de tornar mais rígida a sua neutralidade, mantendo a sua postura de flexibilidade em matéria de política internacional.\n\n3. **Envio de pandas-gigantes da China para os EUA**: A China enviou dois pandas-gigantes para os Estados Unidos, num gesto de diplomacia e cooperação científica e cultural.\n\n4. **Visita de Xi aos EUA e avaliação positiva**: A visita do Presidente chinês Xi Jinping aos Estados Unidos foi qualificada como um “sinal positivo” por parte da China, no contexto das relações bilaterais.\n\n5. **Moçambique distinguido como Campeão Leap da Gavi**: Moçambique foi o primeiro país a receber o título de Campeão Leap da Gavi, reconhecendo o seu progresso na vacinação infantil.\n\n6. **Alargar estágio de médicos da CPLP para dois anos**: O Parlamento português aprovou o alargamento do período de estágio de especialização para médicos da Comunidade dos Países de Língua Portuguesa, para dois anos.\n\n**Tema dominante**: Diplomacia e cooperação internacional (envio de pandas, visita de Xi Jinping, relações bilaterais).",
+   "n": 9,
+   "pct": 53,
    "lado": "positivas"
   }
  }
