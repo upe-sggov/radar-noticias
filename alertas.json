@@ -1,29 +1,19 @@
 {
- "atualizado": "2026-09-27 10:43",
+ "atualizado": "2026-09-27 12:57",
  "dia": "2026-09-27",
- "corte": "10:43",
+ "corte": "12:57",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 10:43, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 12:57, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
    "area": "Administração Interna",
-   "hoje": 14,
-   "mediana": 12.5,
-   "limiar": 27.3,
-   "excesso": 1.5,
-   "variacao_pct": 12,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Agricultura e Mar",
-   "hoje": 6,
-   "mediana": 5.0,
-   "limiar": 13.0,
-   "excesso": 1.0,
-   "variacao_pct": 20,
+   "hoje": 29,
+   "mediana": 20.0,
+   "limiar": 39.3,
+   "excesso": 9.0,
+   "variacao_pct": 45,
    "dias_base": 28,
    "tempestade": false
   }
