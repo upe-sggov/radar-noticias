@@ -1,59 +1,80 @@
 {
- "atualizado": "2026-09-28 18:57",
+ "atualizado": "2026-09-28 21:32",
  "dia": "2026-09-28",
- "corte": "18:57",
+ "corte": "21:32",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 18:57, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 21:32, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
- "momentum": [
+ "tempestades": [
   {
    "area": "Economia e Coesão Territorial",
-   "hoje": 86,
-   "mediana": 58.5,
-   "limiar": 92.6,
-   "excesso": 27.5,
-   "variacao_pct": 47,
+   "hoje": 116,
+   "mediana": 66.5,
+   "limiar": 108.0,
+   "excesso": 49.5,
+   "variacao_pct": 74,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   },
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 59,
-   "mediana": 36.0,
-   "limiar": 59.7,
-   "excesso": 23.0,
-   "variacao_pct": 64,
+   "hoje": 77,
+   "mediana": 39.5,
+   "limiar": 67.7,
+   "excesso": 37.5,
+   "variacao_pct": 95,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
+  }
+ ],
+ "momentum": [
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 116,
+   "mediana": 66.5,
+   "limiar": 108.0,
+   "excesso": 49.5,
+   "variacao_pct": 74,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 77,
+   "mediana": 39.5,
+   "limiar": 67.7,
+   "excesso": 37.5,
+   "variacao_pct": 95,
+   "dias_base": 28,
+   "tempestade": true
   },
   {
    "area": "Negócios Estrangeiros",
-   "hoje": 47,
-   "mediana": 28.0,
-   "limiar": 51.7,
-   "excesso": 19.0,
-   "variacao_pct": 68,
+   "hoje": 54,
+   "mediana": 31.5,
+   "limiar": 59.7,
+   "excesso": 22.5,
+   "variacao_pct": 71,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Justiça",
-   "hoje": 55,
-   "mediana": 45.5,
-   "limiar": 101.8,
-   "excesso": 9.5,
-   "variacao_pct": 21,
+   "hoje": 67,
+   "mediana": 52.5,
+   "limiar": 114.8,
+   "excesso": 14.5,
+   "variacao_pct": 28,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Administração Interna",
-   "hoje": 50,
-   "mediana": 42.0,
-   "limiar": 71.7,
-   "excesso": 8.0,
-   "variacao_pct": 19,
+   "hoje": 59,
+   "mediana": 47.5,
+   "limiar": 83.1,
+   "excesso": 11.5,
+   "variacao_pct": 24,
    "dias_base": 28,
    "tempestade": false
   }
@@ -968,6 +989,20 @@
    "hoje": 39,
    "mediana": 19.0,
    "limiar": 32.3
+  },
+  {
+   "data": "2026-09-28",
+   "area": "Economia e Coesão Territorial",
+   "hoje": 116,
+   "mediana": 66.5,
+   "limiar": 108.0
+  },
+  {
+   "data": "2026-09-28",
+   "area": "Infraestruturas e Habitação",
+   "hoje": 77,
+   "mediana": 39.5,
+   "limiar": 67.7
   }
  ]
 }
