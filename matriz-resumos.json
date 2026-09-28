@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-27 22:47",
+ "gerado": "2026-09-28 01:43",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -382,12 +382,6 @@
    "pct": 80,
    "lado": "negativas"
   },
-  "2026-09-27|Administração Interna": {
-   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas de atuação da Administração Interna. Destacam-se um acidente aéreo no aeroporto do Porto, com 14 feridos, e a identificação de um caso de homicídio no Estoril. No âmbito da segurança pública, a GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no contexto de operações contra o tráfico de combustível e de droga, e por infrações rodoviárias e de higiene em estabelecimentos de restauração. Adicionalmente, registaram-se incidentes de violência contra agentes da autoridade e ocorrências relacionadas com maus-tratos a animais, com a GNR a contabilizar mais de 2600 casos de abandono e maus-tratos desde 2024.",
-   "n": 33,
-   "pct": 84,
-   "lado": "negativas"
-  },
   "2026-09-21|Economia e Coesão Territorial|+": {
    "texto": "No dia 21 de setembro de 2026, foram registados diversos acontecimentos relevantes nas áreas da economia e coesão territorial. O Governo procedeu à permanência de apoios às artes e ofícios tradicionais, iniciados no âmbito do PRR, consolidando medidas de incentivo à economia cultural. A Lusíadas Saúde concretizou a inauguração de um novo hospital na Beloura, após um investimento de 40 milhões de euros, reforçando a capacidade do setor da saúde. Simultaneamente, a Navigator evidenciou uma redução de quase 300 mil toneladas de CO₂ através de projetos apoiados pelo PRR, demonstrando o impacto de iniciativas de sustentabilidade. Adicionalmente, o setor portuário assistiu a um desenvolvimento significativo com a implementação de portos maiores, novas marinas e navegação noturna no Douro, enquanto o Governo e a CCILC apoiaram empresas portuguesas na promoção de exportações para a China.",
    "n": 24,
@@ -412,16 +406,28 @@
    "pct": 60,
    "lado": "positivas"
   },
-  "2026-09-27|Cultura, Juventude e Desporto|+": {
-   "texto": "Em 27 de setembro de 2026, verificaram-se múltiplos acontecimentos nas áreas da cultura, juventude e desporto. O Museu da Terra de Miranda reabriu ao público, permitindo a fruição de um importante património cultural. No plano desportivo, Vasco Vilaça alcançou o título mundial de triatlo, enquanto o Clube de atletismo do Porto registou um recorde de atletas, reforçando a sua relevância no panorama nacional. Adicionalmente, a intervenção cirúrgica com enxerto de cadáver permitiu a reconstituição de estruturas ósseas de dois jovens, evidenciando avanços na medicina regenerativa.",
-   "n": 16,
-   "pct": 53,
-   "lado": "positivas"
-  },
   "2026-09-27|Negócios Estrangeiros|+": {
    "texto": "1. **Eleições em São Tomé e Príncipe**: São Tomé e Príncipe realizaram eleições legislativas, marcando um processo democrático no arquipélago.\n\n2. **Rejeição na Suíça de alteração à neutralidade**: A Suíça rejeitou por larga maioria uma proposta de tornar mais rígida a sua neutralidade, mantendo a sua postura de flexibilidade em matéria de política internacional.\n\n3. **Envio de pandas-gigantes da China para os EUA**: A China enviou dois pandas-gigantes para os Estados Unidos, num gesto de diplomacia e cooperação científica e cultural.\n\n4. **Visita de Xi aos EUA e avaliação positiva**: A visita do Presidente chinês Xi Jinping aos Estados Unidos foi qualificada como um “sinal positivo” por parte da China, no contexto das relações bilaterais.\n\n5. **Moçambique distinguido como Campeão Leap da Gavi**: Moçambique foi o primeiro país a receber o título de Campeão Leap da Gavi, reconhecendo o seu progresso na vacinação infantil.\n\n6. **Alargar estágio de médicos da CPLP para dois anos**: O Parlamento português aprovou o alargamento do período de estágio de especialização para médicos da Comunidade dos Países de Língua Portuguesa, para dois anos.\n\n**Tema dominante**: Diplomacia e cooperação internacional (envio de pandas, visita de Xi Jinping, relações bilaterais).",
    "n": 9,
    "pct": 53,
+   "lado": "positivas"
+  },
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas da segurança pública e da administração interna. Destacam-se uma emergência aeronáutica no Aeroporto do Porto, com 14 passageiros assistidos, e um homicídio no Estoril. A GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no âmbito de operações contra o tráfico de combustível e de droga, e por infrações rodoviárias, incluindo veículos alterados e consumo de substâncias ilícitas. Adicionalmente, registaram-se casos de maus-tratos a animais, inspeções a estabelecimentos de restauração e eventos, e intervenções em contextos de distúrbios civis, como arremesso de objetos contra forças de segurança. O tema dominante é a atuação das forças de segurança em resposta a ilícitos criminais e situações de risco, bem como a fiscalização de estabelecimentos e eventos.",
+   "n": 33,
+   "pct": 83,
+   "lado": "negativas"
+  },
+  "2026-09-27|Presidência|+": {
+   "texto": "No dia 27 de setembro de 2026, a Polícia Marítima portuguesa efetuou dois resgates de migrantes em operações distintas: um ao largo da Mauritânia, salvando mais de 250 pessoas, incluindo menores, e outro no Mediterrâneo oriental, resgatando 33 migrantes sudaneses na Grécia. Adicionalmente, o Presidente do Governo, Pedro Sánchez, anunciou uma reforma da habitação para terça-feira, embora este anúncio não tenha sido objeto de cobertura noticiosa no conjunto de títulos disponíveis. O tema dominante dos acontecimentos noticiados é a ação de salvamento marítimo de migrantes.",
+   "n": 5,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-09-27|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 27 de setembro de 2026, a área da Cultura, Juventude e Desporto registou múltiplos acontecimentos de natureza distinta, mas com um tema dominante de reconhecimento e celebração de mérito. Destacam-se a vitória de Portugal no futebol frente à Noruega, com golos de Félix e Ramos, e o sucesso de atletas portugueses em competições internacionais, como Vasco Vilaça no triatlo e Djibrilo Iafa no judo paralímpico. Adicionalmente, verificou-se a reabertura do Museu da Terra de Miranda, com a inauguração prevista para outubro, e a expansão do acesso digital à história partilhada entre Portugal e Brasil por parte de uma biblioteca nos EUA. Estes eventos refletem um desempenho positivo e um impulso para o património cultural e desportivo.",
+   "n": 19,
+   "pct": 56,
    "lado": "positivas"
   }
  }
