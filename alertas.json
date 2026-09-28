@@ -1,12 +1,23 @@
 {
- "atualizado": "2026-09-27 22:18",
- "dia": "2026-09-27",
- "corte": "22:18",
+ "atualizado": "2026-09-28 01:28",
+ "dia": "2026-09-28",
+ "corte": "01:28",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 22:18, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 01:28, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
- "momentum": [],
+ "momentum": [
+  {
+   "area": "Negócios Estrangeiros",
+   "hoje": 2,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 1.0,
+   "variacao_pct": 100,
+   "dias_base": 28,
+   "tempestade": false
+  }
+ ],
  "historico": [
   {
    "data": "2026-08-11",
