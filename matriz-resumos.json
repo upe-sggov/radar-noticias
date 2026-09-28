@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-28 01:43",
+ "gerado": "2026-09-28 10:46",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -412,12 +412,6 @@
    "pct": 53,
    "lado": "positivas"
   },
-  "2026-09-27|Administração Interna": {
-   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas da segurança pública e da administração interna. Destacam-se uma emergência aeronáutica no Aeroporto do Porto, com 14 passageiros assistidos, e um homicídio no Estoril. A GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no âmbito de operações contra o tráfico de combustível e de droga, e por infrações rodoviárias, incluindo veículos alterados e consumo de substâncias ilícitas. Adicionalmente, registaram-se casos de maus-tratos a animais, inspeções a estabelecimentos de restauração e eventos, e intervenções em contextos de distúrbios civis, como arremesso de objetos contra forças de segurança. O tema dominante é a atuação das forças de segurança em resposta a ilícitos criminais e situações de risco, bem como a fiscalização de estabelecimentos e eventos.",
-   "n": 33,
-   "pct": 83,
-   "lado": "negativas"
-  },
   "2026-09-27|Presidência|+": {
    "texto": "No dia 27 de setembro de 2026, a Polícia Marítima portuguesa efetuou dois resgates de migrantes em operações distintas: um ao largo da Mauritânia, salvando mais de 250 pessoas, incluindo menores, e outro no Mediterrâneo oriental, resgatando 33 migrantes sudaneses na Grécia. Adicionalmente, o Presidente do Governo, Pedro Sánchez, anunciou uma reforma da habitação para terça-feira, embora este anúncio não tenha sido objeto de cobertura noticiosa no conjunto de títulos disponíveis. O tema dominante dos acontecimentos noticiados é a ação de salvamento marítimo de migrantes.",
    "n": 5,
@@ -428,6 +422,24 @@
    "texto": "No dia 27 de setembro de 2026, a área da Cultura, Juventude e Desporto registou múltiplos acontecimentos de natureza distinta, mas com um tema dominante de reconhecimento e celebração de mérito. Destacam-se a vitória de Portugal no futebol frente à Noruega, com golos de Félix e Ramos, e o sucesso de atletas portugueses em competições internacionais, como Vasco Vilaça no triatlo e Djibrilo Iafa no judo paralímpico. Adicionalmente, verificou-se a reabertura do Museu da Terra de Miranda, com a inauguração prevista para outubro, e a expansão do acesso digital à história partilhada entre Portugal e Brasil por parte de uma biblioteca nos EUA. Estes eventos refletem um desempenho positivo e um impulso para o património cultural e desportivo.",
    "n": 19,
    "pct": 56,
+   "lado": "positivas"
+  },
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas da segurança pública e da administração interna. Destacam-se uma emergência aeronáutica no Aeroporto do Porto, com 14 passageiros assistidos, e um homicídio no Estoril. A GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no âmbito de operações contra o tráfico de combustível e de droga, e por infrações rodoviárias, incluindo veículos alterados e combustíveis ilegais. Adicionalmente, foram registados casos de maus-tratos a animais, um incêndio florestal na Chamusca e um encerramento de uma discoteca em Lisboa por questões de higiene, com subsequentes detenções. O tema dominante é a atuação das forças de segurança em resposta a diversos tipos de criminalidade e incumprimento de normas.",
+   "n": 33,
+   "pct": 80,
+   "lado": "negativas"
+  },
+  "2026-09-28|Administração Interna": {
+   "texto": "No dia 28 de setembro de 2026, a Polícia de Segurança Pública (PSP) deteve menores evadidos de instituições de acolhimento durante uma operação de busca a um indivíduo em fuga, na área de Lisboa. Simultaneamente, a Guarda Nacional Republicana (GNR) efetuou a detenção de seis pessoas e apreendeu mais de quatro mil litros de combustível em Albufeira, no Algarve, num contexto de combate ao crime de contraordenação rodoviária e fraude fiscal. Adicionalmente, o Sindicato da PSP promoveu no Porto o primeiro de vários protestos a nível nacional, visando a reivindicação de valorização salarial e melhores condições de trabalho. O tema dominante da cobertura noticiosa foi a contestação laboral e a atuação das forças de segurança no âmbito da prevenção e repressão de ilícitos criminais.",
+   "n": 12,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-09-28|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 28 de setembro de 2026, a área da Cultura, Juventude e Desporto registou dois acontecimentos principais. A nível desportivo, a atleta Tamila Holub beneficiou de uma reforma das infraestruturas de piscinas, facilitando a sua preparação para competições de inverno. Paralelamente, no âmbito dos prémios MTV Video Music Awards, Taylor Swift foi reconhecida como a artista mais premiada da história, e a ministra da Cultura e o Presidente da República congratularam publicamente Vasco Vilaça pela sua distinção. Não se verificou qualquer outro evento relevante para a área governativa em questão.",
+   "n": 6,
+   "pct": 55,
    "lado": "positivas"
   }
  }
