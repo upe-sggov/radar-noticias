@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-29 10:52",
+ "gerado": "2026-09-29 13:54",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -430,10 +430,16 @@
    "pct": 50,
    "lado": "positivas"
   },
+  "2026-09-28|Assuntos Parlamentares": {
+   "texto": "No dia 28 de setembro de 2026, o caso das gémeas, objeto de uma Comissão Parlamentar de Inquérito (CPI), motivou declarações contraditórias entre o Ministério Público (MP) e o partido político Chega. O MP terá retirado a sua concordância com as conclusões da CPI, enquanto o partido Chega, liderado por André Ventura, afirmou que esta desautorização invalidava as conclusões parlamentares. Adicionalmente, a imprensa noticiou que a Roménia enfrentava alegações de interferência dos Estados Unidos na queda do seu primeiro-ministro, num contexto internacional relacionado com o caso.",
+   "n": 6,
+   "pct": 75,
+   "lado": "negativas"
+  },
   "2026-09-29|Ambiente e Energia|+": {
-   "texto": "Foram divulgados relatórios que confirmam que a qualidade da água da torneira em Portugal atingiu quase 100% de conformidade com os padrões de qualidade, após 11 anos de melhoria contínua, conforme destacado pelo Presidente da ERSAR. Paralelamente, o Governo português reiterou o compromisso de alcançar as metas europeias para energias renováveis até 2040, reforçando o seu plano de transição energética. Observou-se uma estabilização nos preços da eletricidade devido à expansão das renováveis, embora a dependência do gás natural continue a influenciar os preços finais. O tema dominante é o progresso na gestão da água e a transição energética.",
-   "n": 7,
-   "pct": 64,
+   "texto": "**Temas dominantes:** Ambição para políticas de renováveis e melhoria da qualidade da água.\n\n**Acontecimentos concretos:**\n\n1. **Política de renováveis:** Portugal, Espanha e Luxemburgo solicitaram à União Europeia uma meta ambiciosa para as energias renováveis até 2040, visando reduzir a dependência de combustíveis fósseis.\n\n2. **Qualidade da água:** A qualidade da água da torneira atingiu quase 100% de conformidade, segundo relatórios de diversas fontes noticiosas, após 11 anos de sucessivos esforços.\n\n3. **Energias renováveis e preços:** As energias renováveis impediram uma maior subida do preço da eletricidade, embora, na ausência de baterias, o gás continue a ter um peso preponderante nos preços finais.",
+   "n": 10,
+   "pct": 56,
    "lado": "positivas"
   }
  }
