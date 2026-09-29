@@ -1,49 +1,80 @@
 {
- "atualizado": "2026-09-29 02:42",
+ "atualizado": "2026-09-29 10:28",
  "dia": "2026-09-29",
- "corte": "02:42",
+ "corte": "10:28",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 02:42, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 10:28, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
- "momentum": [
+ "tempestades": [
   {
    "area": "Educação, Ciência e Inovação",
-   "hoje": 8,
-   "mediana": 5.0,
-   "limiar": 13.0,
-   "excesso": 3.0,
-   "variacao_pct": 60,
+   "hoje": 57,
+   "mediana": 25.5,
+   "limiar": 44.8,
+   "excesso": 31.5,
+   "variacao_pct": 124,
    "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Justiça",
-   "hoje": 5,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 2.0,
-   "variacao_pct": 67,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Defesa Nacional",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
-   "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   },
   {
    "area": "Administração Interna",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
+   "hoje": 30,
+   "mediana": 13.0,
+   "limiar": 27.8,
+   "excesso": 17.0,
+   "variacao_pct": 131,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
+ "momentum": [
+  {
+   "area": "Educação, Ciência e Inovação",
+   "hoje": 57,
+   "mediana": 25.5,
+   "limiar": 44.8,
+   "excesso": 31.5,
+   "variacao_pct": 124,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Administração Interna",
+   "hoje": 30,
+   "mediana": 13.0,
+   "limiar": 27.8,
+   "excesso": 17.0,
+   "variacao_pct": 131,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 17,
+   "mediana": 9.0,
+   "limiar": 17.9,
+   "excesso": 8.0,
+   "variacao_pct": 89,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Finanças",
+   "hoje": 21,
+   "mediana": 13.5,
+   "limiar": 31.3,
+   "excesso": 7.5,
+   "variacao_pct": 56,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 16,
+   "mediana": 10.5,
+   "limiar": 20.9,
+   "excesso": 5.5,
+   "variacao_pct": 52,
    "dias_base": 28,
    "tempestade": false
   }
@@ -972,6 +1003,20 @@
    "hoje": 77,
    "mediana": 39.5,
    "limiar": 67.7
+  },
+  {
+   "data": "2026-09-29",
+   "area": "Administração Interna",
+   "hoje": 30,
+   "mediana": 13.0,
+   "limiar": 27.8
+  },
+  {
+   "data": "2026-09-29",
+   "area": "Educação, Ciência e Inovação",
+   "hoje": 57,
+   "mediana": 25.5,
+   "limiar": 44.8
   }
  ]
 }
