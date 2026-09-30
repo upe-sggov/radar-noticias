@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-30 11:31",
+ "gerado": "2026-09-30 13:55",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -436,17 +436,17 @@
    "pct": 75,
    "lado": "negativas"
   },
-  "2026-09-30|Ambiente e Energia": {
-   "texto": "No dia 30 de setembro de 2026, registaram-se múltiplos acontecimentos relacionados com a área do Ambiente e Energia. A onda de calor extremo intensificou a poluição atmosférica, elevando os níveis de ozono e expondo milhões de pessoas a riscos para a saúde. Adicionalmente, verificou-se um aumento significativo nos preços da eletricidade e do gás na União Europeia, com um incremento de 22,8% e 88,4%, respetivamente, desde fevereiro. Por fim, fenómenos meteorológicos extremos associados ao El Niño, como cheias e secas, afetaram a América Latina, impactando cerca de 25,8 milhões de crianças.",
-   "n": 12,
-   "pct": 81,
-   "lado": "negativas"
-  },
   "2026-09-29|Ambiente e Energia|+": {
    "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento ambiental. A Maiambiente expandiu a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a economia circular. Paralelamente, Portugal, Espanha e Luxemburgo solicitaram à Comissão Europeia metas vinculativas para energias renováveis até 2040, com vista à redução da dependência de combustíveis fósseis. A qualidade da água da torneira atingiu quase 100%, conforme reportado por diversas fontes, embora persista a necessidade de melhorias em sistemas de abastecimento menores e fontanários.",
    "n": 17,
    "pct": 51,
    "lado": "positivas"
+  },
+  "2026-09-30|Defesa Nacional": {
+   "texto": "No dia 30 de setembro de 2026, a cobertura noticiosa focou-se predominantemente em eventos relacionados com a defesa nacional e a segurança internacional. Destacam-se acusações de \"tratamentos cruéis\" a detidos em Ceuta por parte de forças militares, um ataque russo a Kiev que resultou em mortos e feridos, e a destruição de uma fábrica de robôs militares na Estónia, atribuída à Rússia. Adicionalmente, registam-se exercícios militares em Taiwan e operações militares ucranianas, enquanto a Ucrânia enfrenta uma crise económica devido à guerra, com perdas financeiras estimadas em 40 milhões de euros por hora. Um tema dominante foi a escalada do conflito na Ucrânia e a resposta internacional, incluindo a estratégia de rearmamento europeu e a retirada de missões militares dos Estados Unidos.",
+   "n": 28,
+   "pct": 78,
+   "lado": "negativas"
   }
  }
 }
