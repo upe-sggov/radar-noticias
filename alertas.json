@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-09-30 16:15",
+ "atualizado": "2026-09-30 20:00",
  "dia": "2026-09-30",
- "corte": "16:15",
+ "corte": "20:00",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 16:15, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 20:00, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 81,
-   "mediana": 30.5,
-   "limiar": 58.7,
-   "excesso": 50.5,
-   "variacao_pct": 166,
+   "hoje": 114,
+   "mediana": 38.5,
+   "limiar": 71.1,
+   "excesso": 75.5,
+   "variacao_pct": 196,
    "dias_base": 28,
    "tempestade": true
   }
@@ -20,51 +20,51 @@
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 81,
-   "mediana": 30.5,
-   "limiar": 58.7,
-   "excesso": 50.5,
-   "variacao_pct": 166,
+   "hoje": 114,
+   "mediana": 38.5,
+   "limiar": 71.1,
+   "excesso": 75.5,
+   "variacao_pct": 196,
    "dias_base": 28,
    "tempestade": true
   },
   {
    "area": "Defesa Nacional",
-   "hoje": 63,
-   "mediana": 44.0,
-   "limiar": 67.7,
-   "excesso": 19.0,
-   "variacao_pct": 43,
+   "hoje": 90,
+   "mediana": 57.5,
+   "limiar": 94.6,
+   "excesso": 32.5,
+   "variacao_pct": 57,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 60,
-   "mediana": 46.5,
-   "limiar": 71.7,
-   "excesso": 13.5,
-   "variacao_pct": 29,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 44,
-   "mediana": 31.0,
-   "limiar": 51.8,
-   "excesso": 13.0,
-   "variacao_pct": 42,
+   "area": "Finanças",
+   "hoje": 58,
+   "mediana": 37.0,
+   "limiar": 77.0,
+   "excesso": 21.0,
+   "variacao_pct": 57,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Primeiro-Ministro",
-   "hoje": 22,
-   "mediana": 9.0,
-   "limiar": 26.8,
-   "excesso": 13.0,
-   "variacao_pct": 144,
+   "hoje": 36,
+   "mediana": 18.5,
+   "limiar": 49.6,
+   "excesso": 17.5,
+   "variacao_pct": 95,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Justiça",
+   "hoje": 66,
+   "mediana": 52.0,
+   "limiar": 117.2,
+   "excesso": 14.0,
+   "variacao_pct": 27,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1018,9 +1018,9 @@
   {
    "data": "2026-09-30",
    "area": "Infraestruturas e Habitação",
-   "hoje": 81,
-   "mediana": 30.5,
-   "limiar": 58.7
+   "hoje": 114,
+   "mediana": 38.5,
+   "limiar": 71.1
   }
  ]
 }
