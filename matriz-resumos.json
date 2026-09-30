@@ -1,5 +1,5 @@
 {
- "gerado": "2026-09-29 20:47",
+ "gerado": "2026-09-30 11:31",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -436,10 +436,16 @@
    "pct": 75,
    "lado": "negativas"
   },
+  "2026-09-30|Ambiente e Energia": {
+   "texto": "No dia 30 de setembro de 2026, registaram-se múltiplos acontecimentos relacionados com a área do Ambiente e Energia. A onda de calor extremo intensificou a poluição atmosférica, elevando os níveis de ozono e expondo milhões de pessoas a riscos para a saúde. Adicionalmente, verificou-se um aumento significativo nos preços da eletricidade e do gás na União Europeia, com um incremento de 22,8% e 88,4%, respetivamente, desde fevereiro. Por fim, fenómenos meteorológicos extremos associados ao El Niño, como cheias e secas, afetaram a América Latina, impactando cerca de 25,8 milhões de crianças.",
+   "n": 12,
+   "pct": 81,
+   "lado": "negativas"
+  },
   "2026-09-29|Ambiente e Energia|+": {
-   "texto": "No dia 29 de setembro de 2026, Portugal, Espanha e Luxemburgo apresentaram, em conjunto, uma solicitação à União Europeia para a definição de metas vinculativas para energias renováveis até 2040, visando a redução da dependência de combustíveis fósseis. Simultaneamente, a Maiambiente alargou a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a gestão de resíduos urbanos e a economia circular. Adicionalmente, um relatório independente confirmou que a qualidade da água da torneira em todo o território nacional atingiu quase 100%, um indicador de sucesso da política de saneamento e abastecimento de água. O tema dominante dos acontecimentos reportados foi o avanço das políticas ambientais e energéticas, com foco na sustentabilidade e na transição para uma economia circular.",
-   "n": 14,
-   "pct": 50,
+   "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento ambiental. A Maiambiente expandiu a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a economia circular. Paralelamente, Portugal, Espanha e Luxemburgo solicitaram à Comissão Europeia metas vinculativas para energias renováveis até 2040, com vista à redução da dependência de combustíveis fósseis. A qualidade da água da torneira atingiu quase 100%, conforme reportado por diversas fontes, embora persista a necessidade de melhorias em sistemas de abastecimento menores e fontanários.",
+   "n": 17,
+   "pct": 51,
    "lado": "positivas"
   }
  }
