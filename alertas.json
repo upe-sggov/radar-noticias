@@ -1,59 +1,80 @@
 {
- "atualizado": "2026-10-01 02:12",
+ "atualizado": "2026-10-01 11:25",
  "dia": "2026-10-01",
- "corte": "02:12",
+ "corte": "11:25",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 02:12, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:25, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
- "momentum": [
-  {
-   "area": "Saúde",
-   "hoje": 7,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 6.0,
-   "variacao_pct": 600,
-   "dias_base": 28,
-   "tempestade": false
-  },
+ "tempestades": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 4,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 3.0,
-   "variacao_pct": 300,
+   "hoje": 30,
+   "mediana": 11.5,
+   "limiar": 24.8,
+   "excesso": 18.5,
+   "variacao_pct": 161,
    "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 5,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 2.0,
-   "variacao_pct": 67,
-   "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   },
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 4,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 2.0,
-   "variacao_pct": 100,
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 17.5,
+   "variacao_pct": 130,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
+ "momentum": [
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 30,
+   "mediana": 11.5,
+   "limiar": 24.8,
+   "excesso": 18.5,
+   "variacao_pct": 161,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 17.5,
+   "variacao_pct": 130,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 33,
+   "mediana": 23.0,
+   "limiar": 46.7,
+   "excesso": 10.0,
+   "variacao_pct": 43,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Saúde",
+   "hoje": 24,
+   "mediana": 14.5,
+   "limiar": 29.3,
+   "excesso": 9.5,
+   "variacao_pct": 66,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Defesa Nacional",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "hoje": 28,
+   "mediana": 22.0,
+   "limiar": 35.3,
+   "excesso": 6.0,
+   "variacao_pct": 27,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1010,6 +1031,20 @@
    "hoje": 115,
    "mediana": 40.5,
    "limiar": 73.1
+  },
+  {
+   "data": "2026-10-01",
+   "area": "Infraestruturas e Habitação",
+   "hoje": 30,
+   "mediana": 11.5,
+   "limiar": 24.8
+  },
+  {
+   "data": "2026-10-01",
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8
   }
  ]
 }
