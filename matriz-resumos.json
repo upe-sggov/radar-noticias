@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-03 11:28",
+ "gerado": "2026-10-03 12:49",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -451,8 +451,14 @@
   "2026-10-03|Saúde": {
    "texto": "No dia 2026-10-03, a cobertura mediática da área da saúde foi predominantemente negativa, centrando-se em três tipos de ocorrências. Relata-se um prejuízo de 180 mil euros nos cuidados continuados de longa duração, conforme noticiado pelo Observador em múltiplas edições. Adicionalmente, regista-se um incidente com um indivíduo, Tiago Grila, desmaiado num hotel, com danos materiais, conforme noticiado pelo Nascer do Sol. Por fim, a ausência de registo de mortes por desnutrição em São Tomé e Príncipe é referida como uma alteração positiva, embora não constitua um evento de prejuízo direto. A cobertura negativa concentra-se, portanto, em problemas de gestão e financeiros nos cuidados continuados.",
    "n": 9,
-   "pct": 90,
+   "pct": 91,
    "lado": "negativas"
+  },
+  "2026-10-03|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 3 de outubro de 2026, o Centro Cultural de Belém acolheu o espetáculo do grupo musical Big Bang, marcando uma presença notável na programação cultural da instituição. No âmbito do desporto escolar, atletas portugueses alcançaram resultados de destaque em competições internacionais, evidenciando o desenvolvimento de talentos emergentes. Paralelamente, três artistas brasileiros foram galardoados com prémios atribuídos pela Associação de Críticos de Arte nos Estados Unidos, reconhecendo a qualidade e o impacto da sua obra. O tema dominante dos acontecimentos reportados é o reconhecimento internacional de artistas e atletas portugueses, bem como o apoio ao talento emergente, refletindo uma dinâmica positiva na área da cultura e do desporto.",
+   "n": 5,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
