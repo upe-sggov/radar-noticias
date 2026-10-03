@@ -1,53 +1,12 @@
 {
- "atualizado": "2026-10-03 11:15",
+ "atualizado": "2026-10-03 12:35",
  "dia": "2026-10-03",
- "corte": "11:15",
+ "corte": "12:35",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 11:15, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 12:35, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
- "momentum": [
-  {
-   "area": "Justiça",
-   "hoje": 16,
-   "mediana": 14.5,
-   "limiar": 36.7,
-   "excesso": 1.5,
-   "variacao_pct": 10,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 23,
-   "mediana": 22.0,
-   "limiar": 42.8,
-   "excesso": 1.0,
-   "variacao_pct": 5,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Agricultura e Mar",
-   "hoje": 8,
-   "mediana": 7.5,
-   "limiar": 17.9,
-   "excesso": 0.5,
-   "variacao_pct": 7,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Primeiro-Ministro",
-   "hoje": 7,
-   "mediana": 6.5,
-   "limiar": 19.8,
-   "excesso": 0.5,
-   "variacao_pct": 8,
-   "dias_base": 28,
-   "tempestade": false
-  }
- ],
+ "momentum": [],
  "historico": [
   {
    "data": "2026-08-11",
