@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-04 01:46",
+ "gerado": "2026-10-04 12:48",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -442,12 +442,6 @@
    "pct": 80,
    "lado": "negativas"
   },
-  "2026-10-03|Saúde": {
-   "texto": "No dia 2026-10-03, a cobertura noticiosa da área da Saúde focou-se predominantemente em eventos relacionados com a gestão de cuidados continuados e incidentes hospitalares. Destacam-se prejuízos financeiros de 180 mil euros registados nos cuidados continuados de longa duração, bem como a situação de Tiago Grila, que foi hospitalizado após um incidente num hotel. Adicionalmente, a cobertura incluiu notícias sobre a gestão de recursos humanos, nomeadamente a portaria dos honorários profissionais, e a suspensão de campanhas de vacinação em países como Angola. Não se identificam casos ou decisões concretas que justifiquem um tema dominante distinto para além destes.",
-   "n": 13,
-   "pct": 82,
-   "lado": "negativas"
-  },
   "2026-09-27|Cultura, Juventude e Desporto|+": {
    "texto": "No âmbito da área governamental da Cultura, Juventude e Desporto, registaram-se diversos acontecimentos notáveis. Destaca-se a vitória de Portugal frente à Noruega no futebol, com golos de Félix e Ramos, e a conquista de Vasco Vilaça no campeonato mundial de triatlo. Adicionalmente, jovens portugueses alcançaram reconhecimento internacional no Mundial das Profissões, sendo elogiados pela sua dedicação. No domínio do património cultural, o Museu da Terra de Miranda reabriu ao público em outubro, após um período de encerramento.",
    "n": 19,
@@ -459,6 +453,18 @@
    "n": 17,
    "pct": 51,
    "lado": "positivas"
+  },
+  "2026-10-04|Defesa Nacional": {
+   "texto": "No dia 2026-10-04, a área da Defesa Nacional registou múltiplos acontecimentos, predominantemente relacionados com a situação geopolítica e militar na Ucrânia e no Irão. O Irão reiterou avisos sobre a impossibilidade de uma solução militar para o conflito, defendendo uma abordagem diplomática, e um drone russo atingiu uma ponte em Kiev durante uma visita do chanceler alemão, causando feridos e danos. Paralelamente, a cobertura mediática focou-se em desenvolvimentos internos, nomeadamente a dispensa de um jogador do Benfica, a partilha ilegal de conteúdos jornalísticos por militares e um protesto do Japão perante detenções de militares nos Estados Unidos.",
+   "n": 12,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-10-04|Administração Interna": {
+   "texto": "No dia 2026-10-04, registaram-se múltiplos acontecimentos na área da Administração Interna. A nível internacional, verificou-se uma crise diplomática entre a Índia e o Paquistão, motivada por um incidente na fronteira. A nível nacional, a polícia de Ceuta desencadeou uma operação para desmantelar um acampamento numa situação de tensão. Adicionalmente, a GNR realizou apreensões de combustível em Aljezur e Albufeira, apreendendo um total de 3.750 litros, incluindo a apreensão de um veículo. Em Ponte do Rol, ocorreu uma colisão entre veículos ligeiros, resultando em quatro feridos graves. Por fim, registou-se um aumento da criminalidade juvenil, com um incremento de ocorrências no primeiro semestre do ano, tendo também sido noticiado um aumento de delitos no meio digital.",
+   "n": 7,
+   "pct": 78,
+   "lado": "negativas"
   }
  }
 }
