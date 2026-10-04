@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-03 22:25",
+ "gerado": "2026-10-04 01:46",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -412,12 +412,6 @@
    "pct": 83,
    "lado": "negativas"
   },
-  "2026-10-03|Saúde": {
-   "texto": "No dia 2026-10-03, a área da Saúde registou múltiplos acontecimentos, predominantemente relacionados com problemas nos cuidados continuados. Destacam-se prejuízos de 180 mil euros na longa duração, com registo de ocorrências em diferentes momentos do dia. Adicionalmente, verificou-se um incidente de saúde pública envolvendo Tiago Grila, que foi internado em estado grave após desmaio num hotel. Por outro lado, a cobertura mediática focou-se também em questões administrativas, nomeadamente a portaria dos honorários dos tarefeiros, e em desafios internacionais, como o adiamento da campanha de vacinação em Angola.",
-   "n": 12,
-   "pct": 81,
-   "lado": "negativas"
-  },
   "2026-10-03|Agricultura e Mar|+": {
    "texto": "1. O governo português e os Estados Unidos reforçaram a cooperação em áreas estratégicas para o setor agrícola, através de um encontro entre o Ministro da Agricultura e o Presidente Trump.\n\n2. A Associação de Produtores Agrícolas e Pescas da Região Autónoma dos Açores (APPAA) declarou a urgência de limpar as bermas das estradas e as ribeiras para prevenir cheias, numa resposta a eventos climáticos recentes.\n\n3. A Câmara Municipal de Santa Cruz, na Madeira, lançou dois novos apoios financeiros aos agricultores, visando mitigar os efeitos da seca e promover a resiliência do setor.\n\n4. O Governo da República anunciou a retirada de 162 milhões de euros do investimento inicial previsto para a Política Agrícola Comum (PAC) no orçamento da União Europeia, com o objetivo de reforçar o rendimento dos agricultores.\n\n5. Vinte e seis líderes europeus, incluindo Luís Montenegro, comprometeram-se a rejeitar novos cortes na PAC no orçamento da União Europeia, defendendo a manutenção do apoio financeiro ao setor agrícola.\n\nTema dominante: Reforço do apoio ao setor agrícola, tanto a nível nacional como europeu, face aos desafios climáticos e económicos.",
    "n": 5,
@@ -428,18 +422,6 @@
    "texto": "No dia 26 de setembro de 2026, foram registados múltiplos acontecimentos de natureza judicial e prisional. Destacam-se a votação do e-Título com potencial invalidação no dia da eleição, a condenação de Eduardo Bolsonaro a um ano de prisão por difamação contra uma deputada, e a prisão preventiva de um suspeito de violação em São Miguel. Adicionalmente, verificou-se a recusa em reintegrar a Anthropic no Pentágono, escutas no âmbito de investigações a suspeitos e a prisão preventiva de um cidadão português por homicídio em França. O tema dominante é a condenação de figuras públicas e a resolução de casos criminais graves.",
    "n": 17,
    "pct": 81,
-   "lado": "negativas"
-  },
-  "2026-09-27|Administração Interna": {
-   "texto": "No dia 27 de setembro de 2026, ocorreram múltiplos incidentes de natureza diversa nas áreas de atuação da Administração Interna, evidenciando desafios operacionais e de segurança pública. Destacam-se uma emergência aeronáutica no Aeroporto do Porto, com a aterragem forçada de uma aeronave e assistência a 14 passageiros; um caso de homicídio no Estoril; e operações da GNR e PSP que resultaram na apreensão de combustível e veículos ilegalmente alterados, bem como no encerramento de estabelecimentos por questões de higiene e segurança. Adicionalmente, registaram-se detenções em contextos de desordem pública, como confrontos com forças de segurança e eventos musicais, e foram identificados locais de tráfico de droga. O tema dominante é a ocorrência de incidentes de segurança pública e infrações criminais, com particular incidência em áreas urbanas e durante eventos de grande concentração.",
-   "n": 33,
-   "pct": 77,
-   "lado": "negativas"
-  },
-  "2026-09-30|Defesa Nacional": {
-   "texto": "No dia 2026-09-30, a área da Defesa Nacional registou múltiplos acontecimentos de cariz internacional e interno. Destacam-se a confirmação de fortes indícios de envolvimento iraniano num atentado falhado contra uma base militar britânica, a intensificação dos bombardeamentos russos na Ucrânia com ataques ao sistema energético, e a ameaça de recurso a armas nucleares por parte da Rússia se Kaliningrado fosse isolada. Adicionalmente, verificou-se um aumento de ingressos na Escola Naval e a acusação de militares de tortura em Ceuta pela Amnistia Internacional.",
-   "n": 61,
-   "pct": 75,
    "lado": "negativas"
   },
   "2026-09-26|Cultura, Juventude e Desporto|+": {
@@ -454,16 +436,28 @@
    "pct": 58,
    "lado": "positivas"
   },
+  "2026-09-27|Administração Interna": {
+   "texto": "No dia 27 de setembro de 2026, registaram-se múltiplos incidentes de segurança pública e fiscalização em diversas regiões de Portugal. Destacam-se uma emergência aeronáutica no aeroporto do Porto, com 14 passageiros assistidos após uma aterragem de emergência, e um incêndio florestal na Chamusca que mobilizou cerca de 270 bombeiros. A GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no contexto de operações relacionadas com tráfico de combustível e droga, veículos ilegalmente alterados em concentrações de tuning, e apreensão de armas e substâncias ilícitas em discotecas. Adicionalmente, foram registados casos de maus-tratos a animais, com a GNR a contabilizar mais de 2.600 ocorrências desde 2024, e ações de fiscalização em estabelecimentos de restauração, com apreensão de alimentos deteriorados. O tema dominante é a atuação das forças de segurança em resposta a ocorrências de criminalidade, desordem pública e infrações rodoviárias.",
+   "n": 33,
+   "pct": 80,
+   "lado": "negativas"
+  },
+  "2026-10-03|Saúde": {
+   "texto": "No dia 2026-10-03, a cobertura noticiosa da área da Saúde focou-se predominantemente em eventos relacionados com a gestão de cuidados continuados e incidentes hospitalares. Destacam-se prejuízos financeiros de 180 mil euros registados nos cuidados continuados de longa duração, bem como a situação de Tiago Grila, que foi hospitalizado após um incidente num hotel. Adicionalmente, a cobertura incluiu notícias sobre a gestão de recursos humanos, nomeadamente a portaria dos honorários profissionais, e a suspensão de campanhas de vacinação em países como Angola. Não se identificam casos ou decisões concretas que justifiquem um tema dominante distinto para além destes.",
+   "n": 13,
+   "pct": 82,
+   "lado": "negativas"
+  },
   "2026-09-27|Cultura, Juventude e Desporto|+": {
-   "texto": "No domínio da cultura e juventude, registaram-se dois acontecimentos notáveis: a reabertura, prevista para outubro, do Museu da Terra de Miranda, após intervenção de restauro, e a distinção de jovens portugueses no Mundial das Profissões, com reconhecimento público por parte do Ministro da Juventude e do Desporto. No âmbito do desporto, Portugal alcançou vitórias significativas, nomeadamente a vitória sobre a Noruega em futebol, com golos de Félix e Ramos, e a conquista do título mundial de triatlo por Vasco Vilaça. Adicionalmente, foram noticiados avanços médicos inovadores, como a aplicação de uma nova técnica com enxerto de cadáver na reconstrução óssea de jovens atletas, e o reforço do estatuto desportivo nacional com a medalha de bronze de Djibrilo Iafa no Mundial de Judo Paralímpico IBSA.",
+   "texto": "No âmbito da área governamental da Cultura, Juventude e Desporto, registaram-se diversos acontecimentos notáveis. Destaca-se a vitória de Portugal frente à Noruega no futebol, com golos de Félix e Ramos, e a conquista de Vasco Vilaça no campeonato mundial de triatlo. Adicionalmente, jovens portugueses alcançaram reconhecimento internacional no Mundial das Profissões, sendo elogiados pela sua dedicação. No domínio do património cultural, o Museu da Terra de Miranda reabriu ao público em outubro, após um período de encerramento.",
    "n": 19,
-   "pct": 59,
+   "pct": 56,
    "lado": "positivas"
   },
   "2026-09-29|Ambiente e Energia|+": {
-   "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos no âmbito do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, promovendo a coesão social e a sustentabilidade urbana. Paralelamente, Portugal, Espanha e Luxemburgo solicitaram à União Europeia o estabelecimento de metas ambiciosas para energias renováveis até 2040, reforçando o compromisso com a transição energética e a redução da dependência de combustíveis fósseis. Adicionalmente, a Maiambiente expandiu a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, contribuindo para a economia circular e a gestão sustentável de recursos. O tema dominante foi a concretização de objetivos de sustentabilidade ambiental e energética, com particular destaque para a melhoria da qualidade da água da torneira e o desenvolvimento de políticas de energias renováveis.",
+   "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento ambiental. Portugal, Espanha e Luxemburgo solicitaram à União Europeia a definição de metas ambiciosas para energias renováveis até 2040, visando a redução da dependência de combustíveis fósseis. Simultaneamente, a Maiambiente alargou a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a gestão de resíduos urbanos. A qualidade da água da torneira atingiu quase 100%, conforme confirmado por múltiplos relatórios oficiais, embora persista a necessidade de intervenções em sistemas de abastecimento de pequena dimensão e fontanários.",
    "n": 17,
-   "pct": 50,
+   "pct": 51,
    "lado": "positivas"
   }
  }
