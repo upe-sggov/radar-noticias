@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-04 23:47",
+ "gerado": "2026-10-05 01:50",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -430,22 +430,10 @@
    "pct": 58,
    "lado": "positivas"
   },
-  "2026-10-04|Administração Interna": {
-   "texto": "No dia 2026-10-04, a GNR realizou diversas apreensões e detenções relacionadas com criminalidade, nomeadamente no âmbito da segurança pública e combate ao crime. Foram apreendidas lanchas e combustível em Aljezur e Albufeira, um barco e combustível em Albufeira, e 3.400 litros de combustível em Aljezur. Adicionalmente, a GNR apreendeu mais de 69.000 doses de droga no Ribatejo, resultando na detenção de 27 pessoas, e registou um aumento de 11,6% na criminalidade juvenil, com maior incidência de crimes digitais. O tema dominante é o combate à criminalidade, abrangendo apreensões de droga, detenções e o aumento de atos ilícitos no meio digital.",
-   "n": 12,
-   "pct": 75,
-   "lado": "negativas"
-  },
   "2026-09-27|Administração Interna": {
    "texto": "No dia 27 de setembro de 2026, registaram-se múltiplos incidentes de segurança pública e fiscalização em diversas regiões de Portugal. Destacam-se uma emergência aeronáutica no aeroporto do Porto, com 14 passageiros assistidos após uma aterragem de emergência, e um incêndio florestal na Chamusca que mobilizou cerca de 270 bombeiros. A GNR e a PSP efetuaram diversas detenções e apreensões, nomeadamente no contexto de operações relacionadas com tráfico de combustível e droga, veículos ilegalmente alterados em concentrações de tuning, e apreensão de armas e substâncias ilícitas em discotecas. Adicionalmente, foram registados casos de maus-tratos a animais, com a GNR a contabilizar mais de 2.600 ocorrências desde 2024, e ações de fiscalização em estabelecimentos de restauração, com apreensão de alimentos deteriorados. O tema dominante é a atuação das forças de segurança em resposta a ocorrências de criminalidade, desordem pública e infrações rodoviárias.",
    "n": 33,
    "pct": 77,
-   "lado": "negativas"
-  },
-  "2026-09-30|Defesa Nacional": {
-   "texto": "No dia 30 de setembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e geopolítica. Destacam-se a confirmação por parte do Reino Unido de suspeitas de envolvimento iraniano num atentado falhado contra uma base militar britânica, a intensificação dos bombardeamentos russos na Ucrânia com ataques ao sistema energético, e a ameaça da Rússia de recurso a armas nucleares caso Kaliningrado seja isolada. Adicionalmente, registou-se a co-liderança por Elon Musk de um projeto de inteligência artificial militar dos Estados Unidos, a aceleração de um sistema de armas russo rival ao Starlink, e a formalização da retirada de missões militares americanas do Iraque.",
-   "n": 61,
-   "pct": 75,
    "lado": "negativas"
   },
   "2026-09-27|Cultura, Juventude e Desporto|+": {
@@ -454,10 +442,16 @@
    "pct": 59,
    "lado": "positivas"
   },
+  "2026-10-04|Saúde": {
+   "texto": "No dia 2026-10-04, registaram-se múltiplos acontecimentos na área da saúde e segurança pública. Quatro hospitais na Sibéria foram colocados em quarentena devido a um óbito suspeito de peste, enquanto a Catalunha enfrentou alertas máximos devido a inundações que afetaram infraestruturas hospitalares e o sistema de metro. Adicionalmente, um incêndio num prédio em Rio Tinto, distrito do Porto, causou o desalojamento de 22 pessoas e ferimentos a um bombeiro. Paralelamente, verificou-se um incidente de esfaqueamento e roubo nos Restauradores, em Lisboa, afetando a segurança pública. O tema dominante, embora não exclusivamente ligado à saúde, foi a emergência sanitária e de segurança decorrente de fenómenos naturais e incidentes violentos.",
+   "n": 8,
+   "pct": 75,
+   "lado": "negativas"
+  },
   "2026-09-29|Ambiente e Energia|+": {
-   "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento ambiental. Portugal, Espanha e Luxemburgo solicitaram à União Europeia a definição de metas ambiciosas para energias renováveis até 2040, visando a redução da dependência de combustíveis fósseis. Simultaneamente, a Maiambiente alargou a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a gestão de resíduos urbanos. A qualidade da água da torneira atingiu quase 100%, conforme confirmado por múltiplos relatórios oficiais, embora persista a necessidade de intervenções em sistemas de abastecimento de pequena dimensão e fontanários.",
+   "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos concretos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento municipal. A Maiambiente alargou a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a economia circular. Paralelamente, Portugal, Espanha e Luxemburgo solicitaram à Comissão Europeia metas vinculativas para energias renováveis até 2040, visando a redução da dependência de combustíveis fósseis. Adicionalmente, um relatório consolidou que a qualidade da água da torneira em todo o território nacional atingiu quase a totalidade, sendo este o tema dominante em torno da melhoria da infraestrutura hídrica.",
    "n": 17,
-   "pct": 50,
+   "pct": 51,
    "lado": "positivas"
   }
  }
