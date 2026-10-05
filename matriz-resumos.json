@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-05 01:50",
+ "gerado": "2026-10-05 15:48",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -452,6 +452,18 @@
    "texto": "No dia 29 de setembro de 2026, foram noticiados diversos acontecimentos concretos na área do Ambiente e Energia. O Grupo Casais iniciou a construção de 75 habitações de arrendamento acessível em Guimarães, com financiamento municipal. A Maiambiente alargou a recolha seletiva de resíduos alimentares a mais de 25 mil habitações, reforçando a economia circular. Paralelamente, Portugal, Espanha e Luxemburgo solicitaram à Comissão Europeia metas vinculativas para energias renováveis até 2040, visando a redução da dependência de combustíveis fósseis. Adicionalmente, um relatório consolidou que a qualidade da água da torneira em todo o território nacional atingiu quase a totalidade, sendo este o tema dominante em torno da melhoria da infraestrutura hídrica.",
    "n": 17,
    "pct": 51,
+   "lado": "positivas"
+  },
+  "2026-10-05|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "Os títulos reportam uma greve na easyJet, com impacto significativo na operação do dia 5 de outubro de 2026, que resultou no cancelamento de quase 370 voos e cuja perturbação se prolonga até sexta-feira. O sindicato confirmou a manutenção do impacto previsto, enquanto a companhia aérea indica a realização de voos com recurso a chefias e tripulação estrangeira, em aparente incumprimento das regras de greve. Paralelamente, a cobertura noticiosa regista uma crise habitacional em Espanha, associada à sua campanha eleitoral, e um artigo sobre condições laborais precárias na Índia, afetando salários de crianças.",
+   "n": 10,
+   "pct": 83,
+   "lado": "negativas"
+  },
+  "2026-10-05|Ambiente e Energia|+": {
+   "texto": "No âmbito da cooperação internacional, foi noticiado que a experiência portuguesa de gestão da seca em Montemor-o-Novo foi partilhada com Angola, no contexto de um programa de combate à seca naquele país. No domínio da saúde pública, estudos indicam que a prática regular de caminhada beneficia doentes com DPOC, mesmo em áreas com elevada poluição atmosférica. A nível global, Fiji solicitou aos países desenvolvidos o apoio para uma transição justa para fontes de energia renováveis, reiterando o pedido em diversas notícias. O tema dominante dos títulos é a cooperação internacional e a transição energética.",
+   "n": 6,
+   "pct": 58,
    "lado": "positivas"
   }
  }
