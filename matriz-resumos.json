@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-05 15:48",
+ "gerado": "2026-10-05 19:08",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -454,16 +454,22 @@
    "pct": 51,
    "lado": "positivas"
   },
-  "2026-10-05|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "Os títulos reportam uma greve na easyJet, com impacto significativo na operação do dia 5 de outubro de 2026, que resultou no cancelamento de quase 370 voos e cuja perturbação se prolonga até sexta-feira. O sindicato confirmou a manutenção do impacto previsto, enquanto a companhia aérea indica a realização de voos com recurso a chefias e tripulação estrangeira, em aparente incumprimento das regras de greve. Paralelamente, a cobertura noticiosa regista uma crise habitacional em Espanha, associada à sua campanha eleitoral, e um artigo sobre condições laborais precárias na Índia, afetando salários de crianças.",
-   "n": 10,
-   "pct": 83,
-   "lado": "negativas"
-  },
   "2026-10-05|Ambiente e Energia|+": {
    "texto": "No âmbito da cooperação internacional, foi noticiado que a experiência portuguesa de gestão da seca em Montemor-o-Novo foi partilhada com Angola, no contexto de um programa de combate à seca naquele país. No domínio da saúde pública, estudos indicam que a prática regular de caminhada beneficia doentes com DPOC, mesmo em áreas com elevada poluição atmosférica. A nível global, Fiji solicitou aos países desenvolvidos o apoio para uma transição justa para fontes de energia renováveis, reiterando o pedido em diversas notícias. O tema dominante dos títulos é a cooperação internacional e a transição energética.",
    "n": 6,
    "pct": 58,
+   "lado": "positivas"
+  },
+  "2026-10-05|Defesa Nacional": {
+   "texto": "No dia 2026-10-05, a área da Defesa Nacional registou múltiplos incidentes de natureza crítica. Destacam-se a queda de uma aeronave militar na Nigéria, com 32 pessoas a bordo, e ataques aéreos russos contra instalações na Ucrânia, incluindo uma refinaria, que afetaram 51% da produção. Adicionalmente, verificou-se um ataque a um cargueiro no mar do Norte, atribuído por Zelensky a drones russos, e a queda de outra aeronave militar na Nigéria, com 25 passageiros e sete tripulantes. Paralelamente, registou-se a ocorrência de ferimentos em militares da GNR durante uma fiscalização de caça em Castelo Branco. O tema dominante foi o aumento da atividade hostil e dos riscos associados a conflitos armados, com particular foco nos ataques a infraestruturas civis e militares.",
+   "n": 16,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-10-05|Assuntos Parlamentares|+": {
+   "texto": "O Ministro dos Assuntos Parlamentares anunciou a abertura da Assembleia da República ao público todos os sábados, permitindo visitas gratuitas ao edifício parlamentar. Esta medida, implementada a partir de um feriado, visa fomentar a transparência e o contacto entre os cidadãos e as instituições democráticas. O evento integra-se num esforço mais amplo de aproximação entre a política e a sociedade civil, com particular ênfase na divulgação de espaços institucionais.",
+   "n": 5,
+   "pct": 50,
    "lado": "positivas"
   }
  }
