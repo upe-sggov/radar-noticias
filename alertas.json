@@ -1,49 +1,90 @@
 {
- "atualizado": "2026-10-06 03:10",
+ "atualizado": "2026-10-06 09:51",
  "dia": "2026-10-06",
- "corte": "03:10",
+ "corte": "09:51",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 03:10, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:51, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
- "momentum": [
-  {
-   "area": "Primeiro-Ministro",
-   "hoje": 3,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 2.0,
-   "variacao_pct": 200,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Negócios Estrangeiros",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": false
-  },
+ "tempestades": [
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 3,
-   "mediana": 2.5,
-   "limiar": 10.5,
-   "excesso": 0.5,
-   "variacao_pct": 20,
+   "hoje": 32,
+   "mediana": 9.0,
+   "limiar": 20.9,
+   "excesso": 23.0,
+   "variacao_pct": 256,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Presidência",
+   "hoje": 16,
+   "mediana": 6.5,
+   "limiar": 14.5,
+   "excesso": 9.5,
+   "variacao_pct": 146,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Primeiro-Ministro",
+   "hoje": 14,
+   "mediana": 5.0,
+   "limiar": 13.9,
+   "excesso": 9.0,
+   "variacao_pct": 180,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
+ "momentum": [
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 32,
+   "mediana": 9.0,
+   "limiar": 20.9,
+   "excesso": 23.0,
+   "variacao_pct": 256,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Finanças",
+   "hoje": 29,
+   "mediana": 13.0,
+   "limiar": 30.8,
+   "excesso": 16.0,
+   "variacao_pct": 123,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 2,
-   "mediana": 1.5,
-   "limiar": 9.5,
-   "excesso": 0.5,
-   "variacao_pct": 33,
+   "area": "Presidência",
+   "hoje": 16,
+   "mediana": 6.5,
+   "limiar": 14.5,
+   "excesso": 9.5,
+   "variacao_pct": 146,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Primeiro-Ministro",
+   "hoje": 14,
+   "mediana": 5.0,
+   "limiar": 13.9,
+   "excesso": 9.0,
+   "variacao_pct": 180,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 22,
+   "mediana": 14.5,
+   "limiar": 29.3,
+   "excesso": 7.5,
+   "variacao_pct": 52,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1021,6 +1062,27 @@
    "hoje": 104,
    "mediana": 41.0,
    "limiar": 89.9
+  },
+  {
+   "data": "2026-10-06",
+   "area": "Presidência",
+   "hoje": 16,
+   "mediana": 6.5,
+   "limiar": 14.5
+  },
+  {
+   "data": "2026-10-06",
+   "area": "Primeiro-Ministro",
+   "hoje": 14,
+   "mediana": 5.0,
+   "limiar": 13.9
+  },
+  {
+   "data": "2026-10-06",
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 32,
+   "mediana": 9.0,
+   "limiar": 20.9
   }
  ]
 }
