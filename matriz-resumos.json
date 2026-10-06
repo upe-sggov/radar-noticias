@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-05 23:49",
+ "gerado": "2026-10-06 10:12",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -465,6 +465,18 @@
    "n": 6,
    "pct": 54,
    "lado": "positivas"
+  },
+  "2026-10-06|Presidência": {
+   "texto": "Os trabalhadores da Agência para a Gestão de Migrações (AIMA) iniciaram uma greve de 24 horas, motivada por reivindicações de aumentos salariais e pela criação de uma carreira técnica. O protesto, que se iniciou na madrugada de 6 de outubro de 2026, afeta a prestação de serviços em Faro e outras localidades, com impacto na gestão de fluxos migratórios. O evento é marcado por um tema dominante de instabilidade laboral e ausência de resposta governamental imediata aos pedidos dos funcionários.",
+   "n": 12,
+   "pct": 86,
+   "lado": "negativas"
+  },
+  "2026-10-06|Defesa Nacional": {
+   "texto": "No dia 2026-10-06, a área da Defesa Nacional registou vários acontecimentos de natureza crítica. Um ataque massivo de drones contra a região de Moscovo resultou em duas mortes, levando a uma elevação do nível de alerta na defesa israelita. Paralelamente, dois F-18 espanhóis descolaram na Roménia em resposta a um alerta de drones próximo da fronteira com a Ucrânia, evidenciando uma resposta operacional imediata. Adicionalmente, a aprovação, por Donald Trump, da execução por fuzilamento de um militar que causou a morte de 13 pessoas em 2009 numa base no Texas, gerou controvérsia internacional. O tema dominante foi a instabilidade geopolítica e a resposta a ameaças de ataques com drones e ações militares.",
+   "n": 10,
+   "pct": 77,
+   "lado": "negativas"
   }
  }
 }
