@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-06 15:38",
+ "gerado": "2026-10-06 20:52",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -466,11 +466,23 @@
    "pct": 54,
    "lado": "positivas"
   },
-  "2026-10-06|Administração Interna": {
-   "texto": "No dia 2026-10-06, a cobertura da Administração Interna registou predominantemente incidentes de segurança pública e ocorrências migratórias. A GNR efetuou a apreensão de cinco viaturas durante uma concentração de 'tuning' em Vagos, conforme noticiado por diversos órgãos de comunicação social. Adicionalmente, verificou-se um incêndio urbano no Montijo, resultando num morto e um ferido grave. Paralelamente, trabalhadores da AIMA iniciaram uma greve solicitando aumentos salariais e a criação de carreiras técnicas. Não se identificam, contudo, eventos diretamente relacionados com a temática migratória LGBTQI, apesar do título noticioso associado a essa área.",
-   "n": 11,
-   "pct": 92,
+  "2026-10-06|Presidência": {
+   "texto": "Os títulos reportam uma greve de trabalhadores da Agência para a Gestão de Migrações (AIMA), iniciada em 24 de outubro de 2026, que motivou a divulgação de diferentes estimativas de adesão e o registo de perturbações operacionais em diversos balcões de atendimento ao público, como o da Loja do Cidadão no Funchal. A greve, motivada por reivindicações de aumentos salariais e a criação de uma carreira técnica, foi acompanhada de declarações contraditórias entre a agência e o sindicato, e gerou cobertura mediática de diversos órgãos de comunicação social. O evento dominante é, portanto, a greve laboral na AIMA, com impacto operacional variável e contestação sobre a dimensão da adesão.",
+   "n": 33,
+   "pct": 77,
    "lado": "negativas"
+  },
+  "2026-10-06|Administração Interna": {
+   "texto": "No dia 2026-10-06, a cobertura noticiosa da Administração Interna revelou múltiplos acontecimentos. Um caso de tensão política surgiu com a acusação ao Ministro da Administração Interna, Eduardo Cabrita, de alegado bloqueio de uma comissão parlamentar sobre o caso Luís Neves. Paralelamente, registaram-se incidentes de segurança pública, nomeadamente apreensões de veículos em concentrações de 'tuning' pela GNR em Vagos e apreensões de droga pela GNR em Almeirim e Chamusca. Adicionalmente, verificou-se uma greve na Agência para a Integração, Migrações e Asilo (AIMA), com reivindicações de aumentos salariais e progressão na carreira, resultando numa adesão de 11,31% segundo a agência, contrariada pelo sindicato.",
+   "n": 18,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-10-06|Agricultura e Mar|+": {
+   "texto": "No dia 06 de outubro de 2026, foi dominado um incêndio florestal numa herdade no concelho de Alcácer do Sal, no âmbito da gestão de riscos e proteção de áreas agrícolas e florestais. A Mata Nacional do Buçaco foi reconhecida como floresta terapêutica, reforçando o valor ecológico e de bem-estar associado a este espaço florestal. O Ministério da Agricultura e Mar disponibilizou quatro milhões de euros para ações de informação e promoção no setor agroflorestal, visando o apoio à competitividade e comunicação do setor. O tema dominante é o apoio ao setor agroflorestal, através de iniciativas de informação e valorização de recursos florestais e agrícolas.",
+   "n": 5,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
