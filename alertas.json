@@ -1,18 +1,28 @@
 {
- "atualizado": "2026-10-06 14:15",
+ "atualizado": "2026-10-06 15:26",
  "dia": "2026-10-06",
- "corte": "14:15",
+ "corte": "15:26",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 14:15, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 15:26, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Primeiro-Ministro",
-   "hoje": 42,
-   "mediana": 10.0,
-   "limiar": 29.3,
-   "excesso": 32.0,
-   "variacao_pct": 320,
+   "hoje": 44,
+   "mediana": 10.5,
+   "limiar": 32.7,
+   "excesso": 33.5,
+   "variacao_pct": 319,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 57,
+   "mediana": 24.5,
+   "limiar": 52.7,
+   "excesso": 32.5,
+   "variacao_pct": 133,
    "dias_base": 28,
    "tempestade": true
   }
@@ -20,51 +30,51 @@
  "momentum": [
   {
    "area": "Primeiro-Ministro",
-   "hoje": 42,
-   "mediana": 10.0,
-   "limiar": 29.3,
-   "excesso": 32.0,
-   "variacao_pct": 320,
+   "hoje": 44,
+   "mediana": 10.5,
+   "limiar": 32.7,
+   "excesso": 33.5,
+   "variacao_pct": 319,
    "dias_base": 28,
    "tempestade": true
   },
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 57,
+   "mediana": 24.5,
+   "limiar": 52.7,
+   "excesso": 32.5,
+   "variacao_pct": 133,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Infraestruturas e Habitação",
    "hoje": 53,
-   "mediana": 22.5,
-   "limiar": 53.6,
-   "excesso": 30.5,
-   "variacao_pct": 136,
+   "mediana": 31.0,
+   "limiar": 57.7,
+   "excesso": 22.0,
+   "variacao_pct": 71,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Finanças",
-   "hoje": 48,
-   "mediana": 24.5,
-   "limiar": 57.1,
-   "excesso": 23.5,
-   "variacao_pct": 96,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 44,
-   "mediana": 26.5,
-   "limiar": 48.7,
-   "excesso": 17.5,
-   "variacao_pct": 66,
+   "hoje": 50,
+   "mediana": 28.0,
+   "limiar": 60.6,
+   "excesso": 22.0,
+   "variacao_pct": 79,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Presidência",
-   "hoje": 27,
-   "mediana": 13.0,
-   "limiar": 27.8,
-   "excesso": 14.0,
-   "variacao_pct": 108,
+   "hoje": 30,
+   "mediana": 14.5,
+   "limiar": 30.8,
+   "excesso": 15.5,
+   "variacao_pct": 107,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1046,9 +1056,16 @@
   {
    "data": "2026-10-06",
    "area": "Primeiro-Ministro",
-   "hoje": 42,
-   "mediana": 10.0,
-   "limiar": 29.3
+   "hoje": 44,
+   "mediana": 10.5,
+   "limiar": 32.7
+  },
+  {
+   "data": "2026-10-06",
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 57,
+   "mediana": 24.5,
+   "limiar": 52.7
   }
  ]
 }
