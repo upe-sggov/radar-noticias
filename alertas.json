@@ -1,59 +1,59 @@
 {
- "atualizado": "2026-10-07 02:21",
+ "atualizado": "2026-10-07 09:40",
  "dia": "2026-10-07",
- "corte": "02:21",
+ "corte": "09:40",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 02:21, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:40, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 5,
-   "mediana": 1.5,
-   "limiar": 9.5,
-   "excesso": 3.5,
-   "variacao_pct": 233,
+   "area": "Primeiro-Ministro",
+   "hoje": 12,
+   "mediana": 4.5,
+   "limiar": 12.5,
+   "excesso": 7.5,
+   "variacao_pct": 167,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Saúde",
+   "hoje": 14,
+   "mediana": 8.0,
+   "limiar": 16.9,
+   "excesso": 6.0,
+   "variacao_pct": 75,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Finanças",
+   "hoje": 17,
+   "mediana": 13.0,
+   "limiar": 27.8,
+   "excesso": 4.0,
+   "variacao_pct": 31,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 13,
+   "mediana": 9.0,
+   "limiar": 22.3,
+   "excesso": 4.0,
+   "variacao_pct": 44,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Reforma do Estado",
-   "hoje": 4,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 3.0,
-   "variacao_pct": 300,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Educação, Ciência e Inovação",
-   "hoje": 6,
-   "mediana": 5.0,
-   "limiar": 13.0,
-   "excesso": 1.0,
-   "variacao_pct": 20,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Justiça",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
+   "hoje": 10,
+   "mediana": 6.0,
+   "limiar": 14.0,
+   "excesso": 4.0,
+   "variacao_pct": 67,
    "dias_base": 28,
    "tempestade": false
   }
