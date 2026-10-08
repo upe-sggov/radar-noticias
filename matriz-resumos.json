@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-08 14:39",
+ "gerado": "2026-10-08 17:50",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -490,10 +490,16 @@
    "pct": 84,
    "lado": "negativas"
   },
-  "2026-10-08|Reforma do Estado|+": {
-   "texto": "No dia 8 de outubro de 2026, verificaram-se os seguintes acontecimentos concretos: realizou-se uma conferência em Machico sobre inteligência artificial e os seus desafios e oportunidades; a Google lançou um detector de IA para identificar conteúdos sintéticos; Moçambique formalizou o interesse em aplicar inteligência artificial à gestão financeira do Estado; promoveu-se a reflexão conjunta sobre o futuro da água, com particular enfoque na colaboração; a China acelerou a construção de data centers para reforçar a sua posição na área da inteligência artificial; a Samsung anunciou um lucro recorde; e a Tekever, empresa portuguesa, foi alvo de uma entrevista com o seu CEO, consolidando a sua reputação no setor dos drones. O tema dominante é a inteligência artificial e as suas aplicações em diversas áreas.",
-   "n": 7,
-   "pct": 54,
+  "2026-10-08|Ambiente e Energia|+": {
+   "texto": "No dia 8 de outubro de 2026, a Câmara Municipal do Funchal anunciou um investimento de 18,3 milhões de euros para a gestão de resíduos ao longo de quatro anos, enquanto o Diário de Notícias divulgou uma declaração do co-CEO da Galp sobre a resistência de algumas empresas à transição energética. Paralelamente, o Jornal de Negócios informou que as taxas e multas ambientais deverão render mais de 4 mil milhões de euros ao Estado no próximo ano, e o Executivo Digest reportou a digitalização do projeto de hidrogénio renovável da Galp em Sines pela Siemens. Adicionalmente, a dupla açoriana alcançou o 20.º lugar no Eco Rally Madeira, demonstrando progresso na mobilidade sustentável, e o Açoriano Oriental divulgou que a agricultura nos Açores está a testar soluções de adaptação ao clima. O tema dominante é a gestão de resíduos e a transição energética, com iniciativas de investimento público, tecnológico e de eficiência.",
+   "n": 9,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-10-08|Agricultura e Mar|+": {
+   "texto": "No dia 8 de outubro de 2026, foi aprovado um subsídio de 0,06 euros por litro no gasóleo colorido para a pequena agricultura e pesca, no âmbito do Orçamento do Estado para 2027, visando apoiar estes setores face ao aumento dos custos energéticos. Simultaneamente, a Região Autónoma da Madeira realizou 280 mil análises de segurança alimentar, reforçando o controlo sanitário dos produtos. Adicionalmente, o Governo reabriu os apoios à eficiência hídrica na agricultura e lançou o projeto FarmHeroes, que procura redefinir a perceção dos jovens sobre o futuro da agricultura europeia, enquanto a Madeira e outras regiões testam soluções de adaptação ao clima e os apoios aos combustíveis para os setores da agricultura e floresta foram prolongados até ao final do ano. O Norte do país destacou-se pela criação de 37 mil postos de trabalho e redução do desemprego, evidenciando um dinamismo económico regional.",
+   "n": 10,
+   "pct": 62,
    "lado": "positivas"
   }
  }
