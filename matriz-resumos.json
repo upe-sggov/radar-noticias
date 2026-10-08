@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-08 11:00",
+ "gerado": "2026-10-08 13:04",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -485,16 +485,28 @@
    "lado": "negativas"
   },
   "2026-10-07|Justiça": {
-   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos judiciais, nomeadamente condenações a prisão efetiva por crimes graves, incluindo tentativa de homicídio de um agente da GNR, burlas reiteradas, violação de paciente e tráfico de droga. Destacam-se casos de violência contra agentes da autoridade, crimes sexuais e desvio de fundos, com decisões judiciais que resultaram em penas de prisão efetiva. A cobertura mediática, predominantemente negativa, refletiu a gravidade destes eventos.",
-   "n": 43,
-   "pct": 83,
+   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos judiciais, nomeadamente condenações a prisão efetiva por crimes graves, detenções de figuras públicas por suspeitas de violência e abuso de poder, e decisões judiciais que confirmaram penas de prisão em casos de fraude e burla. Destacam-se condenações por tentativa de homicídio de um agente da GNR, violação de paciente, tráfico de droga, burla telefónica e desvio de fundos. Adicionalmente, houve decisões judiciais que confirmaram penas de prisão em casos de crimes desportivos e corrupção, e processos relacionados com a gestão de fundos públicos e a fiscalização da corrupção.",
+   "n": 44,
+   "pct": 84,
    "lado": "negativas"
   },
   "2026-10-08|Justiça": {
-   "texto": "No dia 8 de outubro de 2026, registaram-se dois acontecimentos principais na área da Justiça. Em primeiro lugar, um homem de 37 anos foi colocado em prisão preventiva na Póvoa de Varzim por violência física e financeira contra a sua mãe. Em segundo lugar, o Tribunal de Contas Europeu (TCE) identificou casos de eventual fraude com fundos europeus em Portugal, incluindo um caso específico no âmbito do Portugal 2020, e estimou que quase 4% do orçamento da União Europeia foi gasto incorretamente em 2025. O tema dominante parece ser a fraude e o uso indevido de fundos públicos, com particular relevância para a gestão de fundos europeus.",
-   "n": 10,
-   "pct": 91,
+   "texto": "No dia 2026-10-08, a área da Justiça registou múltiplos acontecimentos de natureza criminal e administrativa. Foram detidas duas mulheres por tentativa de introdução de estupefacientes em estabelecimentos prisionais, uma delas para proteger o filho. A nível de detenções preventivas, foram confirmados casos de violência doméstica, nomeadamente agressões a pais e mães, em diversas localidades, resultando em reclusão de suspeitos. Adicionalmente, o Tribunal de Contas Europeu identificou irregularidades no uso de fundos europeus, com casos específicos a envolver Portugal no âmbito dos programas Portugal 2020 e da União Europeia, suscitando preocupações sobre a gestão orçamental e a eventual fraude.",
+   "n": 15,
+   "pct": 79,
    "lado": "negativas"
+  },
+  "2026-10-08|Reforma do Estado|+": {
+   "texto": "No dia 08 de outubro de 2026, a área da Reforma do Estado registou desenvolvimentos em três domínios principais. No plano internacional, Moçambique manifestou interesse na aplicação de inteligência artificial para a gestão das finanças públicas, procurando apoio técnico e tecnológico. A nível global, a China intensificou o investimento na construção de data centers, visando reforçar a sua posição na liderança da inteligência artificial. Paralelamente, a Tekever, empresa portuguesa de referência na indústria dos drones, foi objeto de uma grande entrevista, evidenciando a sua relevância no setor tecnológico. Não obstante, a informação disponível não permite inferir um tema dominante específico para a Reforma do Estado neste dia.",
+   "n": 5,
+   "pct": 56,
+   "lado": "positivas"
+  },
+  "2026-10-08|Ambiente e Energia|+": {
+   "texto": "No dia 8 de outubro de 2026, uma dupla açoriana alcançou o 20.º lugar no Eco Rally Madeira, evidenciando o progresso na mobilidade sustentável. A Siemens comprometeu-se a digitalizar o projeto de hidrogénio renovável da Galp em Sines, reforçando a transição energética. A agricultura nacional iniciou ensaios de adaptação a alterações climáticas, visando a resiliência do setor. A China acelerou a construção de data centers, procurando liderança no desenvolvimento da inteligência artificial, um tema dominante na inovação tecnológica.",
+   "n": 4,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
