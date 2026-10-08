@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-08 03:00",
+ "gerado": "2026-10-08 11:00",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -472,12 +472,6 @@
    "pct": 77,
    "lado": "negativas"
   },
-  "2026-10-07|Justiça": {
-   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos de natureza judicial e administrativa. Destacaram-se acusações contra figuras políticas venezuelanas por tortura, condenações por crimes violentos e desobediência civil (como peões em relvados de tribunais), decisões do Tribunal Constitucional e da CEDEAO sobre detenções, e a prisão preventiva de profissionais de saúde acusados de violação. Adicionalmente, verificaram-se condenações por crimes diversos, incluindo tráfico de droga, burlas, furtos e homicídio, bem como obras de melhoria em estabelecimentos prisionais. Observou-se também uma condenação por corrupção política no Timor-Leste e um caso de desvio de tecnologia militar para a China.",
-   "n": 36,
-   "pct": 82,
-   "lado": "negativas"
-  },
   "2026-10-07|Agricultura e Mar|+": {
    "texto": "No dia 07 de outubro de 2026, o Governo português divulgou um apoio de 30 milhões de euros para mitigar os prejuízos causados por tempestades na agricultura, abrangendo candidaturas abertas para auxílio financeiro aos agricultores afetados. Adicionalmente, foi anunciado um projeto nacional de robótica, liderado por Herculano, com o objetivo de modernizar a floresta e a viticultura através de tecnologias inovadoras. Por outro lado, o projeto “Mértola Future Lab” recebeu reconhecimento da Organização das Nações Unidas para a Alimentação e a Agricultura, destacando-se como um laboratório de inovação na área alimentar. O tema dominante destes acontecimentos é o investimento em tecnologias e medidas de apoio para a resiliência da agricultura face a eventos climáticos adversos e para a promoção de práticas sustentáveis.",
    "n": 7,
@@ -490,10 +484,16 @@
    "pct": 75,
    "lado": "negativas"
   },
+  "2026-10-07|Justiça": {
+   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos judiciais, nomeadamente condenações a prisão efetiva por crimes graves, incluindo tentativa de homicídio de um agente da GNR, burlas reiteradas, violação de paciente e tráfico de droga. Destacam-se casos de violência contra agentes da autoridade, crimes sexuais e desvio de fundos, com decisões judiciais que resultaram em penas de prisão efetiva. A cobertura mediática, predominantemente negativa, refletiu a gravidade destes eventos.",
+   "n": 43,
+   "pct": 83,
+   "lado": "negativas"
+  },
   "2026-10-08|Justiça": {
-   "texto": "No dia 8 de outubro de 2026, o Tribunal de Contas Europeu (TCE) emitiu recomendações de prudência orçamental à União Europeia, alertando para riscos de aumento do endividamento. Adicionalmente, o TCE identificou um caso de eventual fraude com fundos europeus em Portugal no âmbito do programa Portugal 2020, estimando que quase 4% do orçamento da UE em 2025 foi gasto incorretamente. Paralelamente, foi constituído um tribunal de júri para julgar irmãos acusados de homicídio qualificado do pai, para defesa da mãe, ocorrendo no âmbito do sistema judicial nacional. Por fim, o TCE reportou suspeitas de fraude envolvendo fundos europeus em Portugal, reforçando a preocupação com a gestão de fundos da União.",
-   "n": 8,
-   "pct": 100,
+   "texto": "No dia 8 de outubro de 2026, registaram-se dois acontecimentos principais na área da Justiça. Em primeiro lugar, um homem de 37 anos foi colocado em prisão preventiva na Póvoa de Varzim por violência física e financeira contra a sua mãe. Em segundo lugar, o Tribunal de Contas Europeu (TCE) identificou casos de eventual fraude com fundos europeus em Portugal, incluindo um caso específico no âmbito do Portugal 2020, e estimou que quase 4% do orçamento da União Europeia foi gasto incorretamente em 2025. O tema dominante parece ser a fraude e o uso indevido de fundos públicos, com particular relevância para a gestão de fundos europeus.",
+   "n": 10,
+   "pct": 91,
    "lado": "negativas"
   }
  }
