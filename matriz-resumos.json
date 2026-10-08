@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-07 22:45",
+ "gerado": "2026-10-08 03:00",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -483,6 +483,18 @@
    "n": 7,
    "pct": 58,
    "lado": "positivas"
+  },
+  "2026-09-30|Defesa Nacional": {
+   "texto": "No dia 30 de setembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e geopolítica. Destacam-se a confirmação por parte do Reino Unido de suspeitas de envolvimento iraniano num atentado falhado contra uma base militar britânica, a intensificação dos bombardeamentos russos na Ucrânia com ataques ao sistema energético, e a ameaça de recurso a armas nucleares por parte da Rússia se Kaliningrado fosse isolada. Paralelamente, observou-se a co-liderança por Elon Musk de um projeto de inteligência artificial militar dos EUA, o aumento de ingressos na Escola Naval e a implementação de medidas de preparação militar pela Alemanha e Reino Unido. O tema dominante foi a escalada de tensões e conflitos em múltiplas frentes, nomeadamente na Ucrânia, no Báltico e no Médio Oriente.",
+   "n": 61,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-10-08|Justiça": {
+   "texto": "No dia 8 de outubro de 2026, o Tribunal de Contas Europeu (TCE) emitiu recomendações de prudência orçamental à União Europeia, alertando para riscos de aumento do endividamento. Adicionalmente, o TCE identificou um caso de eventual fraude com fundos europeus em Portugal no âmbito do programa Portugal 2020, estimando que quase 4% do orçamento da UE em 2025 foi gasto incorretamente. Paralelamente, foi constituído um tribunal de júri para julgar irmãos acusados de homicídio qualificado do pai, para defesa da mãe, ocorrendo no âmbito do sistema judicial nacional. Por fim, o TCE reportou suspeitas de fraude envolvendo fundos europeus em Portugal, reforçando a preocupação com a gestão de fundos da União.",
+   "n": 8,
+   "pct": 100,
+   "lado": "negativas"
   }
  }
 }
