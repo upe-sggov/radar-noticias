@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-08 17:50",
+ "gerado": "2026-10-08 21:04",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -466,12 +466,6 @@
    "pct": 50,
    "lado": "positivas"
   },
-  "2026-10-06|Presidência": {
-   "texto": "No dia 2026-10-06, os trabalhadores da Agência para a Gestão de Migrações (AIMA) iniciaram uma greve de 24 horas, motivada por reivindicações de melhoria salarial e criação de uma carreira técnica. A adesão à greve foi reportada em dois níveis distintos: a agência atribuiu uma taxa de adesão de 11,31%, enquanto o sindicato contestou, alegando uma adesão de 50%. Durante o período de paralisação, foram registadas perturbações operacionais em diversos serviços da AIMA, incluindo o encerramento temporário de balcões, como o da Loja do Cidadão no Funchal, e relatos de utentes sobre dificuldades no acesso a serviços. Adicionalmente, a cobertura mediática do dia evidenciou um tema dominante de conflito laboral e impacto nos serviços públicos.",
-   "n": 34,
-   "pct": 77,
-   "lado": "negativas"
-  },
   "2026-10-07|Agricultura e Mar|+": {
    "texto": "No dia 07 de outubro de 2026, o Governo português divulgou um apoio de 30 milhões de euros para mitigar os prejuízos causados por tempestades na agricultura, abrangendo candidaturas abertas para auxílio financeiro aos agricultores afetados. Adicionalmente, foi anunciado um projeto nacional de robótica, liderado por Herculano, com o objetivo de modernizar a floresta e a viticultura através de tecnologias inovadoras. Por outro lado, o projeto “Mértola Future Lab” recebeu reconhecimento da Organização das Nações Unidas para a Alimentação e a Agricultura, destacando-se como um laboratório de inovação na área alimentar. O tema dominante destes acontecimentos é o investimento em tecnologias e medidas de apoio para a resiliência da agricultura face a eventos climáticos adversos e para a promoção de práticas sustentáveis.",
    "n": 7,
@@ -490,16 +484,34 @@
    "pct": 84,
    "lado": "negativas"
   },
+  "2026-10-06|Presidência": {
+   "texto": "No dia 2026-10-06, os trabalhadores da Agência para a Gestão de Migrações (AIMA) iniciaram uma greve de 24 horas, motivada por reivindicações de melhoria salarial e criação de uma carreira técnica. A adesão à greve foi reportada em dois níveis distintos: a agência atribuiu uma taxa de adesão de 11,31%, enquanto o sindicato contestou, alegando uma adesão de 50%. Durante o período de paralisação, foram registadas perturbações operacionais em diversos serviços da AIMA, incluindo o encerramento temporário de balcões, como o da Loja do Cidadão no Funchal, e relatos de utentes sobre dificuldades no acesso a serviços. Adicionalmente, a cobertura mediática do dia evidenciou um tema dominante de conflito laboral e impacto nos serviços públicos.",
+   "n": 34,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-10-08|Justiça": {
+   "texto": "No dia 2026-10-08, a área da Justiça registou múltiplos acontecimentos, predominantemente de natureza criminal e administrativa. Destacam-se detenções e prisões preventivas por violência doméstica, incluindo casos de agressão física e financeira contra a mãe, e por crimes de roubo e reincidência. Adicionalmente, verificaram-se casos de introdução de estupefacientes em estabelecimentos prisionais e de fraude fiscal, com detenções e medidas de coação. A nível administrativo, o Tribunal de Contas Europeu sinalizou um caso de eventual fraude envolvendo fundos europeus em Portugal, motivando recomendações de prudência orçamental.",
+   "n": 33,
+   "pct": 80,
+   "lado": "negativas"
+  },
   "2026-10-08|Ambiente e Energia|+": {
-   "texto": "No dia 8 de outubro de 2026, a Câmara Municipal do Funchal anunciou um investimento de 18,3 milhões de euros para a gestão de resíduos ao longo de quatro anos, enquanto o Diário de Notícias divulgou uma declaração do co-CEO da Galp sobre a resistência de algumas empresas à transição energética. Paralelamente, o Jornal de Negócios informou que as taxas e multas ambientais deverão render mais de 4 mil milhões de euros ao Estado no próximo ano, e o Executivo Digest reportou a digitalização do projeto de hidrogénio renovável da Galp em Sines pela Siemens. Adicionalmente, a dupla açoriana alcançou o 20.º lugar no Eco Rally Madeira, demonstrando progresso na mobilidade sustentável, e o Açoriano Oriental divulgou que a agricultura nos Açores está a testar soluções de adaptação ao clima. O tema dominante é a gestão de resíduos e a transição energética, com iniciativas de investimento público, tecnológico e de eficiência.",
-   "n": 9,
-   "pct": 50,
+   "texto": "No dia 8 de outubro de 2026, foram registados diversos acontecimentos relevantes no âmbito da área governamental do Ambiente e Energia. O Instituto da Conservação da Natureza e das Florestas (ICNF) recebeu 48,1 milhões de euros para reforçar a gestão de áreas protegidas, a prevenção de incêndios florestais e a adaptação às alterações climáticas. Adicionalmente, a Siemens iniciou a digitalização de um projeto de produção de hidrogénio renovável, integrado num dos maiores da Europa, em Sines. Em matéria legislativa, foi aprovado um diploma que transpõe a diretiva europeia sobre energias renováveis, estabelecendo a meta de 49% até 2030, e o Governo preparou incentivos para a produção de combustíveis renováveis em 2027. O tema dominante destes acontecimentos é o reforço da transição energética e a gestão sustentável dos recursos naturais.",
+   "n": 15,
+   "pct": 58,
    "lado": "positivas"
   },
   "2026-10-08|Agricultura e Mar|+": {
-   "texto": "No dia 8 de outubro de 2026, foi aprovado um subsídio de 0,06 euros por litro no gasóleo colorido para a pequena agricultura e pesca, no âmbito do Orçamento do Estado para 2027, visando apoiar estes setores face ao aumento dos custos energéticos. Simultaneamente, a Região Autónoma da Madeira realizou 280 mil análises de segurança alimentar, reforçando o controlo sanitário dos produtos. Adicionalmente, o Governo reabriu os apoios à eficiência hídrica na agricultura e lançou o projeto FarmHeroes, que procura redefinir a perceção dos jovens sobre o futuro da agricultura europeia, enquanto a Madeira e outras regiões testam soluções de adaptação ao clima e os apoios aos combustíveis para os setores da agricultura e floresta foram prolongados até ao final do ano. O Norte do país destacou-se pela criação de 37 mil postos de trabalho e redução do desemprego, evidenciando um dinamismo económico regional.",
+   "texto": "No dia 8 de outubro de 2026, o ICNF recebeu 48,1 milhões de euros para a gestão de áreas protegidas, prevenção de incêndios florestais e medidas de adaptação às alterações climáticas. O Orçamento do Estado para 2027 (OE2027) prevê um aumento de 6,5% na despesa do Ministério da Agricultura e do Mar, elevando-a para 1 625 milhões de euros, destinados a políticas de apoio ao setor. Foi concedido um subsídio de 0,06 euros por litro de gasóleo colorido aos pequenos agricultores e pescadores, no âmbito de medidas de apoio aos combustíveis para os setores da agricultura e floresta, prorrogado até ao final do ano. Adicionalmente, foram implementadas medidas de apoio à eficiência hídrica na agricultura e testadas soluções de adaptação ao clima, com o lançamento do projeto FarmHeroes, que visa atrair jovens para o setor agrícola europeu.",
+   "n": 12,
+   "pct": 63,
+   "lado": "positivas"
+  },
+  "2026-10-08|Reforma do Estado|+": {
+   "texto": "A Reforma do Estado registou desenvolvimentos em literacia financeira e inteligência artificial. Foram implementados novos currículos escolares com foco em IA e literacia financeira, enquanto os gastos na reforma diminuíram para menos de metade com o fim do PRR. Adicionalmente, a Conferência sobre Inteligência Artificial em Machico evidenciou a procura por soluções de IA no setor público, e Moçambique manifestou interesse em aplicar IA à gestão financeira do Estado.",
    "n": 10,
-   "pct": 62,
+   "pct": 50,
    "lado": "positivas"
   }
  }
