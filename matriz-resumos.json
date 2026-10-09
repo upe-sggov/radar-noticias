@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-09 14:33",
+ "gerado": "2026-10-09 18:25",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -496,17 +496,17 @@
    "pct": 55,
    "lado": "positivas"
   },
-  "2026-10-08|Justiça": {
-   "texto": "No dia 2026-10-08, a cobertura noticiosa da área da Justiça evidenciou predominantemente casos de violência doméstica, irregularidades administrativas e potenciais irregularidades financeiras. Destacaram-se detenções e prisões preventivas por violência física e financeira contra familiares, incluindo uma mulher em prisão preventiva na Póvoa de Varzim. Adicionalmente, verificaram-se investigações a contratos-programa, erros da Caixa Geral de Aposentações e casos de fraude em fundos europeus, com o Tribunal de Contas Europeu a identificar irregularidades em Portugal.",
-   "n": 43,
-   "pct": 81,
-   "lado": "negativas"
-  },
   "2026-10-08|Agricultura e Mar|+": {
    "texto": "No dia 8 de outubro de 2026, o Ministério da Agricultura e do Mar recebeu 48,1 milhões de euros do ICNF para a gestão de áreas protegidas, prevenção de incêndios florestais e medidas de adaptação às alterações climáticas. Paralelamente, o Orçamento do Estado para 2027 (OE2027) prevê um aumento de 6,5% na despesa do ministério, elevando-a a 1.625 milhões de euros, com dotações para programas de apoio à pequena agricultura e pesca. Adicionalmente, foi concedido um subsídio de 0,06 euros por litro de gasóleo colorido para estes setores, e foram reabertos apoios à eficiência hídrica na agricultura. O tema dominante é o reforço do apoio estatal aos setores primários, a adaptação às alterações climáticas e o controlo de espécies invasoras.",
    "n": 13,
    "pct": 68,
    "lado": "positivas"
+  },
+  "2026-10-08|Justiça": {
+   "texto": "No dia 2026-10-08, a cobertura noticiosa da área da Justiça evidenciou predominantemente casos de violência doméstica, irregularidades criminais e problemas de gestão financeira. Destacaram-se detenções e prisões preventivas por violência física e financeira contra familiares, incluindo uma mulher detida por introduzir droga em estabelecimento prisional. Adicionalmente, verificaram-se decisões judiciais sobre a legalidade de buscas, com o Tribunal de Londres e o Tribunal de Contas a declararem a ilegalidade de procedimentos em casos envolvendo o Príncipe André e fundos europeus.",
+   "n": 43,
+   "pct": 80,
+   "lado": "negativas"
   }
  }
 }
