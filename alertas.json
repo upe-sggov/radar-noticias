@@ -1,39 +1,29 @@
 {
- "atualizado": "2026-10-10 13:24",
+ "atualizado": "2026-10-10 19:31",
  "dia": "2026-10-10",
- "corte": "13:24",
+ "corte": "19:31",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 13:24, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 19:31, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
-   "area": "Primeiro-Ministro",
-   "hoje": 16,
-   "mediana": 9.5,
-   "limiar": 28.8,
-   "excesso": 6.5,
-   "variacao_pct": 68,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 24,
-   "mediana": 21.0,
-   "limiar": 58.1,
-   "excesso": 3.0,
-   "variacao_pct": 14,
+   "hoje": 45,
+   "mediana": 39.0,
+   "limiar": 105.7,
+   "excesso": 6.0,
+   "variacao_pct": 15,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Assuntos Parlamentares",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "area": "Primeiro-Ministro",
+   "hoje": 22,
+   "mediana": 17.5,
+   "limiar": 50.1,
+   "excesso": 4.5,
+   "variacao_pct": 26,
    "dias_base": 28,
    "tempestade": false
   }
