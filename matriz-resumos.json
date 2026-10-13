@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-13 04:10",
+ "gerado": "2026-10-13 09:57",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -525,6 +525,12 @@
    "n": 6,
    "pct": 55,
    "lado": "positivas"
+  },
+  "2026-10-13|Defesa Nacional": {
+   "texto": "No dia 13 de outubro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e geopolítica. A Rússia reportou a interceção de 604 drones ucranianos de asa fixa no seu espaço aéreo, num contexto de conflito em curso. Simultaneamente, a Arábia Saudita interceptou três mísseis lançados pelos Houthis, em resposta a ataques recentes na região. Adicionalmente, ataques russos na Ucrânia resultaram em pelo menos três mortes e vários feridos, evidenciando a continuidade da escalada de violência. O tema dominante foi a intensificação de operações militares e a instabilidade geopolítica associada a estes eventos.",
+   "n": 10,
+   "pct": 77,
+   "lado": "negativas"
   }
  }
 }
