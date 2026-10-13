@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-13 09:57",
+ "gerado": "2026-10-13 13:08",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -527,9 +527,15 @@
    "lado": "positivas"
   },
   "2026-10-13|Defesa Nacional": {
-   "texto": "No dia 13 de outubro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e geopolítica. A Rússia reportou a interceção de 604 drones ucranianos de asa fixa no seu espaço aéreo, num contexto de conflito em curso. Simultaneamente, a Arábia Saudita interceptou três mísseis lançados pelos Houthis, em resposta a ataques recentes na região. Adicionalmente, ataques russos na Ucrânia resultaram em pelo menos três mortes e vários feridos, evidenciando a continuidade da escalada de violência. O tema dominante foi a intensificação de operações militares e a instabilidade geopolítica associada a estes eventos.",
-   "n": 10,
-   "pct": 77,
+   "texto": "No dia 2026-10-13, a área da Defesa Nacional registou uma série de acontecimentos relacionados com a guerra na Ucrânia e a segurança internacional. Destacam-se ataques russos a Kharkiv, que causaram vítimas mortais, e a interceção de mísseis por parte da Arábia Saudita face a ataques atribuídos aos Houthis. Adicionalmente, a União Europeia enfrentou desafios no fornecimento energético devido à invasão da Ucrânia, e a atividade de drones e mísseis no espaço aéreo europeu manteve-se elevada. O tema dominante foi a instabilidade geopolítica e a escalada de conflitos armados.",
+   "n": 17,
+   "pct": 78,
+   "lado": "negativas"
+  },
+  "2026-10-13|Presidência": {
+   "texto": "No dia 13 de outubro de 2026, registaram-se múltiplos acontecimentos relacionados com a área da Presidência, embora com impacto noutras áreas governamentais. O último diretor do Serviço de Estrangeiros e Fronteiras (SEF) criticou a extinção do serviço e as falhas na Agência para a Gestão Integrada de Fronteiras (AIMA), apontando para consequências não resolvidas na gestão de fronteiras e imigração. Paralelamente, a maior associação de imigrantes acusou o Governo de promover políticas \"racistas e xenófobas\", face à situação de cerca de três mil imigrantes marroquinos em Ceuta, incluindo 500 menores, e questionando políticas migratórias. Adicionalmente, a Polícia Marítima realizou uma operação de resgate de 34 migrantes ao largo da Grécia, evidenciando a persistência de fluxos migratórios irregulares. O tema dominante foi a contestação de políticas de imigração e fronteiras, com críticas à extinção do SEF e à atuação da AIMA.",
+   "n": 8,
+   "pct": 75,
    "lado": "negativas"
   }
  }
