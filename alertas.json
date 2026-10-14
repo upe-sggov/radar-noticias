@@ -1,59 +1,70 @@
 {
- "atualizado": "2026-10-14 02:20",
+ "atualizado": "2026-10-14 09:23",
  "dia": "2026-10-14",
- "corte": "02:20",
+ "corte": "09:23",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 02:20, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:23, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Ambiente e Energia",
+   "hoje": 23,
+   "mediana": 8.0,
+   "limiar": 16.0,
+   "excesso": 15.0,
+   "variacao_pct": 188,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
-   "area": "Agricultura e Mar",
-   "hoje": 3,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 3.0,
-   "variacao_pct": null,
+   "area": "Ambiente e Energia",
+   "hoje": 23,
+   "mediana": 8.0,
+   "limiar": 16.0,
+   "excesso": 15.0,
+   "variacao_pct": 188,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Defesa Nacional",
+   "hoje": 25,
+   "mediana": 13.0,
+   "limiar": 26.3,
+   "excesso": 12.0,
+   "variacao_pct": 92,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Saúde",
-   "hoje": 3,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 2.0,
-   "variacao_pct": 200,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 22,
+   "mediana": 10.5,
+   "limiar": 29.8,
+   "excesso": 11.5,
+   "variacao_pct": 110,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Finanças",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "hoje": 19,
+   "mediana": 12.5,
+   "limiar": 25.8,
+   "excesso": 6.5,
+   "variacao_pct": 52,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Negócios Estrangeiros",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
+   "area": "Administração Interna",
+   "hoje": 13,
+   "mediana": 7.5,
+   "limiar": 17.9,
+   "excesso": 5.5,
+   "variacao_pct": 73,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1115,6 +1126,13 @@
    "hoje": 65,
    "mediana": 22.0,
    "limiar": 44.2
+  },
+  {
+   "data": "2026-10-14",
+   "area": "Ambiente e Energia",
+   "hoje": 23,
+   "mediana": 8.0,
+   "limiar": 16.0
   }
  ]
 }
