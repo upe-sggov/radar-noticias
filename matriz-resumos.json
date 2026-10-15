@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-14 21:54",
+ "gerado": "2026-10-15 01:45",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -460,12 +460,6 @@
    "pct": 75,
    "lado": "negativas"
   },
-  "2026-10-07|Justiça": {
-   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos judiciais e administrativos. Destacam-se condenações por tentativa de homicídio qualificado de um GNR, burlas telefónicas reiteradas, violação em contexto médico e crimes de tráfico de droga. Adicionalmente, verificaram-se detenções de condutores embriagados em espaços judiciais, decisões de recurso em casos de crimes graves e a confirmação da prisão preventiva de figuras públicas. O tema dominante foi a aplicação de penas por crimes violentos e ilícitos contra a integridade física e moral.",
-   "n": 44,
-   "pct": 84,
-   "lado": "negativas"
-  },
   "2026-10-08|Ambiente e Energia|+": {
    "texto": "No dia 8 de outubro de 2026, o Governo aprovou um decreto-lei que estabelece a meta de 49% de energias renováveis no consumo final até 2030, reforçando o compromisso com a transição energética. Simultaneamente, foi autorizada a atribuição de 48,1 milhões de euros ao ICNF para a gestão de áreas protegidas, prevenção de incêndios florestais e medidas de adaptação às alterações climáticas. Adicionalmente, foi anunciada a preparação de incentivos à produção de combustíveis renováveis para 2027, enquanto o Município do Funchal procedeu à aprovação de um plano de gestão de resíduos com um investimento de 18,3 milhões de euros.",
    "n": 17,
@@ -532,10 +526,16 @@
    "pct": 76,
    "lado": "negativas"
   },
+  "2026-10-07|Justiça": {
+   "texto": "No dia 2026-10-07, a área da Justiça registou múltiplos acontecimentos judiciais, nomeadamente condenações a prisão efetiva por crimes graves, detenções de figuras públicas por suspeitas de violência e abuso de poder, e decisões judiciais que confirmaram penas de prisão em casos de fraude e burla. Destacam-se condenações por tentativa de homicídio de um agente da GNR, violação de paciente, tráfico de droga, burla telefónica e desvio de fundos. Adicionalmente, houve decisões judiciais que confirmaram penas de prisão em casos de crimes desportivos e corrupção, e processos relacionados com a gestão de fundos públicos e a fiscalização da corrupção.",
+   "n": 44,
+   "pct": 81,
+   "lado": "negativas"
+  },
   "2026-10-14|Justiça": {
-   "texto": "No dia 14 de outubro de 2026, registaram-se múltiplos acontecimentos de natureza judicial e de segurança pública. Nicolás Maduro e Cilia Flores foram convocados para tribunal em Nova Iorque, no âmbito de um processo judicial. Em Portugal, verificou-se um caso de perdão de pena por agressão com sete facadas, resultante de um julgamento na Noite Branca. Adicionalmente, foram detidos indivíduos em Faro e Setúbal por tráfico de droga e homicídio, respetivamente, aguardando julgamento em prisão preventiva. A nível internacional, o Japão protestou pela detenção de um jornalista, o Tribunal de Recurso moçambicano rejeitou um recurso relativo à transmissão de um julgamento, e uma jovem iraniana foi condenada à morte por atividades nas redes sociais. O Tribunal de Contas identificou 98 mil euros de pagamentos ilegais nas contas de 2023 das Águas de Gaia, enquanto o Conselho Superior da Magistratura (CSM) apontou falhas no sistema Citius, com mais de 27 mil processos pendentes há mais de quatro anos.",
-   "n": 31,
-   "pct": 76,
+   "texto": "No dia 14 de outubro de 2026, registaram-se múltiplos acontecimentos de natureza judicial e legal, com destaque para processos de grande visibilidade e casos de criminalidade. Nicolás Maduro e Cilia Flores foram convocados para tribunal em Nova Iorque, enquanto vários casos de agressão e homicídio resultaram em detenções e medidas de coação preventiva em território nacional. Adicionalmente, a ERC iniciou averiguações sobre uma invasão à RUC, e o Tribunal de Recurso afastou juízes numa disputa judicial. O tema dominante foi a morosidade processual e os problemas de gestão dos tribunais, evidenciados pelas críticas de Ivo Rosa e pela identificação de pagamentos ilegais pelo Tribunal de Contas.",
+   "n": 32,
+   "pct": 77,
    "lado": "negativas"
   }
  }
