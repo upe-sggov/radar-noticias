@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-15 10:49",
+ "gerado": "2026-10-15 12:45",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -538,11 +538,11 @@
    "pct": 78,
    "lado": "negativas"
   },
-  "2026-10-15|Educação, Ciência e Inovação": {
-   "texto": "No dia 15 de outubro de 2026, ocorreu um desabamento do telhado de uma escola no Paquistão, resultando em múltiplas fatalidades. O evento, ocorrido durante o dia, causou a morte de pelo menos 27 crianças e um professor, elevando posteriormente o número de vítimas para 28. O incidente, de natureza estrutural e com consequências trágicas, foi amplamente noticiado a nível internacional e nacional, evidenciando a gravidade da situação e a necessidade de avaliação das condições de segurança nas infraestruturas escolares. O tema dominante associado aos títulos é, portanto, a catástrofe na área da educação, relacionada com a segurança de edifícios escolares.",
-   "n": 12,
-   "pct": 80,
-   "lado": "negativas"
+  "2026-10-15|Economia e Coesão Territorial|+": {
+   "texto": "Na área da economia e coesão territorial, destaca-se a iniciativa da Navigator para mobilizar até 84 milhões de euros em investimento na fileira florestal, visando impulsionar o setor. Adicionalmente, o grupo francês Ora concretizou a compra da Original Spot Design, reforçando a dinâmica do mercado europeu de 'retail fit-out'. No âmbito da proteção civil e ambiente, foi assegurado um reforço de 6 milhões de euros para os Açores no orçamento de 2027, enquanto a economia nacional beneficia de 450 milhões de euros em sinergias decorrentes da aquisição da TAP pela Lufthansa. Por fim, o investimento de 500 milhões de euros em infraestruturas de uso duplo em Tancos e a expansão das instalações do i3S no Porto, para acolher um centro de medicina de precisão, evidenciam a aposta em setores estratégicos.",
+   "n": 13,
+   "pct": 54,
+   "lado": "positivas"
   }
  }
 }
