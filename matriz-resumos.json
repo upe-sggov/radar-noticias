@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-17 01:40",
+ "gerado": "2026-10-17 11:59",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -538,9 +538,15 @@
    "pct": 76,
    "lado": "negativas"
   },
-  "2026-10-16|Ambiente e Energia|+": {
-   "texto": "No dia 16 de outubro de 2026, a Comissão Europeia, sob a presidência da Chanceler Ursula von der Leyen, anunciou a implementação de compras conjuntas de energia para mitigar os preços no mercado interno, um acordo que visa reduzir os custos energéticos para os cidadãos e empresas. Paralelamente, foi entregue à Ministra da Habitação e Ação Climática um plano de cooperação para o sistema de limpeza urbana “Volta”, com especial enfoque na monitorização da qualidade da água, promovendo soluções inovadoras para a gestão de recursos hídricos. Adicionalmente, a EDP Renováveis registou um aumento de 2% na produção elétrica até setembro, impulsionado pela procura proveniente da América do Norte, evidenciando a expansão da capacidade instalada em energias limpas.",
-   "n": 23,
+  "2026-10-17|Defesa Nacional|+": {
+   "texto": "1. **Apoio à Ucrânia na reabilitação de militares feridos:** O Centro de Reabilitação em Ourém, anteriormente um seminário, recebeu 50 militares ucranianos feridos na guerra, iniciando um processo de recuperação física e psicológica.\n\n2. **Tensões fronteiriças entre Ucrânia e Rússia:** Intensificação de ataques com drones em regiões fronteiriças, evidenciando a continuidade do conflito militar.\n\n3. **Suspensão temporária das sanções dos EUA:** A Ucrânia expressou preocupação com a suspensão temporária das sanções americanas, considerando que esta poderá ser interpretada como um incentivo ao Presidente russo Vladimir Putin.\n\n4. **Apoio político à causa ucraniana:** A afirmação de que \"a Ucrânia prevalecerá\" reflete o reconhecimento político e o apoio internacional à causa ucraniana.",
+   "n": 10,
+   "pct": 59,
+   "lado": "positivas"
+  },
+  "2026-10-17|Cultura, Juventude e Desporto|+": {
+   "texto": "No âmbito da área governativa da Cultura, Juventude e Desporto, verificou-se a atribuição do Prémio Jovens Músicos à autobiografia de Maria Teresa de Macedo, no domínio da música. No domínio do desporto, a RTP Notícias registou a cobertura de jogos internacionais de futebol, nomeadamente na Liga Inglesa e na Liga Alemã. Paralelamente, a área da cultura foi marcada pela divulgação de fotografias vencedoras de um concurso de vida selvagem do Museu de História Natural de Londres. Observou-se, ainda, um evento de atividade física na Madeira, o EcoTrail Funchal, com a participação de 440 atletas. O tema dominante parece ser o reconhecimento de mérito artístico e a promoção de atividades desportivas e de bem-estar.",
+   "n": 6,
    "pct": 50,
    "lado": "positivas"
   }
