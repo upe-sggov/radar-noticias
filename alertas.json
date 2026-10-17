@@ -1,70 +1,49 @@
 {
- "atualizado": "2026-10-16 22:00",
- "dia": "2026-10-16",
- "corte": "22:00",
+ "atualizado": "2026-10-17 01:16",
+ "dia": "2026-10-17",
+ "corte": "01:16",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 22:00, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 01:16, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [
-  {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 126,
-   "mediana": 55.0,
-   "limiar": 105.4,
-   "excesso": 71.0,
-   "variacao_pct": 129,
-   "dias_base": 28,
-   "tempestade": true
-  }
- ],
+ "tempestades": [],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 126,
-   "mediana": 55.0,
-   "limiar": 105.4,
-   "excesso": 71.0,
-   "variacao_pct": 129,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Defesa Nacional",
-   "hoje": 96,
-   "mediana": 67.0,
-   "limiar": 111.5,
-   "excesso": 29.0,
-   "variacao_pct": 43,
+   "hoje": 4,
+   "mediana": 2.0,
+   "limiar": 10.0,
+   "excesso": 2.0,
+   "variacao_pct": 100,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Ambiente e Energia",
-   "hoje": 62,
-   "mediana": 40.5,
-   "limiar": 86.5,
-   "excesso": 21.5,
-   "variacao_pct": 53,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Administração Interna",
-   "hoje": 62,
-   "mediana": 46.0,
-   "limiar": 93.4,
-   "excesso": 16.0,
-   "variacao_pct": 35,
+   "area": "Justiça",
+   "hoje": 4,
+   "mediana": 3.0,
+   "limiar": 11.0,
+   "excesso": 1.0,
+   "variacao_pct": 33,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Primeiro-Ministro",
-   "hoje": 40,
-   "mediana": 24.0,
-   "limiar": 65.5,
-   "excesso": 16.0,
-   "variacao_pct": 67,
+   "hoje": 2,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 1.0,
+   "variacao_pct": 100,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Presidência",
+   "hoje": 1,
+   "mediana": 0.0,
+   "limiar": 8.0,
+   "excesso": 1.0,
+   "variacao_pct": null,
    "dias_base": 28,
    "tempestade": false
   }
