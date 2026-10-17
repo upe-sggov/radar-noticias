@@ -1,49 +1,29 @@
 {
- "atualizado": "2026-10-17 01:16",
+ "atualizado": "2026-10-17 11:35",
  "dia": "2026-10-17",
- "corte": "01:16",
+ "corte": "11:35",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:16, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:35, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 4,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 2.0,
-   "variacao_pct": 100,
+   "hoje": 32,
+   "mediana": 21.0,
+   "limiar": 46.2,
+   "excesso": 11.0,
+   "variacao_pct": 52,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Justiça",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Primeiro-Ministro",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Presidência",
-   "hoje": 1,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 1.0,
-   "variacao_pct": null,
+   "area": "Saúde",
+   "hoje": 25,
+   "mediana": 17.5,
+   "limiar": 32.3,
+   "excesso": 7.5,
+   "variacao_pct": 43,
    "dias_base": 28,
    "tempestade": false
   }
