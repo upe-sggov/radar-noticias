@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-18 17:05",
+ "gerado": "2026-10-18 19:50",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -533,15 +533,21 @@
    "lado": "negativas"
   },
   "2026-10-18|Defesa Nacional": {
-   "texto": "No dia 2026-10-18, a área da Defesa Nacional registou múltiplos incidentes de relevância internacional. Destacam-se o incêndio em bases militares no Canadá e na Rússia, que causaram vítimas mortais e feridos, bem como ataques ucranianos a infraestruturas críticas, nomeadamente um terminal petrolífero em São Petersburgo, resultando em incêndios. Adicionalmente, verificou-se a deteção de aparelhos voadores por forças da NATO, levando a alertas e ativação de caças, e a nomeação do ministro da Defesa iraniano, Mehrdad Akhlaghi, oito meses após o início da guerra. O tema dominante é o conflito armado e as suas consequências diretas em instalações militares e infraestruturas críticas.",
-   "n": 20,
+   "texto": "No dia 18 de outubro de 2026, registaram-se múltiplos incidentes de segurança e combate na área da Defesa Nacional, agrupados em dois temas dominantes: incidentes aéreos e incêndios em instalações militares. Um drone provocou um alerta aéreo na Lituânia e Letónia, levando à intervenção de caças da NATO, tendo posteriormente despenhado-se em território lituano. Simultaneamente, um incêndio numa base militar no Canadá causou a morte de quatro militares e dezenas de feridos, confirmada por diversas fontes noticiosas. Adicionalmente, a Ucrânia foi envolvida em múltiplos eventos, incluindo ataques a infraestruturas críticas (um terminal petrolífero em São Petersburgo) e confrontos na região de Lugansk, resultando em vítimas mortais.",
+   "n": 44,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-10-18|Finanças": {
+   "texto": "No dia 18 de outubro de 2026, a área das Finanças registou um conjunto de notícias centradas num anúncio político relacionado com a habitação. Vários títulos indicam que o partido político Chega propôs um \"pacote legislativo de emergência\" para responder a problemas habitacionais, admitindo a necessidade de incorrer num défice orçamental para financiar as medidas. O tema dominante é, portanto, a resposta política a uma crise habitacional, com a justificação de um défice para a sua implementação. Adicionalmente, em contexto distinto, a notícia da detenção de oito indivíduos numa operação de fiscalização conjunta entre a GNR e a Autoridade Tributária foi também registada, embora não se relacione diretamente com a área das Finanças no âmbito deste evento específico.",
+   "n": 10,
    "pct": 77,
    "lado": "negativas"
   },
   "2026-10-18|Presidência": {
-   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a origem dos distúrbios em França à imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, o debate político em torno da imigração intensificou-se, com críticas ao Governo por alimentar um sentimento negativo contra imigrantes, nomeadamente por parte de Ana Catarina Mendes, ex-ministra, que acusou o governo de Montenegro de permitir um aumento de tal sentimento. Adicionalmente, a AIMA (Agência para a Gestão da Imigração e das Migrações) enfrentou decisões judiciais que travaram algumas das suas decisões, levantando preocupações sobre potenciais abusos e o fim do projeto original. O tema dominante foi, portanto, a controvérsia em torno da gestão da imigração e o seu impacto político em ambos os países.",
+   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a origem dos distúrbios ocorridos em França à imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, a discussão sobre a imigração foi intensificada com declarações de figuras políticas, nomeadamente Ana Catarina Mendes, que acusou o Governo de Montenegro de fomentar um sentimento negativo contra imigrantes, e com a contestação judicial de decisões da Agência para a Integração, Migrações e Asilo (AIMA) por um tribunal superior. Adicionalmente, o Chega denunciou a emissão de autorizações de residência, enquanto a ex-ministra Ana Catarina Mendes expressou preocupações sobre abusos decorrentes da alteração do projeto original da AIMA. O tema dominante foi a imigração e a sua gestão política em ambos os países.",
    "n": 17,
-   "pct": 85,
+   "pct": 86,
    "lado": "negativas"
   }
  }
