@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-10-19 18:42",
+ "atualizado": "2026-10-19 20:50",
  "dia": "2026-10-19",
- "corte": "18:42",
+ "corte": "20:50",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 18:42, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 20:50, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 127,
-   "mediana": 55.0,
-   "limiar": 105.4,
-   "excesso": 72.0,
-   "variacao_pct": 131,
+   "hoje": 149,
+   "mediana": 66.5,
+   "limiar": 127.3,
+   "excesso": 82.5,
+   "variacao_pct": 124,
    "dias_base": 28,
    "tempestade": true
   }
@@ -20,51 +20,51 @@
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 127,
-   "mediana": 55.0,
-   "limiar": 105.4,
-   "excesso": 72.0,
-   "variacao_pct": 131,
+   "hoje": 149,
+   "mediana": 66.5,
+   "limiar": 127.3,
+   "excesso": 82.5,
+   "variacao_pct": 124,
    "dias_base": 28,
    "tempestade": true
   },
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 68,
-   "mediana": 44.0,
-   "limiar": 109.2,
-   "excesso": 24.0,
-   "variacao_pct": 55,
+   "hoje": 76,
+   "mediana": 48.5,
+   "limiar": 116.7,
+   "excesso": 27.5,
+   "variacao_pct": 57,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Justiça",
-   "hoje": 71,
-   "mediana": 52.0,
-   "limiar": 98.0,
-   "excesso": 19.0,
-   "variacao_pct": 37,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Saúde",
-   "hoje": 54,
-   "mediana": 39.0,
-   "limiar": 62.7,
-   "excesso": 15.0,
-   "variacao_pct": 38,
+   "hoje": 80,
+   "mediana": 60.0,
+   "limiar": 108.9,
+   "excesso": 20.0,
+   "variacao_pct": 33,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Cultura, Juventude e Desporto",
-   "hoje": 65,
-   "mediana": 50.5,
-   "limiar": 78.7,
-   "excesso": 14.5,
-   "variacao_pct": 29,
+   "hoje": 70,
+   "mediana": 56.0,
+   "limiar": 82.7,
+   "excesso": 14.0,
+   "variacao_pct": 25,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Saúde",
+   "hoje": 59,
+   "mediana": 45.5,
+   "limiar": 67.7,
+   "excesso": 13.5,
+   "variacao_pct": 30,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1179,9 +1179,9 @@
   {
    "data": "2026-10-19",
    "area": "Infraestruturas e Habitação",
-   "hoje": 127,
-   "mediana": 55.0,
-   "limiar": 105.4
+   "hoje": 149,
+   "mediana": 66.5,
+   "limiar": 127.3
   }
  ]
 }
