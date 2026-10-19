@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-19 01:25",
+ "gerado": "2026-10-19 10:18",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -532,12 +532,6 @@
    "pct": 76,
    "lado": "negativas"
   },
-  "2026-10-18|Presidência": {
-   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a origem dos distúrbios ocorridos em França à imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, a discussão sobre a imigração foi intensificada com declarações de figuras políticas, nomeadamente Ana Catarina Mendes, que acusou o Governo de Montenegro de fomentar um sentimento negativo contra imigrantes, e com a contestação judicial de decisões da Agência para a Integração, Migrações e Asilo (AIMA) por um tribunal superior. Adicionalmente, o Chega denunciou a emissão de autorizações de residência, enquanto a ex-ministra Ana Catarina Mendes expressou preocupações sobre abusos decorrentes da alteração do projeto original da AIMA. O tema dominante foi a imigração e a sua gestão política em ambos os países.",
-   "n": 17,
-   "pct": 86,
-   "lado": "negativas"
-  },
   "2026-10-11|Presidência": {
    "texto": "No dia 2026-10-11, registou-se um naufrágio ao largo do Djibuti que resultou em pelo menos 109 mortes e 116 desaparecidos, sendo este o principal acontecimento noticiado. Adicionalmente, foi desmantelado o último acampamento de migrantes em Ceuta, pouco antes da visita do Rei de Espanha, que constituía um evento secundário. O tema dominante da cobertura mediática foi, portanto, a crise migratória e os seus efeitos trágicos.",
    "n": 18,
@@ -550,17 +544,35 @@
    "pct": 76,
    "lado": "negativas"
   },
-  "2026-10-18|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 18 de outubro de 2026, a cobertura mediática da área governativa do Trabalho, Solidariedade e Segurança Social foi dominada por um movimento de protesto relacionado com a habitação. A informação disponível indica que uma acampada de pessoas em Lisboa reivindicou uma \"greve geral ibérica\" e articula ações com o Porto, visando a habitação. Adicionalmente, registaram-se denúncias sobre o impacto de potenciais encerramentos de escolas devido a greves, nomeadamente no que concerne à falta de resposta do sistema para as crianças, e a associação Creche Feliz reportou situações de pais que abandonam o emprego por não conseguirem assegurar o cuidado dos seus filhos. Não foi possível apurar, a partir dos títulos, a existência de decisões ou casos concretos na área da Segurança Social que justificassem a cobertura negativa.",
-   "n": 12,
-   "pct": 75,
-   "lado": "negativas"
-  },
   "2026-10-18|Finanças": {
    "texto": "No dia 18 de outubro de 2026, o partido político Chega propôs um \"pacote legislativo de emergência\" para a habitação, admitindo a necessidade de incorrer em défice orçamental para financiar as medidas. O tema dominante da cobertura mediática foi, assim, a habitação, com propostas de medidas urgentes e a justificação de um eventual défice. Não foram reportados outros acontecimentos relevantes na área das Finanças para além desta iniciativa política. A operação de fiscalização da GNR e da Autoridade Tributária, com detenções, constitui um evento distinto, mas não se enquadra no âmbito do tema da habitação.",
    "n": 12,
    "pct": 80,
    "lado": "negativas"
+  },
+  "2026-10-18|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 18 de outubro de 2026, a cobertura mediática focou-se em dois eventos principais. O primeiro, dominante, diz respeito a uma acampada de manifestantes pela habitação em Lisboa, que propôs uma \"greve geral ibérica\" em articulação com o Porto, motivada por dificuldades no acesso à habitação e pela pressão sobre os rendimentos familiares. Paralelamente, registou-se uma situação crítica no âmbito da creche, com famílias a abandonar o emprego devido à falta de respostas no que toca à guarda dos filhos, levando a potenciais encerramentos escolares. Não se identificou um tema unificador para além da problemática da habitação e da conciliação entre vida profissional e familiar.",
+   "n": 13,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-10-18|Presidência": {
+   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a distúrbios ocorridos em França a imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, a discussão sobre a imigração intensificou-se devido a declarações de figuras políticas, nomeadamente Ana Catarina Mendes, que acusou o Governo de Montenegro de fomentar um sentimento negativo contra imigrantes, e Luís Leitão Amaro, acusado de ceder a posições extremistas do partido Chega. Adicionalmente, o Tribunal Superior travou decisões da Agência para a Integração, Migrações e Asilo (AIMA), indicando problemas na gestão de processos de saída de estrangeiros. O tema dominante foi a controvérsia em torno da política de imigração e a sua perceção pública.",
+   "n": 17,
+   "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-10-19|Justiça": {
+   "texto": "No dia 19 de outubro de 2026, registaram-se múltiplos acontecimentos na área da justiça, predominantemente relacionados com processos judiciais e debates políticos. Destacam-se a decisão judicial sobre o processo Tutti Frutti, que determinou se os arguidos serão julgados por corrupção em autarquias; o início do julgamento de José Sócrates por branqueamento de capitais, no âmbito da Operação Marquês; e a condenação, na Coreia do Sul, de um líder de seita a 33 anos de prisão por abusos sexuais. Adicionalmente, verificaram-se decisões sobre insolvência e sobre a condução de processos judiciais, incluindo uma guerra de juízes nos tribunais administrativos e a cobertura de um debate presidencial no Brasil, marcado por acusações e escassas propostas políticas.",
+   "n": 26,
+   "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-10-19|Ambiente e Energia|+": {
+   "texto": "A EDP Renováveis celebrou um acordo de longo prazo com uma empresa tecnológica americana, reforçando a sua aposta em inovação e eficiência energética. Adicionalmente, a IP anunciou um plano para alimentar um quarto da rede ferroviária nacional com energia solar, visando a descarbonização do setor dos transportes. Estes dois eventos evidenciam um tema dominante de modernização e sustentabilidade no setor energético português, através da integração de tecnologias avançadas.",
+   "n": 7,
+   "pct": 78,
+   "lado": "positivas"
   }
  }
 }
