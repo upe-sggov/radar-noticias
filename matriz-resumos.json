@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-20 09:58",
+ "gerado": "2026-10-20 12:54",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -562,12 +562,6 @@
    "pct": 82,
    "lado": "negativas"
   },
-  "2026-10-19|Reforma do Estado|+": {
-   "texto": "No âmbito da Reforma do Estado, foi alcançada a revisão das carreiras gerais da Função Pública, com a proposta de alteração a avançar para implementação já em dezembro. Paralelamente, a Altice Labs foi distinguida com um prémio internacional de Inteligência Artificial nas telecomunicações, evidenciando o progresso em inovação tecnológica. Adicionalmente, foi inaugurado um novo laboratório no Porto, com um investimento de 2,1 milhões de euros, destinado a acelerar o diagnóstico do cancro e do Alzheimer. Por fim, no domínio da eficiência energética, a EDP Renováveis, através da aplicação de IA, acelerou o desenvolvimento de um contrato de longo prazo com uma tecnológica americana. O tema dominante é a modernização da administração pública e o avanço tecnológico em diversas áreas.",
-   "n": 6,
-   "pct": 50,
-   "lado": "positivas"
-  },
   "2026-10-19|Justiça": {
    "texto": "No dia 19 de outubro de 2026, a cobertura noticiosa da área da Justiça evidenciou múltiplos acontecimentos, agrupados em torno de temas como a resolução de casos criminais, processos judiciais de elevada visibilidade e decisões administrativas. Destacaram-se a continuação do julgamento do caso Tutti-frutti, com a determinação de que 56 dos 59 arguidos seriam julgados por alegada corrupção em autarquias, bem como a decisão judicial sobre 56 arguidos por burlas através de MBWay, com condenações em Portalegre e Madeira. Adicionalmente, verificou-se a condenação de um ex-padre por burla e violação, e a reapreciação de um julgamento por tráfico de droga nos Açores. Observou-se ainda a abertura do julgamento de José Sócrates por branqueamento, a emissão de mandados de detenção contra o antigo presidente cubano Raúl Castro por parte do Ministério Público dos EUA, e a decisão do Tribunal Constitucional, solicitada pela Provedora de Justiça, sobre alterações ao processo penal.",
    "n": 63,
@@ -575,10 +569,28 @@
    "lado": "negativas"
   },
   "2026-10-20|Administração Interna": {
-   "texto": "No dia 20 de outubro de 2026, a Polícia de Segurança Pública (PSP) realizou operações de desmantelamento de acampamentos de manifestantes em Lisboa e no Porto, no âmbito de protestos relacionados com a habitação. As ações, efetuadas em várias horas e com recurso a mais de 50 agentes no Rossio, resultaram em detenções e, em alguns casos, em feridos. Adicionalmente, a Guarda Nacional Republicana (GNR) registou um aumento significativo de crimes nas escolas, incluindo casos de bullying e ciberbullying.",
-   "n": 36,
-   "pct": 77,
+   "texto": "No dia 20 de outubro de 2026, a PSP realizou diversas operações de desmantelamento de acampadas e detenções no âmbito de protestos pela habitação em Lisboa e no Porto. Foram efetuadas mais de 55 detenções, resultando em dois feridos, em Lisboa, e em intervenções semelhantes no Porto, onde os manifestantes dispersaram pacificamente. O tema dominante foi a resposta das forças de segurança a acampamentos ilegais e protestos pela habitação acessível, com a Administração Interna a reportar a retirada de tendas e a aplicação da lei.",
+   "n": 57,
+   "pct": 75,
    "lado": "negativas"
+  },
+  "2026-10-20|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 20 de outubro de 2026, a área do Trabalho, Solidariedade e Segurança Social registou uma concentração de notícias negativas centradas em greves e problemas de recursos. O evento dominante foi uma greve total na Metro Transportes do Sul, com adesão de 100%, que afetou o serviço em Lisboa e arredores durante dois dias. Adicionalmente, associações de apoio social no Funchal reportaram carência de recursos, e a CGA manifestou posição sobre a fórmula de cálculo de pensões futuras, suscitando dúvidas sobre o impacto nas pensões.",
+   "n": 19,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-10-20|Economia e Coesão Territorial|+": {
+   "texto": "No dia 20 de outubro de 2026, foram registados diversos acontecimentos relevantes no âmbito da economia e coesão territorial. O IAPMEI lançou um programa de 2,47 milhões de euros para a transformação digital de 600 PME, visando acelerar a sua modernização tecnológica. Simultaneamente, arrancou em Leiria um projeto-piloto de capacitação em inteligência artificial para micro e PME, envolvendo 50 participantes e enquadrado num esforço mais amplo de promoção da IA no tecido empresarial. Adicionalmente, o investimento verde na indústria nacional registou um crescimento de 71% em 2025, evidenciando uma transição energética progressiva. O tema dominante foi, portanto, o impulso à digitalização e à inovação tecnológica no tecido empresarial português.",
+   "n": 12,
+   "pct": 63,
+   "lado": "positivas"
+  },
+  "2026-10-20|Negócios Estrangeiros|+": {
+   "texto": "Em 2025, verificou-se um aumento de 71% no investimento verde na indústria nacional, evidenciando um reforço da transição energética e da sustentabilidade económica. A taxa de emprego de imigrantes em Portugal atingiu 76% em 2025, superando a média da União Europeia, refletindo políticas de integração laboral eficazes. Na área diplomática, a reunião em Oslo entre a Ucrânia, a União Europeia e os Estados Unidos visou a procura de soluções para a paz, marcando um esforço concertado para a estabilidade regional. No âmbito da justiça financeira, o Jornal Económico noticiou que os bancos deverão devolver fundos obtidos ilicitamente em fraudes bancárias, mesmo quando os clientes são acusados de negligência, reforçando a proteção dos consumidores e a responsabilização das instituições financeiras.",
+   "n": 4,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
