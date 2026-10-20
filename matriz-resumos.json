@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-19 21:11",
+ "gerado": "2026-10-20 02:26",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -563,10 +563,16 @@
    "lado": "negativas"
   },
   "2026-10-19|Justiça": {
-   "texto": "No dia 19 de outubro de 2026, registaram-se múltiplos acontecimentos na área da Justiça, com destaque para a continuação do julgamento do caso Tutti-Frutti, no qual 56 arguidos foram enviados a julgamento por burlas através de MBWay, conforme determinado pelo Tribunal de Portalegre. Adicionalmente, verificou-se a condenação de 55 indivíduos por crimes semelhantes, confirmando a persistência deste tipo de criminalidade no âmbito digital. Paralelamente, o Tribunal Constitucional apreciou pedidos da Provedora de Justiça relativos a alterações ao processo penal, suscitando debate sobre a sua constitucionalidade. Um tema dominante foi, assim, a investigação de crimes financeiros e a análise de reformas processuais.",
-   "n": 56,
-   "pct": 83,
+   "texto": "No dia 2026-10-19, a área da Justiça registou múltiplos acontecimentos, predominantemente relacionados com processos judiciais de grande visibilidade e escândalos de corrupção. Destacam-se a continuação do julgamento do caso Tutti-frutti, com a determinação de que 56 dos 59 arguidos serão julgados por corrupção em autarquias, e o início do julgamento de José Sócrates por branqueamento de capitais. Adicionalmente, verificaram-se decisões judiciais relevantes, como a condenação de um ex-padre por burla e violação, e a reiteração de penas no caso de homicídio em Santa Maria da Feira. Observou-se ainda um conjunto de processos relacionados com o Ministério Público dos EUA, nomeadamente a emissão de mandados de detenção contra Raúl Castro, e a investigação de queixas, como a apresentada por Montenegro contra um designer e humorista.",
+   "n": 61,
+   "pct": 81,
    "lado": "negativas"
+  },
+  "2026-10-19|Reforma do Estado|+": {
+   "texto": "No âmbito da Reforma do Estado, foi alcançada a revisão das carreiras gerais da Função Pública, com a proposta de alteração a avançar para implementação já em dezembro. Paralelamente, a Altice Labs foi distinguida com um prémio internacional de Inteligência Artificial nas telecomunicações, evidenciando o progresso em inovação tecnológica. Adicionalmente, foi inaugurado um novo laboratório no Porto, com um investimento de 2,1 milhões de euros, destinado a acelerar o diagnóstico do cancro e do Alzheimer. Por fim, no domínio da eficiência energética, a EDP Renováveis, através da aplicação de IA, acelerou o desenvolvimento de um contrato de longo prazo com uma tecnológica americana. O tema dominante é a modernização da administração pública e o avanço tecnológico em diversas áreas.",
+   "n": 6,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
