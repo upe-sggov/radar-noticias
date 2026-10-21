@@ -1,39 +1,70 @@
 {
- "atualizado": "2026-10-21 01:30",
+ "atualizado": "2026-10-21 09:44",
  "dia": "2026-10-21",
- "corte": "01:30",
+ "corte": "09:44",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:30, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:44, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 47,
+   "mediana": 14.0,
+   "limiar": 31.8,
+   "excesso": 33.0,
+   "variacao_pct": 236,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 11,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 8.0,
-   "variacao_pct": 267,
+   "hoje": 47,
+   "mediana": 14.0,
+   "limiar": 31.8,
+   "excesso": 33.0,
+   "variacao_pct": 236,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Presidência",
+   "hoje": 12,
+   "mediana": 5.0,
+   "limiar": 13.0,
+   "excesso": 7.0,
+   "variacao_pct": 140,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Defesa Nacional",
-   "hoje": 5,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 3.0,
-   "variacao_pct": 150,
+   "hoje": 22,
+   "mediana": 16.5,
+   "limiar": 32.8,
+   "excesso": 5.5,
+   "variacao_pct": 33,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Presidência",
-   "hoje": 1,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 1.0,
-   "variacao_pct": null,
+   "area": "Negócios Estrangeiros",
+   "hoje": 9,
+   "mediana": 7.0,
+   "limiar": 15.0,
+   "excesso": 2.0,
+   "variacao_pct": 29,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Assuntos Parlamentares",
+   "hoje": 3,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 2.0,
+   "variacao_pct": 200,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1165,6 +1196,13 @@
    "hoje": 214,
    "mediana": 74.5,
    "limiar": 147.1
+  },
+  {
+   "data": "2026-10-21",
+   "area": "Infraestruturas e Habitação",
+   "hoje": 47,
+   "mediana": 14.0,
+   "limiar": 31.8
   }
  ]
 }
