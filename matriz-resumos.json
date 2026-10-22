@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-22 01:50",
+ "gerado": "2026-10-22 13:03",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -580,11 +580,23 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-10-21|Administração Interna": {
-   "texto": "No dia 21 de outubro de 2026, registaram-se múltiplos incidentes de natureza diversa na área da Administração Interna. Um despiste de trator em Santarém causou a morte de um homem. Em Mafra, um indivíduo foi detido após ter agredido a sua companheira e solicitado auxílio numa farmácia. No Rossio, Lisboa, ocorreram protestos relacionados com a habitação, com a PSP a alertar para a possibilidade de intervenção caso os limites estabelecidos fossem violados. Paralelamente, verificaram-se detenções por tráfico de droga, incêndio, desvio de encomendas e posse de armas proibidas, abrangendo diversas localidades. Adicionalmente, registaram-se manifestações e incidentes envolvendo agentes das forças de segurança, incluindo detenções e confrontos, bem como apreensões de combustível e de bens relacionados com atividades ilícitas.",
-   "n": 49,
+  "2026-10-21|Primeiro-Ministro": {
+   "texto": "No dia 21 de outubro de 2026, a área da Habitação foi palco de uma intensificação da tensão política, com o PCP a alertar para as consequências do descongelamento das propinas e a criticar a postura do Governo face ao financiamento do SNS. Paralelamente, o PCP e o PSD foram protagonistas de um confronto político em torno da lei das rendas, com o deputado do PCP, João Paulo Cariço, a reiterar um desafio público ao Primeiro-Ministro Luís Montenegro, apelando a uma revisão da legislação habitacional. Adicionalmente, a área da Saúde mereceu uma nota de alerta governamental, face aos saldos negativos nos orçamentos para o Serviço Nacional de Saúde e à previsão de insuficiência de financiamento, conforme indicado num estudo.",
+   "n": 8,
    "pct": 75,
    "lado": "negativas"
+  },
+  "2026-10-22|Saúde|+": {
+   "texto": "No dia 22 de outubro de 2026, o Estado português procedeu à comparticipação de 15% dos medicamentos para obesidade, abrangendo doentes acompanhados em contexto clínico, conforme noticiado pelo Jornal de Notícias e pelo Observador. Adicionalmente, o médico Luís Maurício foi distinguido com a mais elevada distinção da Sociedade Portuguesa de Reumatologia, conforme divulgado pelo Açoriano Oriental. Paralelamente, o Hospital Amato Lusitano estabeleceu uma consulta de seguimento para doentes pós-cuidados intensivos, conforme reportado pela Healthnews, e realizou um encontro dedicado à diabetes tipo 1, com a partilha de experiências e a participação de especialistas. O tema dominante destes acontecimentos reside no reforço da saúde pública e na resposta a doenças crónicas e agudas.",
+   "n": 6,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-10-22|Ambiente e Energia|+": {
+   "texto": "No dia 22 de outubro de 2026, a Administração Pública registou a adesão de 80 entidades ao programa verde, reforçando a implementação de práticas sustentáveis no setor público. Paralelamente, a Índia anunciou a implementação de medidas anuais de combate à poluição atmosférica, com foco na capital, Nova Deli, visando a melhoria da qualidade do ar. Adicionalmente, o Fundo Ambiental procedeu ao pagamento de apoios do PRR a comunidades dedicadas à produção de energia renovável, impulsionando a transição energética. O tema dominante destes acontecimentos é a promoção da sustentabilidade ambiental e a transição para fontes de energia renovável.",
+   "n": 4,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
