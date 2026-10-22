@@ -1,39 +1,70 @@
 {
- "atualizado": "2026-10-22 01:33",
+ "atualizado": "2026-10-22 09:55",
  "dia": "2026-10-22",
- "corte": "01:33",
+ "corte": "09:55",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:33, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:55, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 58,
+   "mediana": 16.0,
+   "limiar": 39.7,
+   "excesso": 42.0,
+   "variacao_pct": 262,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 10,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 7.0,
-   "variacao_pct": 233,
+   "hoje": 58,
+   "mediana": 16.0,
+   "limiar": 39.7,
+   "excesso": 42.0,
+   "variacao_pct": 262,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Defesa Nacional",
+   "hoje": 29,
+   "mediana": 18.0,
+   "limiar": 38.8,
+   "excesso": 11.0,
+   "variacao_pct": 61,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Finanças",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "area": "Administração Interna",
+   "hoje": 20,
+   "mediana": 10.0,
+   "limiar": 26.3,
+   "excesso": 10.0,
+   "variacao_pct": 100,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Presidência",
-   "hoje": 1,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 1.0,
-   "variacao_pct": null,
+   "area": "Economia e Coesão Territorial",
+   "hoje": 19,
+   "mediana": 16.5,
+   "limiar": 31.3,
+   "excesso": 2.5,
+   "variacao_pct": 15,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Reforma do Estado",
+   "hoje": 8,
+   "mediana": 6.0,
+   "limiar": 14.0,
+   "excesso": 2.0,
+   "variacao_pct": 33,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1179,6 +1210,13 @@
    "hoje": 52,
    "mediana": 22.5,
    "limiar": 50.7
+  },
+  {
+   "data": "2026-10-22",
+   "area": "Infraestruturas e Habitação",
+   "hoje": 58,
+   "mediana": 16.0,
+   "limiar": 39.7
   }
  ]
 }
