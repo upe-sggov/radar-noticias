@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-22 21:40",
+ "gerado": "2026-10-22 22:46",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -586,10 +586,16 @@
    "pct": 77,
    "lado": "negativas"
   },
+  "2026-10-21|Administração Interna": {
+   "texto": "No dia 21 de outubro de 2026, registaram-se múltiplos incidentes e ocorrências policiais na área da Administração Interna. Destacam-se um despiste fatal com trator em Santarém, agressões e detenções relacionadas com violência doméstica e tentativas de auxílio em farmácias, bem como infrações rodoviárias graves, como condução a velocidades excessivas na A8 e na Vasco da Gama. Adicionalmente, ocorreram protestos no Rossio, Lisboa, com permanência noturna e acampamento, resultando em intervenções da PSP e GNR, apreensões de combustível e detenções, além de acusações mútuas de violência. Um tema dominante foi a atuação das forças de segurança face a protestos pela habitação, com declarações oficiais sobre atuação \"por antecipação\" e garantia de cumprimento da lei, num contexto de crise habitacional e tensão social.",
+   "n": 50,
+   "pct": 75,
+   "lado": "negativas"
+  },
   "2026-10-22|Negócios Estrangeiros": {
-   "texto": "No dia 22 de outubro de 2026, António Guterres expressou preocupação com a escalada de protestos globais motivados pelo aumento do custo de vida, reiterando a instabilidade na Palestina e a intensificação dos ataques entre a Rússia e a Ucrânia. Paralelamente, eurodeputados solicitaram à União Europeia a ponderação de uma missão naval no Mar Negro, no contexto de tensões geopolíticas regionais. Adicionalmente, verificou-se uma disparidade no tempo de resposta a reclamações de passageiros entre a TAP e a SATA, enquanto a questão da alteração da hora, com um histórico de adiamentos na sua abolição, foi suscitada em diferentes publicações. O tema dominante centrou-se na instabilidade geopolítica e económica global.",
-   "n": 7,
-   "pct": 78,
+   "texto": "No dia 22 de outubro de 2026, a cobertura noticiosa focou-se em múltiplos desenvolvimentos de natureza internacional e europeia. Relativamente à saúde, a produção de penicilina na Europa enfrentou uma ameaça devido à concorrência de antibióticos chineses de baixo custo. No plano político e de segurança, o Secretário-Geral da ONU expressou preocupação com a escalada de protestos globais motivados pelo custo de vida, a instabilidade na Palestina e os recentes ataques entre a Rússia e a Ucrânia. Paralelamente, o Parlamento Europeu solicitou a ponderação de uma missão naval no Mar Negro, enquanto se reconheceu a ausência de uma estratégia europeia unificada perante a situação geopolítica. A nível institucional, verificou-se uma diferença de desempenho entre a TAP e a SATA no pagamento de indemnizações a passageiros, e a União Europeia ainda não implementou a supressão da mudança sazonal da hora, apesar dos planos iniciais para 2021.",
+   "n": 8,
+   "pct": 80,
    "lado": "negativas"
   }
  }
