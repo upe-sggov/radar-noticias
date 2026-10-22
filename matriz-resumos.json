@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-21 12:55",
+ "gerado": "2026-10-22 01:50",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -526,12 +526,6 @@
    "pct": 65,
    "lado": "positivas"
   },
-  "2026-10-14|Justiça": {
-   "texto": "No dia 14 de outubro de 2026, diversos acontecimentos de natureza judicial e administrativa marcaram a cobertura negativa da área da Justiça. O Tribunal de Recurso questionou a legalidade do envio da Guarda Nacional para Washington, num contexto internacional. Paralelamente, verificou-se a convocação de Nicolás Maduro e Cilia Flores a tribunal em Nova Iorque, por novas acusações. Em território nacional, um juiz convocou os mesmos indivíduos para julgamento, reiterando as acusações. Adicionalmente, registou-se a concessão do perdão por parte de uma vítima de sete facadas na Noite Branca, num caso que suscitou particular atenção mediática. O tema dominante foi a morosidade dos processos judiciais, evidenciada por declarações críticas do juiz Ivo Rosa relativamente aos megaprocessos e atrasos nos inquéritos, bem como pela identificação de pagamentos ilegais pelo Tribunal de Contas nas contas de 2023 das Águas de Gaia.",
-   "n": 34,
-   "pct": 76,
-   "lado": "negativas"
-  },
   "2026-10-11|Presidência": {
    "texto": "No dia 2026-10-11, registou-se um naufrágio ao largo do Djibuti que resultou em pelo menos 109 mortes e 116 desaparecidos, sendo este o principal acontecimento noticiado. Adicionalmente, foi desmantelado o último acampamento de migrantes em Ceuta, pouco antes da visita do Rei de Espanha, que constituía um evento secundário. O tema dominante da cobertura mediática foi, portanto, a crise migratória e os seus efeitos trágicos.",
    "n": 18,
@@ -580,11 +574,17 @@
    "pct": 50,
    "lado": "positivas"
   },
-  "2026-10-21|Ambiente e Energia|+": {
-   "texto": "No dia 21 de outubro de 2026, o Porto de Leixões obteve autorização para fornecer energia elétrica limpa aos navios atracados, reforçando a descarbonização do setor portuário. A Iberdrola reportou um aumento de 9,6% do lucro até setembro, com as redes elétricas a constituírem o principal investimento, evidenciando a expansão da capacidade de distribuição de energia. A agricultura da Madeira iniciou projetos de transformação de resíduos em novos produtos, integrando a economia circular no setor primário. Apesar de não constarem no conjunto de títulos, a cobertura mediática da área de Ambiente e Energia evidenciou uma predominância de notícias positivas relacionadas com a transição energética e a inovação tecnológica.",
-   "n": 9,
-   "pct": 69,
-   "lado": "positivas"
+  "2026-10-14|Justiça": {
+   "texto": "No dia 14 de outubro de 2026, vários acontecimentos de natureza judicial e institucional marcaram a cobertura mediática da área da Justiça. Destacam-se a contestação da legalidade do envio da Guarda Nacional para Washington por um tribunal de recurso, a convocação de Nicolás Maduro e Cilia Flores para julgamento em Nova Iorque por novas acusações, e a condenação de um agressor a perdão por um tribunal, após decisão de uma vítima. Adicionalmente, registam-se múltiplas detenções por tráfico de droga e homicídio, processos pendentes de resolução, e averiguações sobre conflitos de interesses envolvendo figuras políticas. Um tema dominante é a morosidade da justiça, evidenciada pela existência de mais de 27 mil processos pendentes há mais de quatro anos e pela crítica à gestão de megaprocessos, bem como a ocorrência de erros judiciais e falhas no sistema de socorro.",
+   "n": 34,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-10-21|Administração Interna": {
+   "texto": "No dia 21 de outubro de 2026, registaram-se múltiplos incidentes de natureza diversa na área da Administração Interna. Um despiste de trator em Santarém causou a morte de um homem. Em Mafra, um indivíduo foi detido após ter agredido a sua companheira e solicitado auxílio numa farmácia. No Rossio, Lisboa, ocorreram protestos relacionados com a habitação, com a PSP a alertar para a possibilidade de intervenção caso os limites estabelecidos fossem violados. Paralelamente, verificaram-se detenções por tráfico de droga, incêndio, desvio de encomendas e posse de armas proibidas, abrangendo diversas localidades. Adicionalmente, registaram-se manifestações e incidentes envolvendo agentes das forças de segurança, incluindo detenções e confrontos, bem como apreensões de combustível e de bens relacionados com atividades ilícitas.",
+   "n": 49,
+   "pct": 75,
+   "lado": "negativas"
   }
  }
 }
