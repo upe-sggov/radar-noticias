@@ -1,49 +1,70 @@
 {
- "atualizado": "2026-10-23 01:31",
+ "atualizado": "2026-10-23 09:35",
  "dia": "2026-10-23",
- "corte": "01:31",
+ "corte": "09:35",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:31, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:35, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 47,
+   "mediana": 15.0,
+   "limiar": 37.2,
+   "excesso": 32.0,
+   "variacao_pct": 213,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 8,
-   "mediana": 3.5,
-   "limiar": 12.4,
-   "excesso": 4.5,
-   "variacao_pct": 129,
+   "hoje": 47,
+   "mediana": 15.0,
+   "limiar": 37.2,
+   "excesso": 32.0,
+   "variacao_pct": 213,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Agricultura e Mar",
+   "hoje": 10,
+   "mediana": 4.0,
+   "limiar": 12.0,
+   "excesso": 6.0,
+   "variacao_pct": 150,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Reforma do Estado",
-   "hoje": 3,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 2.0,
-   "variacao_pct": 200,
+   "area": "Economia e Coesão Territorial",
+   "hoje": 19,
+   "mediana": 15.0,
+   "limiar": 31.3,
+   "excesso": 4.0,
+   "variacao_pct": 27,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Administração Interna",
+   "hoje": 12,
+   "mediana": 9.0,
+   "limiar": 23.8,
+   "excesso": 3.0,
+   "variacao_pct": 33,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Ambiente e Energia",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Saúde",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
+   "hoje": 11,
+   "mediana": 8.0,
+   "limiar": 16.9,
+   "excesso": 3.0,
+   "variacao_pct": 38,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1196,6 +1217,13 @@
    "hoje": 202,
    "mediana": 80.0,
    "limiar": 173.4
+  },
+  {
+   "data": "2026-10-23",
+   "area": "Infraestruturas e Habitação",
+   "hoje": 47,
+   "mediana": 15.0,
+   "limiar": 37.2
   }
  ]
 }
