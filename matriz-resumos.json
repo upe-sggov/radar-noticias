@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-24 12:10",
+ "gerado": "2026-10-25 11:38",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -598,10 +598,22 @@
    "pct": 80,
    "lado": "negativas"
   },
-  "2026-10-24|Administração Interna": {
-   "texto": "No dia 24 de outubro de 2026, registaram-se dois eventos distintos na área da Administração Interna. Em França, verificou-se um ataque informático a uma base de dados dos bombeiros, com acesso a dados pessoais, e, em simultâneo, o governo francês mobilizou 70 mil agentes para prevenir protestos. Adicionalmente, registaram-se duas explosões sentidas em Riade, após um alerta emitido pela Proteção Civil, conforme noticiado por diversos órgãos de comunicação social. Por fim, um curso académico apresentou dificuldades complexas, embora não diretamente relacionado com a área da Administração Interna.",
-   "n": 7,
-   "pct": 78,
+  "2026-10-25|Administração Interna": {
+   "texto": "Durante o dia 25 de outubro de 2026, ocorreram múltiplas intervenções policiais em Lisboa e no Porto, motivadas por acampadas de manifestantes contra políticas de habitação. A PSP efetuou detenções e registou feridos em diversas ocorrências, nomeadamente no Rossio, Praça D. João I e Mouraria, após recusas em retirar tendas. As ações policiais, descritas como \"musculadas\", foram acompanhadas de divergências nos balanços de feridos e detidos entre as forças de segurança e os manifestantes, refletindo a tensão inerente a estas situações. O tema dominante foi, portanto, a oposição entre protestos pela habitação e a atuação das forças de segurança.",
+   "n": 66,
+   "pct": 86,
+   "lado": "negativas"
+  },
+  "2026-10-25|Justiça": {
+   "texto": "No dia 25 de outubro de 2026, foram libertados detidos envolvidos em protestos relacionados com a habitação, após terem sido presentes a tribunal na segunda-feira seguinte. A libertação destes indivíduos, incluindo quatro homens e duas mulheres detidos no Porto, seguiu-se a detenções efetuadas pela PSP durante manifestações pela habitação em Lisboa e no Porto. O evento dominante é a resolução judicial de casos de detenção resultantes de protestos habitacionais, com foco na obrigação de apresentação a tribunal e na progressiva liberdade dos detidos. A cobertura mediática, maioritariamente negativa, centra-se na ação policial e na gestão judicial destes incidentes.",
+   "n": 9,
+   "pct": 82,
+   "lado": "negativas"
+  },
+  "2026-10-25|Infraestruturas e Habitação": {
+   "texto": "No dia 25 de outubro de 2026, ocorreram múltiplos protestos e intervenções policiais no âmbito da habitação em Lisboa e no Porto. Manifestantes, incluindo pessoas em situação de sem-abrigo e ativistas, ocuparam espaços públicos e acamparam em diversas localizações, gerando confrontos com a PSP. As forças de segurança efetuaram diversas detenções e intervieram para dispersar os acampamentos, resultando em feridos e em divergências de balanço entre a PSP e organizações participantes. Adicionalmente, foi noticiado um caso de detenção de cauções de renda, embora não tenha sido central para os eventos do dia.",
+   "n": 39,
+   "pct": 75,
    "lado": "negativas"
   }
  }
