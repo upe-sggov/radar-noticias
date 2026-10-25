@@ -1,29 +1,60 @@
 {
- "atualizado": "2026-10-25 01:10",
+ "atualizado": "2026-10-25 11:16",
  "dia": "2026-10-25",
- "corte": "01:10",
+ "corte": "11:16",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:10, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:16, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Administração Interna",
+   "hoje": 79,
+   "mediana": 15.0,
+   "limiar": 35.8,
+   "excesso": 64.0,
+   "variacao_pct": 427,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
    "area": "Administração Interna",
-   "hoje": 4,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 3.0,
-   "variacao_pct": 300,
+   "hoje": 79,
+   "mediana": 15.0,
+   "limiar": 35.8,
+   "excesso": 64.0,
+   "variacao_pct": 427,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 52,
+   "mediana": 26.5,
+   "limiar": 65.0,
+   "excesso": 25.5,
+   "variacao_pct": 96,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Infraestruturas e Habitação",
-   "hoje": 5,
-   "mediana": 4.0,
-   "limiar": 12.9,
-   "excesso": 1.0,
-   "variacao_pct": 25,
+   "area": "Presidência",
+   "hoje": 9,
+   "mediana": 7.5,
+   "limiar": 20.8,
+   "excesso": 1.5,
+   "variacao_pct": 20,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Assuntos Parlamentares",
+   "hoje": 3,
+   "mediana": 1.5,
+   "limiar": 9.5,
+   "excesso": 1.5,
+   "variacao_pct": 100,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1197,6 +1228,13 @@
    "hoje": 199,
    "mediana": 85.5,
    "limiar": 195.2
+  },
+  {
+   "data": "2026-10-25",
+   "area": "Administração Interna",
+   "hoje": 79,
+   "mediana": 15.0,
+   "limiar": 35.8
   }
  ]
 }
