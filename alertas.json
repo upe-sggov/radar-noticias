@@ -1,12 +1,84 @@
 {
- "atualizado": "2026-10-26 00:01",
+ "atualizado": "2026-10-26 11:54",
  "dia": "2026-10-26",
- "corte": "00:01",
+ "corte": "11:54",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 00:01, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:54, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
- "momentum": [],
+ "tempestades": [
+  {
+   "area": "Justiça",
+   "hoje": 35,
+   "mediana": 20.0,
+   "limiar": 34.8,
+   "excesso": 15.0,
+   "variacao_pct": 75,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Primeiro-Ministro",
+   "hoje": 15,
+   "mediana": 5.5,
+   "limiar": 14.4,
+   "excesso": 9.5,
+   "variacao_pct": 173,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
+ "momentum": [
+  {
+   "area": "Justiça",
+   "hoje": 35,
+   "mediana": 20.0,
+   "limiar": 34.8,
+   "excesso": 15.0,
+   "variacao_pct": 75,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Primeiro-Ministro",
+   "hoje": 15,
+   "mediana": 5.5,
+   "limiar": 14.4,
+   "excesso": 9.5,
+   "variacao_pct": 173,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Infraestruturas e Habitação",
+   "hoje": 45,
+   "mediana": 37.5,
+   "limiar": 92.4,
+   "excesso": 7.5,
+   "variacao_pct": 20,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Negócios Estrangeiros",
+   "hoje": 19,
+   "mediana": 12.0,
+   "limiar": 23.9,
+   "excesso": 7.0,
+   "variacao_pct": 58,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 34,
+   "mediana": 28.0,
+   "limiar": 57.7,
+   "excesso": 6.0,
+   "variacao_pct": 21,
+   "dias_base": 28,
+   "tempestade": false
+  }
+ ],
  "historico": [
   {
    "data": "2026-08-11",
@@ -1183,6 +1255,20 @@
    "hoje": 129,
    "mediana": 46.0,
    "limiar": 80.1
+  },
+  {
+   "data": "2026-10-26",
+   "area": "Justiça",
+   "hoje": 35,
+   "mediana": 20.0,
+   "limiar": 34.8
+  },
+  {
+   "data": "2026-10-26",
+   "area": "Primeiro-Ministro",
+   "hoje": 15,
+   "mediana": 5.5,
+   "limiar": 14.4
   }
  ]
 }
