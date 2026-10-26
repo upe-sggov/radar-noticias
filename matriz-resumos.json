@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-25 19:17",
+ "gerado": "2026-10-26 00:18",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -532,28 +532,10 @@
    "pct": 78,
    "lado": "negativas"
   },
-  "2026-10-18|Defesa Nacional": {
-   "texto": "No dia 18 de outubro de 2026, registaram-se múltiplos incidentes relacionados com a defesa e operações militares, destacando-se um incêndio numa base militar no Canadá que causou vítimas mortais e feridos, e um ataque ucraniano a um terminal petrolífero em São Petersburgo, Rússia, resultando em incêndio. Paralelamente, a cobertura mediática focou-se em acusações mútuas entre a Ucrânia e os Estados Unidos, nomeadamente sobre a utilização e potencial bloqueio do sistema Starlink, com a NATO a intervir em resposta a alertas aéreos na região do Báltico e na Lituânia. Um tema dominante foi a escalada do conflito no leste da Ucrânia, com ataques ucranianos na região de Lugansk e a destruição de infraestruturas russas, enquanto a Rússia comunicava a interceção de mais de mil drones ucranianos.",
-   "n": 50,
-   "pct": 76,
-   "lado": "negativas"
-  },
   "2026-10-18|Trabalho, Solidariedade e Segurança Social": {
    "texto": "No dia 18 de outubro de 2026, a cobertura mediática focou-se em dois eventos principais. O primeiro, dominante, diz respeito a uma acampada de manifestantes pela habitação em Lisboa, que propôs uma \"greve geral ibérica\" em articulação com o Porto, motivada por dificuldades no acesso à habitação e pela pressão sobre os rendimentos familiares. Paralelamente, registou-se uma situação crítica no âmbito da creche, com famílias a abandonar o emprego devido à falta de respostas no que toca à guarda dos filhos, levando a potenciais encerramentos escolares. Não se identificou um tema unificador para além da problemática da habitação e da conciliação entre vida profissional e familiar.",
    "n": 13,
    "pct": 76,
-   "lado": "negativas"
-  },
-  "2026-10-18|Presidência": {
-   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a distúrbios ocorridos em França a imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, a discussão sobre a imigração intensificou-se devido a declarações de figuras políticas, nomeadamente Ana Catarina Mendes, que acusou o Governo de Montenegro de fomentar um sentimento negativo contra imigrantes, e Luís Leitão Amaro, acusado de ceder a posições extremistas do partido Chega. Adicionalmente, o Tribunal Superior travou decisões da Agência para a Integração, Migrações e Asilo (AIMA), indicando problemas na gestão de processos de saída de estrangeiros. O tema dominante foi a controvérsia em torno da política de imigração e a sua perceção pública.",
-   "n": 17,
-   "pct": 87,
-   "lado": "negativas"
-  },
-  "2026-10-18|Finanças": {
-   "texto": "No dia 18 de outubro de 2026, partidos políticos, nomeadamente o Chega e o partido liderado por Ventura, propuseram medidas legislativas de emergência para o setor da habitação. Estas propostas incluíram a admissão de um défice orçamental para financiar as medidas anunciadas, visando responder a uma crise habitacional. O tema dominante dos títulos noticiosos foi a habitação, com propostas de intervenção legislativa para fazer face a problemas de acesso à mesma. Adicionalmente, outros factos noticiados, como uma operação de fiscalização da GNR e da Autoridade Tributária, foram registados, mas não se relacionam diretamente com o tema central da área das Finanças.",
-   "n": 13,
-   "pct": 82,
    "lado": "negativas"
   },
   "2026-10-19|Justiça": {
@@ -598,16 +580,34 @@
    "pct": 80,
    "lado": "negativas"
   },
-  "2026-10-25|Administração Interna": {
-   "texto": "Nos dias 25 de outubro de 2026, a PSP realizou intervenções policiais de elevada intensidade em Lisboa e no Porto, no contexto de manifestações pela habitação. As operações, que incluíram a dispersão de acampadas e a retirada de tendas, resultaram em múltiplos feridos e detenções, com estimativas divergentes entre organizadores e autoridades. A PSP justificou as ações como cumprimento da lei e garantia da ordem pública, enquanto organizações e meios de comunicação social reportaram números de feridos significativamente superiores aos declarados pela polícia. Adicionalmente, durante uma manifestação relacionada com as eleições brasileiras, a PSP separou fisicamente apoiantes de candidatos rivais em Lisboa, tendo ocorrido incidentes de agressão.",
-   "n": 96,
-   "pct": 80,
+  "2026-10-18|Defesa Nacional": {
+   "texto": "No dia 18 de outubro de 2026, a área da Defesa Nacional registou uma série de incidentes relacionados com a guerra na Ucrânia e operações militares em diferentes partes do globo. Destacam-se ataques ucranianos a infraestruturas petrolíferas em São Petersburgo, que provocaram incêndios, e ataques em larga escala contra o território russo, com consequências em perdas humanas e danos materiais. Adicionalmente, verificaram-se incidentes graves em bases militares, como incêndios com vítimas mortais e feridos no Canadá e na Lituânia, e um despenque de um drone que desencadeou alertas aéreos e a intervenção de caças da NATO. A cobertura mediática deste dia evidenciou um tema dominante de operações militares e conflitos, com particular foco nas ações da Ucrânia e nas reações de outros atores internacionais.",
+   "n": 51,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-10-18|Finanças": {
+   "texto": "No dia 18 de outubro de 2026, o partido político Chega e o partido político Alternativa Democrática Nacional (Ventura) anunciaram, em simultâneo, a apresentação de um \"pacote legislativo de emergência\" para a habitação. Ambos os partidos admitiram a necessidade de incorrer num défice orçamental para financiar as medidas propostas, indicando uma resposta política a um problema de habitação considerado urgente. O tema dominante que emerge destes títulos é a crise habitacional, com propostas de medidas legislativas de emergência e a justificação de um défice para a sua implementação.",
+   "n": 13,
+   "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-10-18|Presidência": {
+   "texto": "No dia 18 de outubro de 2026, Donald Trump, através de publicações nas redes sociais, atribuiu a origem dos distúrbios ocorridos em França à imigração, utilizando a expressão \"a França está a arder\". Paralelamente, em Portugal, o tema da imigração foi objeto de debate político, com críticas ao governo por alimentar um sentimento negativo contra os imigrantes, nomeadamente por parte de Ana Catarina Mendes, que acusou o governo de Montenegro de permitir um aumento desse sentimento. Adicionalmente, o Tribunal Superior travou decisões da Agência para a Integração, Migrações e Asilo (AIMA), relacionadas com a saída de estrangeiros do território nacional, levantando preocupações sobre potenciais abusos e o fim do projeto original da AIMA. O tema dominante foi, portanto, a imigração e a gestão de fluxos migratórios, com implicações políticas e judiciais.",
+   "n": 17,
+   "pct": 85,
    "lado": "negativas"
   },
   "2026-10-25|Justiça": {
-   "texto": "No dia 25 de outubro de 2026, a área da Justiça registou vários acontecimentos notáveis. Destacam-se a detenção e subsequente libertação de manifestantes relacionados com protestos habitacionais, com a apresentação a tribunal marcada para segunda-feira, e a decisão judicial que determinou a prisão preventiva de um autor de tiroteio em França, posteriormente suspensa pela Procuradoria. Adicionalmente, verificou-se uma decisão judicial que determinou a prisão de um secretário de Salvador, motivada pela redução da frota de autocarros. O tema dominante foi a judicialização de protestos sociais e a aplicação da lei penal.",
-   "n": 13,
-   "pct": 88,
+   "texto": "No dia 25 de outubro de 2026, a cobertura noticiosa focou-se predominantemente em questões relacionadas com a justiça e a administração pública, com particular destaque para decisões judiciais e protestos sociais. Vários casos de detenção relacionados com protestos pela habitação foram noticiados, com a libertação dos detidos e a marcação de audiências judiciais para a segunda-feira seguinte. Adicionalmente, o Supremo Tribunal do Brasil prorrogou o horário de votação por duas horas, gerando confusão e sendo criticado por alguns órgãos de comunicação. Por fim, a Procuradoria suspendeu a prisão preventiva de um autor de tiroteio em França, e a Justiça ordenou a detenção de um secretário municipal de Salvador devido à redução da frota de autocarros.",
+   "n": 19,
+   "pct": 77,
+   "lado": "negativas"
+  },
+  "2026-10-25|Administração Interna": {
+   "texto": "No dia 25 de outubro de 2026, ocorreram múltiplas intervenções policiais em Lisboa e no Porto, motivadas por protestos relacionados com o direito à habitação. A PSP efetuou diversas detenções (31 no total, com algumas fontes a referirem um número superior) e registou feridos (11, com divergências entre os balanços da polícia e os apresentados por organizações de manifestantes), em resposta à ocupação de espaços públicos com tendas e à recusa em desmontá-las. Adicionalmente, verificou-se uma intervenção policial durante uma votação em Lisboa, onde apoiantes dos candidatos Lula e Flávio Bolsonaro foram separados, e foi reportada a destruição de acampadas e confrontos subsequentes.",
+   "n": 111,
+   "pct": 81,
    "lado": "negativas"
   }
  }
