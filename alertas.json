@@ -1,18 +1,28 @@
 {
- "atualizado": "2026-10-27 17:57",
+ "atualizado": "2026-10-27 22:09",
  "dia": "2026-10-27",
- "corte": "17:57",
+ "corte": "22:09",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 17:57, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 22:09, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Primeiro-Ministro",
-   "hoje": 74,
-   "mediana": 18.0,
-   "limiar": 44.7,
-   "excesso": 56.0,
-   "variacao_pct": 311,
+   "hoje": 108,
+   "mediana": 23.0,
+   "limiar": 60.1,
+   "excesso": 85.0,
+   "variacao_pct": 370,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Assuntos Parlamentares",
+   "hoje": 34,
+   "mediana": 11.0,
+   "limiar": 25.8,
+   "excesso": 23.0,
+   "variacao_pct": 209,
    "dias_base": 28,
    "tempestade": true
   }
@@ -20,53 +30,53 @@
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 156,
-   "mediana": 73.0,
-   "limiar": 169.4,
-   "excesso": 83.0,
-   "variacao_pct": 114,
+   "hoje": 233,
+   "mediana": 92.5,
+   "limiar": 234.8,
+   "excesso": 140.5,
+   "variacao_pct": 152,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Primeiro-Ministro",
-   "hoje": 74,
-   "mediana": 18.0,
-   "limiar": 44.7,
-   "excesso": 56.0,
-   "variacao_pct": 311,
+   "hoje": 108,
+   "mediana": 23.0,
+   "limiar": 60.1,
+   "excesso": 85.0,
+   "variacao_pct": 370,
    "dias_base": 28,
    "tempestade": true
   },
   {
    "area": "Finanças",
-   "hoje": 70,
-   "mediana": 37.5,
-   "limiar": 87.9,
-   "excesso": 32.5,
-   "variacao_pct": 87,
+   "hoje": 85,
+   "mediana": 47.5,
+   "limiar": 111.3,
+   "excesso": 37.5,
+   "variacao_pct": 79,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Administração Interna",
-   "hoje": 63,
-   "mediana": 40.5,
-   "limiar": 73.1,
-   "excesso": 22.5,
-   "variacao_pct": 56,
+   "hoje": 85,
+   "mediana": 60.0,
+   "limiar": 104.5,
+   "excesso": 25.0,
+   "variacao_pct": 42,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Negócios Estrangeiros",
-   "hoje": 39,
-   "mediana": 25.5,
-   "limiar": 53.7,
-   "excesso": 13.5,
-   "variacao_pct": 53,
+   "area": "Assuntos Parlamentares",
+   "hoje": 34,
+   "mediana": 11.0,
+   "limiar": 25.8,
+   "excesso": 23.0,
+   "variacao_pct": 209,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   }
  ],
  "historico": [
@@ -1262,10 +1272,17 @@
   },
   {
    "data": "2026-10-27",
+   "area": "Assuntos Parlamentares",
+   "hoje": 34,
+   "mediana": 11.0,
+   "limiar": 25.8
+  },
+  {
+   "data": "2026-10-27",
    "area": "Primeiro-Ministro",
-   "hoje": 74,
-   "mediana": 18.0,
-   "limiar": 44.7
+   "hoje": 108,
+   "mediana": 23.0,
+   "limiar": 60.1
   }
  ]
 }
