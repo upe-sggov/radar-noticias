@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-27 10:09",
+ "gerado": "2026-10-27 16:47",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -604,11 +604,11 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-10-27|Justiça": {
-   "texto": "No dia 27 de outubro de 2026, a cobertura noticiosa da área da Justiça centrou-se em múltiplos acontecimentos. A Polícia Judiciária deteve em Lisboa uma cidadã espanhola, qualificada como a \"fugitiva mais procurada\", no âmbito de investigações pendentes. Paralelamente, o Tribunal Constitucional emitiu um acórdão que poderá afetar a cobrança do Imposto Municipal sobre Imóveis (IMI) nas barragens e parques eólicos de 135 câmaras do interior, face a um recurso judicial. Adicionalmente, o Ministério Público comunicou a decisão de prisão preventiva para oito indivíduos envolvidos numa operação da GNR em Viseu, relacionada com tráfico ilícito. Observou-se ainda uma série de decisões judiciais a rejeitar recursos apresentados pela Administração Trump, nomeadamente no que concerne à contagem de 20.000 votos na Califórnia.",
-   "n": 10,
-   "pct": 77,
-   "lado": "negativas"
+  "2026-10-27|Agricultura e Mar|+": {
+   "texto": "Na área da agricultura, o Ministro da Agricultura saudou e defendeu a posição da União Europeia para a futura Política Agrícola Comum (PAC), rejeitando cortes e enfatizando a necessidade de uma PAC forte, com menos burocracia e maior apoio aos agricultores. Paralelamente, o Conselho da UE aprovou uma reforma da PAC que privilegia agricultores ativos e jovens, reforçando as garantias para os produtores. No âmbito da pesca, foram estabelecidos novos limites para a pesca da sardinha a partir de quarta-feira. O tema dominante é, portanto, o reforço do apoio e da simplificação administrativa para o setor agrícola, com implicações para a gestão das pescas.",
+   "n": 8,
+   "pct": 62,
+   "lado": "positivas"
   }
  }
 }
