@@ -1,59 +1,59 @@
 {
- "atualizado": "2026-10-27 01:22",
+ "atualizado": "2026-10-27 09:48",
  "dia": "2026-10-27",
- "corte": "01:22",
+ "corte": "09:48",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:22, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:48, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
    "area": "Infraestruturas e Habitação",
-   "hoje": 8,
-   "mediana": 4.5,
-   "limiar": 14.9,
-   "excesso": 3.5,
-   "variacao_pct": 78,
+   "hoje": 37,
+   "mediana": 24.0,
+   "limiar": 61.1,
+   "excesso": 13.0,
+   "variacao_pct": 54,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Presidência",
-   "hoje": 3,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 3.0,
-   "variacao_pct": null,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
+   "area": "Finanças",
+   "hoje": 22,
+   "mediana": 11.0,
+   "limiar": 30.3,
+   "excesso": 11.0,
    "variacao_pct": 100,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Primeiro-Ministro",
+   "hoje": 14,
+   "mediana": 4.0,
+   "limiar": 15.9,
+   "excesso": 10.0,
+   "variacao_pct": 250,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Negócios Estrangeiros",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
+   "hoje": 13,
+   "mediana": 7.0,
+   "limiar": 15.0,
+   "excesso": 6.0,
+   "variacao_pct": 86,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Agricultura e Mar",
-   "hoje": 1,
-   "mediana": 0.0,
-   "limiar": 8.0,
-   "excesso": 1.0,
-   "variacao_pct": null,
+   "area": "Assuntos Parlamentares",
+   "hoje": 5,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 4.0,
+   "variacao_pct": 400,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1241,6 +1241,13 @@
    "hoje": 206,
    "mediana": 87.5,
    "limiar": 204.6
+  },
+  {
+   "data": "2026-10-26",
+   "area": "Justiça",
+   "hoje": 96,
+   "mediana": 67.5,
+   "limiar": 95.7
   }
  ]
 }
