@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-28 01:18",
+ "gerado": "2026-10-28 10:15",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -602,6 +602,18 @@
    "texto": "O Ministro da Agricultura saudou e defendeu a posição da União Europeia para a futura Política Agrícola Comum (PAC), rejeitando cortes e defendendo uma abordagem mais robusta e menos burocrática. Simultaneamente, Portugal promoveu a reforma da PAC pós-2027, solicitando garantias acrescidas para os agricultores, nomeadamente jovens e ativos. A colheita de azeitona em Castelo Branco registou uma antecipação e um aumento da produção face às condições climatéricas favoráveis. Por fim, a pesca da sardinha foi objeto de novos limites, regulamentados a partir de quarta-feira, com o objetivo de assegurar a sustentabilidade dos recursos. O tema dominante é o reforço do apoio à agricultura e a gestão sustentável dos recursos marinhos.",
    "n": 10,
    "pct": 60,
+   "lado": "positivas"
+  },
+  "2026-10-28|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 28 de outubro de 2026, registaram-se múltiplos acontecimentos relacionados com a área da Segurança Social e da Administração Pública. Destacam-se cortes nas pensões da Caixa Geral de Aposentações (CGA), com reduções no valor das pensões já no próximo mês e um desvio financeiro nas obras públicas. Paralelamente, verifica-se um impacto nos reembolsos de IRS, com uma possível redução de 70% no próximo ano, e um aumento pontual do salário em novembro. Adicionalmente, a situação é agravada por um desconhecimento generalizado sobre o cálculo das reformas e a perceção de que o Estado não salvaguarda os descontos efetuados. O tema dominante é, assim, a instabilidade financeira e a insatisfação dos reformados da CGA, com implicações na gestão orçamental e na confiança dos cidadãos no sistema de proteção social.",
+   "n": 10,
+   "pct": 77,
+   "lado": "negativas"
+  },
+  "2026-10-28|Economia e Coesão Territorial|+": {
+   "texto": "No âmbito da economia e coesão territorial, o setor da construção beneficiou de um reforço do seu peso no Produto Interno Bruto, impulsionado pela carência de oferta e pelo dinamismo imobiliário, conforme noticiado pelo ECO. Paralelamente, a solidez financeira das empresas portuguesas atingiu um nível de maior robustez, não observado nos últimos sete anos, conforme reportado pelo Jornal de Negócios, embora a produtividade continue a ser um fator limitativo do crescimento. Adicionalmente, a Comissão Europeia recebeu solicitações de deputados para promover um maior equilíbrio comercial com a China, evidenciando preocupações com as relações comerciais bilaterais. A temática dominante destes acontecimentos é a resiliência económica e a necessidade de reforçar a competitividade e a segurança, nomeadamente através do investimento em defesa.",
+   "n": 8,
+   "pct": 67,
    "lado": "positivas"
   }
  }
