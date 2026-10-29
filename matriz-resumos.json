@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-28 20:13",
+ "gerado": "2026-10-29 01:57",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -550,18 +550,6 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-10-21|Primeiro-Ministro": {
-   "texto": "No dia 21 de outubro de 2026, o Primeiro-Ministro enfrentou críticas e desafios políticos em três áreas distintas. Na habitação, o PCP e o deputado do PS João Leão alertaram para a insuficiência de financiamento no SNS e criticaram o descongelamento das propinas, enquanto o deputado do PS João Carneiro contestou publicamente a posição do Governo sobre a lei das rendas, instando o Primeiro-Ministro a reconsiderar a sua posição. No plano político, o PSD confirmou a manutenção do acordo com o Chega e a recusa em retirar a lei das rendas, em resposta às exigências do PS. Paralelamente, a aprovação dos orçamentos para o SNS revelou saldos negativos e suscitou alertas quanto à sustentabilidade financeira do setor. O tema dominante foi a pressão sobre a política habitacional e a sustentabilidade financeira do SNS.",
-   "n": 8,
-   "pct": 77,
-   "lado": "negativas"
-  },
-  "2026-10-21|Administração Interna": {
-   "texto": "No dia 21 de outubro de 2026, registaram-se múltiplos incidentes e ocorrências policiais na área da Administração Interna. Destacam-se um despiste fatal com trator em Santarém, agressões e detenções relacionadas com violência doméstica e tentativas de auxílio em farmácias, bem como infrações rodoviárias graves, como condução a velocidades excessivas na A8 e na Vasco da Gama. Adicionalmente, ocorreram protestos no Rossio, Lisboa, com permanência noturna e acampamento, resultando em intervenções da PSP e GNR, apreensões de combustível e detenções, além de acusações mútuas de violência. Um tema dominante foi a atuação das forças de segurança face a protestos pela habitação, com declarações oficiais sobre atuação \"por antecipação\" e garantia de cumprimento da lei, num contexto de crise habitacional e tensão social.",
-   "n": 50,
-   "pct": 75,
-   "lado": "negativas"
-  },
   "2026-10-22|Negócios Estrangeiros": {
    "texto": "No dia 22 de outubro de 2026, a cobertura noticiosa focou-se em múltiplos desenvolvimentos de natureza internacional e europeia. Relativamente à saúde, a produção de penicilina na Europa enfrentou uma ameaça devido à concorrência de antibióticos chineses de baixo custo. No plano político e de segurança, o Secretário-Geral da ONU expressou preocupação com a escalada de protestos globais motivados pelo custo de vida, a instabilidade na Palestina e os recentes ataques entre a Rússia e a Ucrânia. Paralelamente, o Parlamento Europeu solicitou a ponderação de uma missão naval no Mar Negro, enquanto se reconheceu a ausência de uma estratégia europeia unificada perante a situação geopolítica. A nível institucional, verificou-se uma diferença de desempenho entre a TAP e a SATA no pagamento de indemnizações a passageiros, e a União Europeia ainda não implementou a supressão da mudança sazonal da hora, apesar dos planos iniciais para 2021.",
    "n": 8,
@@ -605,15 +593,9 @@
    "lado": "positivas"
   },
   "2026-10-28|Saúde|+": {
-   "texto": "No dia 28 de outubro de 2026, foi formalizada a implementação de um projeto-piloto de vigilância de grávidas de baixo risco por enfermeiros especialistas no Serviço Nacional de Saúde (SNS). Este projeto, alinhado com o 11.º Congresso Internacional dos Hospitais – “Saúde Odisseia 2030: aprender hoje para valer amanhã” – representa um reconhecimento institucional da competência profissional e um avanço na organização dos cuidados de saúde materno-fetal. O Bastonário da Ordem dos Enfermeiros e diversas entidades governamentais e profissionais qualificaram este desenvolvimento como um passo histórico para a profissão e para a melhoria da qualidade dos cuidados. Adicionalmente, foi registada uma iniciativa legislativa de utentes que propõe a obrigatoriedade de licença para a prescrição de fármacos para o tratamento da obesidade.",
-   "n": 14,
-   "pct": 55,
-   "lado": "positivas"
-  },
-  "2026-10-28|Reforma do Estado|+": {
-   "texto": "No âmbito da reforma do Estado, a implementação de inteligência artificial (IA) em serviços públicos e privados registou avanços significativos. A Foursys implementou IA na Bradesco Seguros, reduzindo em 50% o tempo de acesso à informação, e a Genie 4, no âmbito de projetos de investigação, transformou a IA em ferramentas para mundos virtuais interativos. Paralelamente, a IPLEXMED obteve reconhecimento internacional com o prémio eAwards Portugal 2026, graças ao desenvolvimento de um diagnóstico respiratório em 20 minutos. O tema dominante é a aplicação de IA para otimizar processos e melhorar a eficiência em diversos setores.",
-   "n": 5,
-   "pct": 50,
+   "texto": "No âmbito do 11.º Congresso Internacional dos Hospitais, foram apresentados e validados projetos que visam a eficiência e a segurança nos cuidados de saúde, nomeadamente no âmbito do bloco operatório e do tratamento de AVC, com impacto na poupança de vidas e recursos. Paralelamente, foi formalizada a implementação de um projeto-piloto de vigilância da gravidez de baixo risco por enfermeiros especialistas, após aprovação do consentimento da utente e validação por diversas ordens profissionais. Adicionalmente, a Ordem dos Enfermeiros reconheceu este avanço como um marco histórico para a profissão, reforçando a sua autonomia e competências. A cobertura noticiosa, embora diversificada, centra-se no progresso e na inovação no Serviço Nacional de Saúde.",
+   "n": 19,
+   "pct": 60,
    "lado": "positivas"
   }
  }
