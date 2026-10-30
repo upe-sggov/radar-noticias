@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-30 13:11",
+ "gerado": "2026-10-30 17:24",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -599,10 +599,16 @@
    "lado": "positivas"
   },
   "2026-10-30|Presidência": {
-   "texto": "No dia 2026-10-30, a cobertura mediática focou-se predominantemente em detenções de imigrantes pelo governo de Trump, com ênfase num aumento significativo de mais de 4.100 pessoas detidas em 10 dias, especificamente numa operação no Texas. Adicionalmente, registou-se a confirmação da morte de um cidadão português num acidente ferroviário em Espanha, sendo o falecido membro da tripulação. Por fim, surgiram relatos sobre condições de alojamento precárias para imigrantes no Porto, com pagamentos de centenas de euros por estadia em espaços insalubres, e críticas sobre a utilização de questões migratórias para desviar a atenção de outros problemas.",
-   "n": 7,
-   "pct": 100,
+   "texto": "No dia 2026-10-30, a cobertura noticiosa focou-se predominantemente em questões migratórias e em desafios operacionais da AIMA. A maioria dos títulos refletiu críticas à gestão da Agência para a Gestão Integrada de Fronteiras (AIMA), nomeadamente questionando o seu funcionamento efetivo e as condições de alojamento de imigrantes. Adicionalmente, registou-se a divulgação de um acidente ferroviário em Espanha que vitimou um membro da tripulação português, sendo também noticiado um incidente no Porto com condições de alojamento precárias para imigrantes. Um tema transversal foi a cobertura internacional de operações de controlo migratório efetuadas pelo governo dos Estados Unidos.",
+   "n": 9,
+   "pct": 91,
    "lado": "negativas"
+  },
+  "2026-10-30|Agricultura e Mar|+": {
+   "texto": "No dia 30 de outubro de 2026, o Governo português, em coordenação com a União Europeia, mobilizou apoio financeiro para mitigar os efeitos dos incêndios florestais que afetaram os Açores. Foram autorizados dois apoios distintos para a região: 3 milhões de euros através de fundos europeus e 10 milhões de euros provenientes de fundos nacionais, num total de 13 milhões de euros destinados a compensar os danos causados aos agricultores. Adicionalmente, o Governo, em colaboração com a Comissão Europeia, formalizou o Plano Conjunto de Execução AgriConnect com o Sri Lanka, visando reforçar a cooperação técnica e a modernização do setor agrícola.",
+   "n": 6,
+   "pct": 67,
+   "lado": "positivas"
   }
  }
 }
