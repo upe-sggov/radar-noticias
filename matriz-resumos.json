@@ -1,5 +1,5 @@
 {
- "gerado": "2026-10-31 18:47",
+ "gerado": "2026-11-01 01:09",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -605,8 +605,14 @@
    "lado": "negativas"
   },
   "2026-10-31|Justiça": {
-   "texto": "No dia 2026-10-31, a área da Justiça registou múltiplos acontecimentos, predominantemente de natureza institucional e processual. Destacam-se a contestação judicial da atribuição da distribuição de jornais à VASP, confrontos no Tribunal Constitucional na Polónia que desencadearam uma crise política e institucional, e a detenção de 48 pessoas pela polícia londrina durante uma manifestação pró-palestiniana. Adicionalmente, verificaram-se decisões judiciais relacionadas com litígios laborais, envolvendo despedimentos e readmissões, e a entrega de material de videovigilância ao Ministério Público.",
-   "n": 16,
+   "texto": "No dia 31 de outubro de 2026, registaram-se múltiplos acontecimentos na área da justiça, com destaque para a detenção de um indivíduo por tentativa de homicídio no Brasil e a recusa do Ministério Público em partilhar provas no âmbito do caso Football Leaks. Adicionalmente, verificaram-se confrontos no Tribunal Constitucional da Polónia, que desencadearam uma crise política e institucional, motivando a convocação de partidos pelo Presidente polaco para procurar soluções. Por outro lado, observou-se uma resolução judicial num caso laboral em Londres, onde um trabalhador despedido por alegada falta de produtividade obteve uma condenação a favor do pagamento de mais de oito mil euros.",
+   "n": 19,
+   "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-10-31|Presidência": {
+   "texto": "No dia 31 de outubro de 2026, registaram-se desenvolvimentos significativos em três áreas distintas. Nos Estados Unidos, a administração Biden procedeu à deportação de 150 imigrantes afegãos, suscitando preocupações sobre o seu regresso a um contexto de instabilidade no Afeganistão. Paralelamente, a discussão sobre alterações legislativas em matéria de imigração suscitou receios entre a comunidade luso-americana, conforme reportado por diversos órgãos de comunicação social. No âmbito da área da saúde, a ministra foi ouvida sobre a pressão migratória sobre o SNS, o recuo em certos tipos de cirurgias e a utilização de parcerias público-privadas, temas que foram também acompanhados de notícias sobre a situação do reagrupamento familiar na AIMA. Adicionalmente, um agente do ICE foi indiciado por atropelamento mortal de um imigrante mexicano, evidenciando a complexidade e os riscos associados à política migratória. O tema dominante parece ser a imigração e as suas consequências, tanto a nível internacional como interno.",
+   "n": 8,
    "pct": 89,
    "lado": "negativas"
   }
