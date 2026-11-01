@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-01 13:51",
+ "gerado": "2026-11-01 19:20",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -622,22 +622,22 @@
    "pct": 88,
    "lado": "negativas"
   },
-  "2026-11-01|Justiça": {
-   "texto": "No dia 1 de novembro de 2026, verificaram-se múltiplos acontecimentos na área da Justiça. Manifestantes detidos em Lisboa foram presentes a tribunal, relacionados com protestos de habitação. Um cidadão português foi acusado de tentativa de homicídio, após uma viagem à Hungria, podendo enfrentar uma pena de 10 a 20 anos de prisão. Adicionalmente, foi detida uma cidadã no Porto, no âmbito de um movimento \"Mães pela Acampada\". Paralelamente, a investigação por corrupção de um ex-presidente de petrolíferas estatais, com ligações à China, foi amplamente divulgada, com implicações internacionais.",
-   "n": 11,
-   "pct": 92,
-   "lado": "negativas"
-  },
-  "2026-11-01|Infraestruturas e Habitação": {
-   "texto": "No dia 1 de novembro de 2026, a área da Infraestruturas e Habitação foi palco de múltiplos acontecimentos relacionados com protestos pela habitação e intervenções policiais. Manifestações foram realizadas em Lisboa e no Porto, com cargas policiais e detenções de manifestantes, resultando em feridos e confrontos. Paralelamente, verificaram-se incidentes de danos em habitações, como derrocadas e incêndios, e a persistência de acampamentos informais, com a PSP a efetuar diversas ações de desmobilização e a registar confrontos. O tema dominante foi a crise habitacional e a resposta das autoridades.",
-   "n": 60,
-   "pct": 77,
-   "lado": "negativas"
-  },
   "2026-11-01|Administração Interna": {
    "texto": "No dia 1 de novembro de 2026, registaram-se múltiplos incidentes de elevada tensão entre a Polícia de Segurança Pública (PSP) e manifestantes, concentrados maioritariamente em torno de protestos pela habitação. A PSP efetuou diversas cargas policiais, incluindo em Lisboa e no Porto, resultando na detenção de 13 manifestantes e no ferimento de 13 polícias, com recurso a cães, escudos e bastonadas. Adicionalmente, verificou-se o uso de armas de fogo por agentes à paisana, a agressão a um repórter de imagem da CMTV e a recusa de cumprimento de ordens por parte dos manifestantes, culminando na destruição de acampadas e acusações de má conduta contra o Ministro da Administração Interna e o Diretor Nacional da PSP.",
    "n": 65,
    "pct": 77,
+   "lado": "negativas"
+  },
+  "2026-11-01|Defesa Nacional": {
+   "texto": "No dia 1 de novembro de 2026, a área da Defesa Nacional registou desenvolvimentos relacionados com o conflito na Ucrânia. Um ataque ucraniano contra uma refinaria russa de grande dimensão e uma fábrica de mísseis foi noticiado, indicando uma escalada militar. Paralelamente, a atividade policial intensificou-se, com uma carga policial em curso, levando a contactos entre o Presidente da República, o Primeiro-Ministro e a Provedora de Justiça. Adicionalmente, declarações do Kremlin afirmaram que o Presidente russo estaria disponível para conversações, enquanto o Presidente ucraniano denunciava ataques à infraestrutura energética do país. Por fim, registou-se o regresso de centenas de cidadãos ucranianos a Oleshky, após anos de ocupação, evidenciando as consequências humanitárias do conflito. O tema dominante foi, assim, a intensificação da guerra e as suas implicações humanitárias.",
+   "n": 5,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-01|Justiça": {
+   "texto": "No dia 1 de novembro de 2026, foram noticiados diversos acontecimentos de natureza judicial ou com forte componente penal. Destacam-se a detenção de um chefe da polícia criminal sérvia após eleições legislativas, a detenção de manifestantes em Lisboa que foram presentes a tribunal, e a investigação por corrupção de antigos presidentes de petrolíferas estatais na China, reiterada em dois títulos distintos. Adicionalmente, um cidadão português foi acusado de tentativa de homicídio após uma viagem à Hungria, e foi detida uma denúncia de devassa da vida privada que revelou irregularidades no âmbito de apoios de renda social. Um incidente de perturbação da ordem pública, com um cerco ao tribunal e alegado \"golpe\" na Polónia, também mereceu cobertura noticiosa.",
+   "n": 13,
+   "pct": 93,
    "lado": "negativas"
   }
  }
