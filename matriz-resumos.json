@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-02 01:55",
+ "gerado": "2026-11-02 10:12",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -623,16 +623,28 @@
    "lado": "negativas"
   },
   "2026-11-01|Administração Interna": {
-   "texto": "No dia 1 de novembro de 2026, a cobertura mediática da Administração Interna foi maioritariamente negativa, centrada em incidentes relacionados com protestos pela habitação e a atuação das forças de segurança. Destacam-se múltiplas cargas policiais em Lisboa e no Porto, com registo de detidos, feridos e acusações de uso excessivo da força. A PSP foi alvo de queixas formais de sindicatos de jornalistas por agressões durante manifestações, bem como de manifestantes por alegada intimidação e impedimento de assistência médica. Adicionalmente, foram reportados incidentes de agentes à paisana a exibir armas de fogo e a utilização de cães e escudos durante as intervenções, gerando controvérsia sobre a justificação e os limites da ação policial.",
-   "n": 112,
-   "pct": 75,
+   "texto": "No dia 1 de novembro de 2026, a cobertura mediática da Administração Interna foi maioritariamente negativa, centrando-se em incidentes relacionados com a atuação da PSP durante protestos pela habitação. Destacam-se múltiplas cargas policiais em Lisboa e no Porto, com registo de detidos, feridos e acusações de uso excessivo da força. A PSP foi implicada em alegadas agressões a jornalistas, utilização de armas de fogo e multas a automobilistas que apoiaram manifestações, temas que motivaram queixas sindicais e participações criminais. Um tema dominante foi a contestação da legalidade e proporcionalidade das ações policiais, com acusações de abuso de poder e violação de direitos fundamentais.",
+   "n": 120,
+   "pct": 76,
    "lado": "negativas"
   },
   "2026-11-01|Justiça": {
-   "texto": "No dia 1 de novembro de 2026, foram registados múltiplos acontecimentos na área da Justiça, predominantemente relacionados com detenções e processos judiciais. Um indivíduo foi preso no tribunal após condenação por incêndio, por furto; manifestantes detidos em Lisboa foram presentes a tribunal na segunda-feira; e dois casos de detenção de pessoas que participaram em protestos ocorreram no Porto e em Lisboa. Adicionalmente, casos de investigação por corrupção envolvendo antigos presidentes de petrolíferas estatais, tanto na China como em Portugal, foram noticiados, assim como uma tentativa de homicídio que resultou em detenção e possível pena de 10 a 20 anos de prisão.",
-   "n": 14,
-   "pct": 77,
+   "texto": "No dia 1 de novembro de 2026, registaram-se múltiplos acontecimentos na área da Justiça. Um indivíduo condenado por incêndio foi detido no tribunal por furto, enquanto em Lisboa, manifestantes detidos foram presentes a tribunal na segunda-feira, sendo este um tema recorrente na cobertura noticiosa. Adicionalmente, um português foi acusado de tentativa de homicídio após uma viagem à Hungria, podendo enfrentar uma pena de 10 a 20 anos de prisão, e um caso de devassa da vida privada, revelando irregularidades em processos de atribuição de renda social, foram também noticiados. Por fim, a investigação por corrupção de um ex-presidente de petrolíferas estatais na China, e a detenção de um chefe da polícia criminal sérvia, também foram casos noticiados.",
+   "n": 15,
+   "pct": 78,
    "lado": "negativas"
+  },
+  "2026-11-02|Justiça": {
+   "texto": "No dia 2 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos, predominantemente de natureza processual e de contencioso. Treze pessoas foram detidas em operações policiais nas acampadas pelo direito à habitação em Lisboa e no Porto, sendo presentes a tribunal para primeiro interrogatório judicial, com algumas associações a avançar com ações judiciais subsequentes. Paralelamente, o Tribunal Constitucional anulou a recusa automática da nacionalidade em casos de crimes puníveis com pena de prisão, enquanto se mantinham processos relacionados com litígios imobiliários de grande impacto, como o negócio da Quinta Patiño. Adicionalmente, um advogado formalizou uma queixa contra o ministro da Administração Interna e o diretor da PSP, no contexto de detenções efetuadas durante as acampadas.",
+   "n": 12,
+   "pct": 80,
+   "lado": "negativas"
+  },
+  "2026-11-02|Economia e Coesão Territorial|+": {
+   "texto": "No âmbito da Coesão Territorial, a AICEP anunciou o compromisso de apoiar empresas portuguesas no relançamento de relações comerciais com a Venezuela, facilitando o acesso a mercados e promovendo a colaboração em setores estratégicos. Paralelamente, a área da Economia registou avanços significativos na cooperação internacional, nomeadamente através da confirmação de um investimento planeado pela Coreia do Sul em IA e semicondutores para 2027, conforme noticiado por diversos órgãos de comunicação social. Estes desenvolvimentos evidenciam uma tendência de reforço da presença económica portuguesa no mercado internacional, com particular enfoque em tecnologias de ponta e parcerias estratégicas. Não obstante a ausência de títulos explicitamente focados em medidas internas de política económica, o conjunto de notícias aponta para uma dinâmica de expansão das relações comerciais e de atração de investimento estrangeiro direto.",
+   "n": 7,
+   "pct": 64,
+   "lado": "positivas"
   }
  }
 }
