@@ -1,59 +1,39 @@
 {
- "atualizado": "2026-11-03 20:31",
- "dia": "2026-11-03",
- "corte": "20:31",
+ "atualizado": "2026-11-04 02:05",
+ "dia": "2026-11-04",
+ "corte": "02:05",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 20:31, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 02:05, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
-   "area": "Justiça",
-   "hoje": 79,
-   "mediana": 56.5,
-   "limiar": 102.5,
-   "excesso": 22.5,
-   "variacao_pct": 40,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Defesa Nacional",
-   "hoje": 84,
-   "mediana": 63.5,
-   "limiar": 97.6,
-   "excesso": 20.5,
-   "variacao_pct": 32,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 52,
-   "mediana": 36.0,
-   "limiar": 71.6,
-   "excesso": 16.0,
-   "variacao_pct": 44,
+   "area": "Cultura, Juventude e Desporto",
+   "hoje": 6,
+   "mediana": 3.5,
+   "limiar": 11.5,
+   "excesso": 2.5,
+   "variacao_pct": 71,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Primeiro-Ministro",
-   "hoje": 37,
-   "mediana": 21.0,
-   "limiar": 52.1,
-   "excesso": 16.0,
-   "variacao_pct": 76,
+   "hoje": 3,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 2.0,
+   "variacao_pct": 200,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Finanças",
-   "hoje": 55,
-   "mediana": 42.5,
-   "limiar": 106.3,
-   "excesso": 12.5,
-   "variacao_pct": 29,
+   "hoje": 3,
+   "mediana": 2.0,
+   "limiar": 10.0,
+   "excesso": 1.0,
+   "variacao_pct": 50,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1318,6 +1298,13 @@
    "hoje": 173,
    "mediana": 60.5,
    "limiar": 97.6
+  },
+  {
+   "data": "2026-11-03",
+   "area": "Primeiro-Ministro",
+   "hoje": 90,
+   "mediana": 25.5,
+   "limiar": 65.5
   }
  ]
 }
