@@ -1,6 +1,6 @@
 {
- "recolhido": "2026-11-04 21:51",
- "horas_desde_a_anterior": 3.5,
+ "recolhido": "2026-11-04 22:07",
+ "horas_desde_a_anterior": 3.8,
  "fontes": 66,
  "sem_artigos": 3,
  "por_recurso": 1,
@@ -123,7 +123,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 10,
-   "marcados": 5,
+   "marcados": 7,
    "erro": ""
   },
   {
@@ -193,6 +193,17 @@
    "erro": ""
   },
   {
+   "fonte": "Dinheiro Vivo",
+   "dominio": "dinheirovivo.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 14,
+   "marcados": 0,
+   "erro": ""
+  },
+  {
    "fonte": "Le Monde",
    "dominio": "lemonde.fr",
    "origem": "internacionais",
@@ -212,17 +223,6 @@
    "via": "direta",
    "lidos": 20,
    "marcados": 0,
-   "erro": ""
-  },
-  {
-   "fonte": "Dinheiro Vivo",
-   "dominio": "dinheirovivo.pt",
-   "origem": "nacionais",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta",
-   "lidos": 20,
-   "marcados": 1,
    "erro": ""
   },
   {
@@ -278,6 +278,17 @@
    "via": "direta",
    "lidos": 22,
    "marcados": 13,
+   "erro": ""
+  },
+  {
+   "fonte": "El Mundo",
+   "dominio": "elmundo.es",
+   "origem": "internacionais",
+   "pt": false,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 22,
+   "marcados": 0,
    "erro": ""
   },
   {
@@ -430,7 +441,7 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 35,
+   "lidos": 34,
    "marcados": 1,
    "erro": ""
   },
@@ -501,6 +512,17 @@
    "erro": ""
   },
   {
+   "fonte": "Observador",
+   "dominio": "observador.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 51,
+   "marcados": 36,
+   "erro": ""
+  },
+  {
    "fonte": "The New York Times · Mundo",
    "dominio": "nytimes.com",
    "origem": "internacionais",
@@ -519,18 +541,7 @@
    "via_config": "feed",
    "via": "google (recurso)",
    "lidos": 61,
-   "marcados": 5,
-   "erro": ""
-  },
-  {
-   "fonte": "JM Madeira",
-   "dominio": "jm-madeira.pt",
-   "origem": "nacionais",
-   "pt": true,
-   "via_config": "google",
-   "via": "google",
-   "lidos": 68,
-   "marcados": 12,
+   "marcados": 4,
    "erro": ""
   },
   {
@@ -540,7 +551,7 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 68,
+   "lidos": 66,
    "marcados": 4,
    "erro": ""
   },
@@ -556,14 +567,25 @@
    "erro": ""
   },
   {
+   "fonte": "JM Madeira",
+   "dominio": "jm-madeira.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "google",
+   "via": "google",
+   "lidos": 70,
+   "marcados": 12,
+   "erro": ""
+  },
+  {
    "fonte": "Agência Brasil",
    "dominio": "agenciabrasil.ebc.com.br",
    "origem": "lusofonas",
    "pt": true,
    "via_config": "feed",
    "via": "direta + Google",
-   "lidos": 92,
-   "marcados": 30,
+   "lidos": 93,
+   "marcados": 28,
    "erro": ""
   },
   {
@@ -573,7 +595,7 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 96,
+   "lidos": 97,
    "marcados": 27,
    "erro": ""
   },
@@ -607,7 +629,7 @@
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 26,
+   "marcados": 25,
    "erro": ""
   },
   {
@@ -640,7 +662,7 @@
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 25,
+   "marcados": 27,
    "erro": ""
   },
   {
@@ -673,7 +695,7 @@
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 27,
+   "marcados": 24,
    "erro": ""
   },
   {
@@ -684,7 +706,7 @@
    "via_config": "feed",
    "via": "direta + Google",
    "lidos": 105,
-   "marcados": 34,
+   "marcados": 35,
    "erro": ""
   },
   {
@@ -695,7 +717,7 @@
    "via_config": "feed",
    "via": "direta + Google",
    "lidos": 120,
-   "marcados": 21,
+   "marcados": 23,
    "erro": ""
   },
   {
@@ -728,7 +750,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 490,
-   "marcados": 96,
+   "marcados": 95,
    "erro": ""
   }
  ]
