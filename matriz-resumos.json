@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05 19:28",
+ "gerado": "2026-11-05 22:22",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -647,15 +647,21 @@
    "lado": "positivas"
   },
   "2026-11-05|Justiça": {
-   "texto": "No dia 2026-11-05, a área da justiça registou múltiplos acontecimentos de natureza judicial e administrativa. Destacam-se a condenação do ativista pró-democracia Joshua Wong a mais dez anos de prisão em Hong Kong, a condenação de Russell Brand por violação e agressões sexuais, e a detenção de indivíduos por sequestro e violação em prisão preventiva. Adicionalmente, registaram-se atrasos significativos na Operação Influencer, com 30 dispositivos permanecendo inacessíveis ao Ministério Público há três anos, e a crítica do Sindicato da Polícia à Ministra da Justiça. O tema dominante é a instabilidade processual e a persistência de casos criminais graves.",
-   "n": 43,
-   "pct": 77,
+   "texto": "No dia 2026-11-05, a área da justiça registou múltiplos acontecimentos de natureza diversa, agrupados em casos judiciais, detenções e decisões administrativas. Destacam-se a condenação de Russell Brand por violação e agressão sexual, a reatribuição de pena a Joshua Wong, ativista pró-democracia de Hong Kong, e a detenção de indivíduos por sequestro e violação em contexto prisional. Adicionalmente, verificou-se a demora na Operação Influencer, com 30 dispositivos inacessíveis ao Ministério Público há três anos, e a condenação de um pai por 864 crimes de abuso sexual da filha.",
+   "n": 45,
+   "pct": 75,
    "lado": "negativas"
   },
   "2026-11-05|Agricultura e Mar|+": {
-   "texto": "O dia foi marcado por medidas de apoio à agricultura face à crise dos custos de produção, com o Governo a aprovar um apoio de 40 milhões de euros aos agricultores, incluindo nos Açores, Madeira e continente, para mitigar os impactos dos adubos e da energia. Paralelamente, foi noticiado um investimento de mais de 13,2 milhões de euros na lotaçor dos Açores até 2027, e foi divulgado um programa de apoio a agricultores afetados pela tempestade Kristin, solicitando uma revisão dos apoios. Adicionalmente, a Missão Solo da UE anunciou novas oportunidades de financiamento para projetos de agricultura regenerativa, visando a valorização da biomassa e a recuperação de solos no Oeste e Vale do Tejo. O tema dominante foi, portanto, o apoio à agricultura e a sustentabilidade ambiental.",
-   "n": 11,
-   "pct": 65,
+   "texto": "O dia ficou marcado por um conjunto de medidas de apoio à agricultura, face à crise dos custos dos adubos e da energia, com o Governo a aprovar um apoio de 40 milhões de euros a nível nacional, incluindo apoios extraordinários na Madeira (500 mil euros) e em outras regiões, e a sinalizar um aumento do orçamento para o setor agrícola no Orçamento do Estado para 2027. Adicionalmente, foram registados dois casos de incêndio florestal, com detenções de indivíduos responsáveis, e foram divulgadas oportunidades de financiamento europeu no âmbito da missão Solo da UE, bem como um apelo à revisão de apoios após os efeitos da tempestade Kristin. O tema dominante foi, portanto, o apoio à agricultura e a gestão de riscos ambientais.",
+   "n": 22,
+   "pct": 76,
+   "lado": "positivas"
+  },
+  "2026-11-05|Ambiente e Energia|+": {
+   "texto": "O Governo aprovou medidas de apoio aos agricultores, no valor de 40 milhões de euros, para mitigar o aumento dos custos dos adubos e da energia, face à conjuntura inflacionária. Foi autorizada a construção de duas barragens em Viseu, com o objetivo de reforçar a gestão da seca e a produção hidroelétrica. A Ministra do Ambiente comprometeu-se a assegurar uma alternativa para a instalação de um projeto solar no rio Távora, demonstrando sensibilidade ambiental. Adicionalmente, o Governo reconheceu o apoio internacional ao setor agrícola, nomeadamente através de um programa de assistência no Irão, no montante de 40 milhões de euros. O tema dominante é o apoio à agricultura e à gestão da crise energética.",
+   "n": 18,
+   "pct": 55,
    "lado": "positivas"
   }
  }
