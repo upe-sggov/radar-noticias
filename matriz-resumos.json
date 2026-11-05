@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-04 22:22",
+ "gerado": "2026-11-05 02:33",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -604,30 +604,6 @@
    "pct": 53,
    "lado": "positivas"
   },
-  "2026-10-31|Administração Interna": {
-   "texto": "Durante o dia 31 de outubro de 2026, a área da Administração Interna registou múltiplos acontecimentos relacionados com protestos pela habitação e intervenções policiais. Uma acampada de pessoas em situação de vulnerabilidade social, com tendas no Rossio e no Porto, resistiu a ordens de retirada da PSP, gerando confrontos e a necessidade de monitorização por parte da Provedoria de Justiça. Paralelamente, foram identificados três jovens numa loja do centro comercial Colombo e, em Lisboa, a PSP foi solicitada a reforçar o dispositivo policial devido a receios de perturbações. Adicionalmente, ocorreram detenções em Setúbal, dificuldades no socorro médico no Rossio e uma operação da GNR que resultou na apreensão de veículos por excesso de peso, evidenciando a complexidade da atuação das forças de segurança em contexto de protesto.",
-   "n": 49,
-   "pct": 75,
-   "lado": "negativas"
-  },
-  "2026-10-31|Justiça": {
-   "texto": "No dia 31 de outubro de 2026, a área da Justiça foi marcada por dois acontecimentos principais: confrontos no Tribunal Constitucional na Polónia e um caso de despedimento em Portugal. Na Polónia, a crise política intensificou-se após confrontos no Tribunal Constitucional, levando o Presidente a convocar partidos para encontrar uma solução. Em Portugal, um trabalhador despedido por alegado incumprimento de uma pausa para descanso foi readmitido ou compensado por decisão judicial. Adicionalmente, registaram-se detenções por tentativa de homicídio no Brasil e um caso de esfaqueamento de um polícia no Martim Moniz, ambos com implicações judiciais.",
-   "n": 20,
-   "pct": 87,
-   "lado": "negativas"
-  },
-  "2026-11-01|Administração Interna": {
-   "texto": "No dia 1 de novembro de 2026, a cobertura mediática da Administração Interna foi predominantemente negativa, centrando-se em múltiplos incidentes relacionados com a atuação da PSP durante protestos pela habitação. Destacam-se a utilização de força excessiva e desproporcionada, incluindo cargas policiais em Lisboa e no Porto, com registo de dezenas de feridos e detidos. Adicionalmente, registaram-se incidentes de agressão a jornalistas, multas a automobilistas por buzinar em apoio às manifestações e a descoberta de cocktails molotov no Rossio, acompanhada de acusações de premeditação e incumprimento da lei.",
-   "n": 123,
-   "pct": 75,
-   "lado": "negativas"
-  },
-  "2026-11-01|Justiça": {
-   "texto": "No dia 1 de novembro de 2026, registaram-se múltiplos acontecimentos judiciais e de segurança pública. Destacam-se a prisão de um arguido por furto no decurso de uma audiência, a detenção de manifestantes em Lisboa por desobediência, e a apresentação a tribunal na segunda-feira. Adicionalmente, verificou-se uma investigação de corrupção na China envolvendo ex-presidentes de petrolíferas estatais, e a transferência de um líder curdo para uma nova ala prisional na Turquia. Um cidadão português enfrenta julgamento por tentativa de homicídio após uma viagem à Hungria.",
-   "n": 16,
-   "pct": 76,
-   "lado": "negativas"
-  },
   "2026-10-28|Reforma do Estado|+": {
    "texto": "No âmbito da reforma do Estado, a implementação de inteligência artificial (IA) em serviços públicos e privados registou avanços significativos. A Genie 4, no setor tecnológico, transformou a IA em ferramentas de criação de mundos virtuais interativos, enquanto a Foursys, no setor segurador, reduziu em 50% o tempo de acesso à informação através da IA. Paralelamente, no setor da saúde, a IPLEXMED obteve reconhecimento nacional com o prémio eAwards Portugal 2026, graças a um diagnóstico respiratório rápido. A cobertura mediática deste dia, embora não seja o foco da análise, evidencia um tema dominante de inovação tecnológica e modernização administrativa. Contudo, a falta de financiamento para bolsas científicas na Europa, mencionada no Público, representa um obstáculo à concretização plena do potencial de investigação e desenvolvimento.",
    "n": 5,
@@ -639,6 +615,30 @@
    "n": 19,
    "pct": 56,
    "lado": "positivas"
+  },
+  "2026-10-31|Administração Interna": {
+   "texto": "Durante o dia 31 de outubro de 2026, a área da Administração Interna registou múltiplos acontecimentos relacionados com protestos pela habitação e intervenções policiais. Uma acampada de pessoas em situação de vulnerabilidade social, com tendas no Rossio e no Porto, resistiu a ordens de retirada da PSP, gerando confrontos e a necessidade de monitorização por parte da Provedoria de Justiça. Paralelamente, foram identificados três jovens numa loja do centro comercial Colombo e, em Lisboa, a PSP foi solicitada a reforçar o dispositivo policial devido a receios de perturbações. Adicionalmente, ocorreram detenções em Setúbal, dificuldades no socorro médico no Rossio e uma operação da GNR que resultou na apreensão de veículos por excesso de peso, evidenciando a complexidade da atuação das forças de segurança em contexto de protesto.",
+   "n": 49,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-10-31|Justiça": {
+   "texto": "No dia 31 de outubro de 2026, a área da Justiça foi marcada por dois acontecimentos principais: confrontos no Tribunal Constitucional na Polónia e um caso de despedimento em Portugal. Na Polónia, a crise política intensificou-se após confrontos no Tribunal Constitucional, levando o Presidente a convocar partidos para encontrar uma solução. Em Portugal, um trabalhador despedido por alegado incumprimento de uma pausa para descanso foi readmitido ou compensado por decisão judicial. Adicionalmente, registaram-se detenções por tentativa de homicídio no Brasil e um caso de esfaqueamento de um polícia no Martim Moniz, ambos com implicações judiciais.",
+   "n": 20,
+   "pct": 88,
+   "lado": "negativas"
+  },
+  "2026-11-01|Administração Interna": {
+   "texto": "No dia 1 de novembro de 2026, a cobertura mediática da Administração Interna foi predominantemente negativa, centrando-se em múltiplos incidentes relacionados com a atuação da PSP durante protestos pela habitação. Destacam-se a utilização de força excessiva e desproporcionada, incluindo cargas policiais em Lisboa e no Porto, com registo de dezenas de feridos e detidos. Adicionalmente, registaram-se incidentes de agressão a jornalistas, multas a automobilistas por buzinar em apoio às manifestações e a descoberta de cocktails molotov no Rossio, acompanhada de acusações de premeditação e incumprimento da lei.",
+   "n": 123,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-11-01|Justiça": {
+   "texto": "No dia 1 de novembro de 2026, registaram-se múltiplos acontecimentos judiciais e de segurança pública. Destacam-se a prisão de um arguido por furto no decurso de uma audiência, a detenção de manifestantes em Lisboa por desobediência, e a apresentação a tribunal na segunda-feira. Adicionalmente, verificou-se uma investigação de corrupção na China envolvendo ex-presidentes de petrolíferas estatais, e a transferência de um líder curdo para uma nova ala prisional na Turquia. Um cidadão português enfrenta julgamento por tentativa de homicídio após uma viagem à Hungria.",
+   "n": 16,
+   "pct": 79,
+   "lado": "negativas"
   }
  }
 }
