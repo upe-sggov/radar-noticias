@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-05 10:00",
+ "gerado": "2026-11-05 15:06",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -645,6 +645,18 @@
    "n": 18,
    "pct": 50,
    "lado": "positivas"
+  },
+  "2026-11-05|Justiça": {
+   "texto": "No dia 2026-11-05, foram noticiados diversos acontecimentos na área da justiça, com particular destaque para condenações, decisões judiciais e casos de corrupção. Destacam-se a condenação, em diferentes meios de comunicação, de ativistas pró-democracia, nomeadamente Joshua Wong, a penas de prisão superiores a dez anos em Hong Kong; a anulação de uma candidatura presidencial na Nigéria; a condenação de uma filha de um opositor russo a quatro anos de prisão; e a condenação de um condutor por condução sob efeito de álcool e devolução de valores à seguradora. Adicionalmente, foram reportados casos de sequestro e violação em Almada, a detenção de responsáveis ucranianos por corrupção, a identificação de bloqueios digitais na Operação Influencer em Portugal e a condenação de indivíduos por sabotagem de infraestruturas na Finlândia.",
+   "n": 28,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-11-05|Presidência": {
+   "texto": "No dia 2026-11-05, a Presidência registou dois acontecimentos distintos. O primeiro, decorrente de um apelo de António Guterres à Ibero-América para honrar a tradição e acolher imigrantes com dignidade, não constituindo um caso concreto de ação governamental. O segundo, e dominante, prende-se com a divulgação pública de 50 casos de alegados maus-tratos a migrantes por forças militares em Ceuta, documentados pela Amnistia Internacional e posteriormente amplificados por diversos órgãos de comunicação social.",
+   "n": 6,
+   "pct": 80,
+   "lado": "negativas"
   }
  }
 }
