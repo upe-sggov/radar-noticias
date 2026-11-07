@@ -1,29 +1,19 @@
 {
- "atualizado": "2026-11-07 12:54",
+ "atualizado": "2026-11-07 18:43",
  "dia": "2026-11-07",
- "corte": "12:54",
+ "corte": "18:43",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 12:54, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 18:43, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
-   "area": "Justiça",
-   "hoje": 28,
-   "mediana": 25.5,
-   "limiar": 49.2,
-   "excesso": 2.5,
-   "variacao_pct": 10,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Administração Interna",
-   "hoje": 29,
-   "mediana": 27.0,
-   "limiar": 53.7,
-   "excesso": 2.0,
-   "variacao_pct": 7,
+   "area": "Saúde",
+   "hoje": 47,
+   "mediana": 41.5,
+   "limiar": 59.3,
+   "excesso": 5.5,
+   "variacao_pct": 13,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1309,6 +1299,13 @@
    "hoje": 78,
    "mediana": 49.5,
    "limiar": 77.7
+  },
+  {
+   "data": "2026-11-06",
+   "area": "Presidência",
+   "hoje": 39,
+   "mediana": 19.0,
+   "limiar": 38.3
   }
  ]
 }
