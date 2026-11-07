@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-06 12:24",
+ "gerado": "2026-11-07 13:19",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -657,6 +657,24 @@
    "n": 29,
    "pct": 76,
    "lado": "positivas"
+  },
+  "2026-11-07|Justiça": {
+   "texto": "No dia 2026-11-07, a cobertura noticiosa da área da Justiça evidenciou múltiplos acontecimentos. Destacaram-se a condenação a 200 anos de prisão de um líder de culto queniano, a destituição e prisão domiciliária do Presidente e do Diretor do Banco Ueno no Paraguai, e a prisão domiciliária do pai de Meghan Markle por acusações de posse de pornografia infantil. Adicionalmente, registou-se uma detenção por violência doméstica no Alter do Chão, condenações efetivas de burlões do MB Way e a não apresentação de declaração de culpa pelo mesmo acusado de pornografia infantil. Observou-se ainda um atraso na resolução de indemnizações a vítimas de um surto de legionella ocorrido doze anos antes, e a execução de sentenças judiciais por parte de entidades locais.",
+   "n": 16,
+   "pct": 80,
+   "lado": "negativas"
+  },
+  "2026-11-07|Defesa Nacional": {
+   "texto": "No dia 2026-11-07, a cobertura noticiosa da Defesa Nacional focou-se em eventos relacionados com o conflito na Ucrânia e a situação em Moçambique. Na Ucrânia, foram reportados ataques russos que danificaram infraestruturas energéticas e uma ponte em Kiev, resultando em cinco feridos. Adicionalmente, foram noticiados novos ataques ucranianos contra alvos militares e industriais na Rússia. Em Moçambique, foi reportada a morte de pelo menos 19 pessoas em dez dias na província de Cabo Delgado. O tema dominante da cobertura foi o conflito na Ucrânia e a instabilidade em Cabo Delgado.",
+   "n": 10,
+   "pct": 77,
+   "lado": "negativas"
+  },
+  "2026-11-07|Educação, Ciência e Inovação": {
+   "texto": "No dia 7 de Novembro de 2026, verificaram-se múltiplos acontecimentos de natureza distinta na área da Educação. Em primeiro lugar, registou-se um número significativo de aposentações docentes, com 3652 professores a reformarem-se, embora a contabilização oficial do ministério apenas reflita 3670 entradas desde Setembro. Paralelamente, ocorreu um incidente grave relacionado com a segurança escolar, no qual uma criança de nove anos foi encontrada esquecida numa carrinha de transporte escolar no parque da Câmara Municipal de Palmela. Adicionalmente, o Governo procedeu a um recuo na política de créditos académicos, limitando novamente a atribuição de créditos por experiência profissional no ensino superior. O tema dominante destes eventos é a problemática da gestão de recursos humanos no setor da educação e a segurança nas instalações escolares.",
+   "n": 6,
+   "pct": 75,
+   "lado": "negativas"
   }
  }
 }
