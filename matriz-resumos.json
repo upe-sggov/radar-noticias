@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08 01:32",
+ "gerado": "2026-11-08 19:07",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -662,6 +662,18 @@
    "texto": "No dia 31 de outubro de 2026, a área da Justiça foi marcada por dois acontecimentos principais: confrontos no Tribunal Constitucional na Polónia e um caso de despedimento em Portugal. Na Polónia, a crise política intensificou-se após confrontos no Tribunal Constitucional, levando o Presidente a convocar partidos para encontrar uma solução. Em Portugal, um trabalhador despedido por alegado incumprimento de uma pausa para descanso foi readmitido ou compensado por decisão judicial. Adicionalmente, registaram-se detenções por tentativa de homicídio no Brasil e um caso de esfaqueamento de um polícia no Martim Moniz, ambos com implicações judiciais.",
    "n": 20,
    "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-11-08|Defesa Nacional": {
+   "texto": "No dia 8 de novembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza conflituosa e de impacto estratégico. Os Huthis reivindicaram ataques contra infraestruturas críticas na Arábia Saudita, nomeadamente o aeroporto de Riade e instalações petrolíferas, evidenciando uma escalada de tensão regional. Paralelamente, a Ucrânia e a Rússia mantiveram um cenário de guerra ativa, com ataques a infraestruturas energéticas e logísticas que visam prejudicar a economia ucraniana, mesmo em períodos de negociação de paz. Adicionalmente, a Rússia foi acusada de aproveitar uma trégua humanitária para reforçar as suas forças e armamento, enquanto a missão de Israel no Irão permanece em curso e a situação na Ucrânia continua a ser marcada por ações de drones e operações militares.",
+   "n": 10,
+   "pct": 83,
+   "lado": "negativas"
+  },
+  "2026-11-08|Administração Interna": {
+   "texto": "No dia 8 de novembro de 2026, a depressão Bruna causou perturbações significativas na região da Madeira, resultando no desalojamento de nove pessoas, conforme reportado por diversos meios de comunicação social. A Proteção Civil sinalizou 145 ocorrências na Madeira até às 10h00, incluindo danos em habitações e situações de emergência relacionadas com o mau tempo. Adicionalmente, um incêndio de grandes proporções deflagrou na fronteira com Espanha, no Sabugal, mobilizando 122 operacionais e dois meios aéreos.",
+   "n": 17,
+   "pct": 78,
    "lado": "negativas"
   }
  }
