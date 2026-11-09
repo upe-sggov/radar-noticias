@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09 10:43",
+ "gerado": "2026-11-09 16:30",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -670,23 +670,29 @@
    "pct": 87,
    "lado": "negativas"
   },
-  "2026-11-08|Agricultura e Mar": {
-   "texto": "No dia 8 de novembro de 2026, foram noticiados dois eventos distintos na área governamental da Agricultura e Mar. O primeiro, comum a vários órgãos de comunicação social, refere um pedido conjunto do PS e do Chega ao Governo da República para o pagamento de 23 milhões de euros aos agricultores açorianos, motivado por reivindicações políticas e negociais. O segundo, reportado pelo Açoriano Oriental, diz respeito à deteção de um palangre ilegal na reserva natural do Ilhéu da Vila, indicando uma infração à legislação de conservação marinha. Adicionalmente, o mesmo jornal noticiou uma acusação pública de Jorge Rita, líder de uma associação agrícola, contra a República, alegando má gestão e engano aos agricultores. O tema dominante parece ser a contestação política e a defesa dos interesses dos agricultores, com particular foco na região dos Açores.",
-   "n": 7,
-   "pct": 88,
-   "lado": "negativas"
-  },
-  "2026-11-09|Saúde": {
-   "texto": "No dia 2026-11-09, a cobertura noticiosa da área da saúde evidenciou múltiplos incidentes críticos, predominantemente relacionados com a sobrecarga do sistema de saúde e a falta de resposta urgente. Destacam-se a alegada morte de um bebé em Portimão devido ao encerramento da urgência pediátrica, a demora na atribuição de vagas nos cuidados continuados na Grande Lisboa, com um período de espera superior a um ano, e a ocorrência de um tiroteio em Cracóvia, resultando na morte do autor no hospital. Um tema transversal foi a insuficiência de recursos e a sobrecarga de serviços hospitalares, com casos de doentes urgentes a aguardar longas horas e a ausência de resposta a emergências pediátricas.",
-   "n": 25,
-   "pct": 93,
-   "lado": "negativas"
-  },
   "2026-11-08|Reforma do Estado|+": {
    "texto": "Não se verificou, nos títulos apresentados, qualquer acontecimento relacionado com a Reforma do Estado. Os factos reportados referem-se à aquisição de geradores pela Anthropic por 3,4 mil milhões de euros e ao apoio de inteligência artificial a campanhas de vacinação em Moçambique, não constituindo medidas ou acordos no âmbito da reforma administrativa.",
    "n": 3,
    "pct": 50,
    "lado": "positivas"
+  },
+  "2026-11-08|Agricultura e Mar": {
+   "texto": "No dia 8 de novembro de 2026, foram noticiados dois eventos distintos na área governamental da Agricultura e Mar. O primeiro, comum a vários órgãos de comunicação social, refere um pedido conjunto do PS e do Chega ao Governo da República para o pagamento de 23 milhões de euros aos agricultores açorianos, motivado por alegada necessidade de compensação. O segundo, reportado pelo Açoriano Oriental, prende-se com a deteção de um palangre ilegal na reserva natural do Ilhéu da Vila, constituindo uma infração à legislação ambiental. Adicionalmente, o mesmo jornal noticiou uma acusação pública de Jorge Rita, líder de uma associação de produtores, contra a República, alegando má gestão e desinformação junto dos agricultores. O tema dominante parece ser a contestação de políticas governamentais e a defesa dos interesses agrícolas, particularmente nos Açores.",
+   "n": 7,
+   "pct": 89,
+   "lado": "negativas"
+  },
+  "2026-11-09|Justiça": {
+   "texto": "1. **Condenação de Russell Brand**: Vários órgãos de comunicação social noticiaram a condenação do ator britânico Russell Brand a uma pena de 10 anos e seis meses de prisão por crimes de violação e agressão sexual, cometidos entre 2004 e 2009. O tema dominante é a cobertura judicial de crimes sexuais.\n\n2. **Concurso para radioterapia de Évora**: A ULSAC relançou o concurso para a instalação de radioterapia em Évora, após o chumbo inicial do Tribunal de Contas, indicando um processo de contratação pública em retificação.\n\n3. **Negativa de indemnização a José Berardo**: O Supremo Tribunal Administrativo negou o pedido de indemnização de José Berardo ao Estado, tanto no âmbito de um recurso direto como de pedidos subsequentes.\n\n4. **Suspensão de acampada no Rossio**: O tribunal decretou efeito suspensivo de decisões que davam razão à ativista Renata Cambra para acampar no Rossio, e outras decisões semelhantes foram proferidas por diversos tribunais administrativos.\n\n5. **Prisão preventiva por violência doméstica na Madeira**: Um homem foi colocado em prisão preventiva na Madeira por violência doméstica, sendo este um caso isolado de detenção por este tipo de crime.\n\n6. **Homicídio no Porto**: O Supremo Tribunal reduziu a pena de um homem condenado por ter matado a sua",
+   "n": 52,
+   "pct": 84,
+   "lado": "negativas"
+  },
+  "2026-11-09|Saúde": {
+   "texto": "No dia 2026-11-09, a área da saúde registou uma série de eventos críticos, nomeadamente relacionados com a sobrecarga dos serviços de urgência e a crise nos cuidados continuados. A urgência pediátrica do Hospital de Portimão esteve temporariamente fechada, o que esteve associado à morte de um bebé que se engasgou com uma uva, embora a ULS do Algarve tenha negado a causalidade direta. Simultaneamente, a procura por cuidados continuados aumentou significativamente, com quase duas mil pessoas à espera na Grande Lisboa, e vários casos de partos realizados fora dos hospitais aproximaram-se do recorde de 2025. O tema dominante foi a deterioração dos serviços de urgência e a grave carência de vagas nos cuidados continuados, agravada por falhas de comunicação e alertas de profissionais de saúde.",
+   "n": 40,
+   "pct": 86,
+   "lado": "negativas"
   }
  }
 }
