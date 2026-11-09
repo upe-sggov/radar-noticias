@@ -1,72 +1,82 @@
 {
- "atualizado": "2026-11-09 10:21",
+ "atualizado": "2026-11-09 16:04",
  "dia": "2026-11-09",
- "corte": "10:21",
+ "corte": "16:04",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 10:21, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 16:04, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
    "area": "Saúde",
-   "hoje": 31,
-   "mediana": 13.5,
-   "limiar": 26.8,
-   "excesso": 17.5,
-   "variacao_pct": 130,
+   "hoje": 61,
+   "mediana": 34.5,
+   "limiar": 58.2,
+   "excesso": 26.5,
+   "variacao_pct": 77,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Presidência",
+   "hoje": 23,
+   "mediana": 12.0,
+   "limiar": 22.4,
+   "excesso": 11.0,
+   "variacao_pct": 92,
    "dias_base": 28,
    "tempestade": true
   }
  ],
  "momentum": [
   {
-   "area": "Saúde",
-   "hoje": 31,
-   "mediana": 13.5,
-   "limiar": 26.8,
-   "excesso": 17.5,
-   "variacao_pct": 130,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 16,
-   "mediana": 11.0,
-   "limiar": 21.4,
-   "excesso": 5.0,
-   "variacao_pct": 45,
+   "area": "Justiça",
+   "hoje": 70,
+   "mediana": 38.0,
+   "limiar": 75.1,
+   "excesso": 32.0,
+   "variacao_pct": 84,
    "dias_base": 28,
    "tempestade": false
   },
   {
+   "area": "Saúde",
+   "hoje": 61,
+   "mediana": 34.5,
+   "limiar": 58.2,
+   "excesso": 26.5,
+   "variacao_pct": 77,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
    "area": "Finanças",
-   "hoje": 17,
-   "mediana": 13.0,
-   "limiar": 30.8,
-   "excesso": 4.0,
-   "variacao_pct": 31,
+   "hoje": 54,
+   "mediana": 30.0,
+   "limiar": 71.5,
+   "excesso": 24.0,
+   "variacao_pct": 80,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Economia e Coesão Territorial",
-   "hoje": 21,
-   "mediana": 17.5,
-   "limiar": 38.3,
-   "excesso": 3.5,
-   "variacao_pct": 20,
+   "hoje": 60,
+   "mediana": 46.0,
+   "limiar": 90.5,
+   "excesso": 14.0,
+   "variacao_pct": 30,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Presidência",
-   "hoje": 10,
-   "mediana": 7.0,
-   "limiar": 15.9,
-   "excesso": 3.0,
-   "variacao_pct": 43,
+   "hoje": 23,
+   "mediana": 12.0,
+   "limiar": 22.4,
+   "excesso": 11.0,
+   "variacao_pct": 92,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   }
  ],
  "historico": [
@@ -1360,10 +1370,17 @@
   },
   {
    "data": "2026-11-09",
+   "area": "Presidência",
+   "hoje": 23,
+   "mediana": 12.0,
+   "limiar": 22.4
+  },
+  {
+   "data": "2026-11-09",
    "area": "Saúde",
-   "hoje": 31,
-   "mediana": 13.5,
-   "limiar": 26.8
+   "hoje": 61,
+   "mediana": 34.5,
+   "limiar": 58.2
   }
  ]
 }
