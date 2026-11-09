@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-09 02:05",
+ "gerado": "2026-11-09 10:43",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -664,12 +664,6 @@
    "pct": 76,
    "lado": "negativas"
   },
-  "2026-11-08|Administração Interna": {
-   "texto": "No dia 8 de novembro de 2026, ocorreram múltiplos eventos relacionados com fenómenos meteorológicos adversos e incêndios florestais. A depressão Bruna causou desalojamento de nove pessoas no Funchal, com posterior atualização para cinco desalojados, e motivou a sinalização de 145 ocorrências na Madeira pela Proteção Civil, acompanhadas de avisos de vento forte e agitação marítima. Adicionalmente, um incêndio na fronteira com Espanha no Sabugal mobilizou 122 operacionais e dois meios aéreos, encontrando-se em fase de conclusão. O tema dominante foi, assim, o impacto da depressão Bruna e a ocorrência de incêndios florestais.",
-   "n": 20,
-   "pct": 76,
-   "lado": "negativas"
-  },
   "2026-11-08|Defesa Nacional": {
    "texto": "No dia 8 de novembro de 2026, a área da Defesa Nacional registou múltiplos eventos relacionados com o conflito na Ucrânia e a atividade militar russa. A Rússia, aproveitando uma trégua humanitária, reforçou as suas forças e armamento na Ucrânia, enquanto o Presidente Zelensky denuncia a violação do acordo. Paralelamente, ataques a infraestruturas energéticas e centros logísticos ucranianos intensificaram-se, visando a economia do país. Adicionalmente, a divulgação de dados militares russos por hackers e a reivindicação de ataques contra instalações críticas por grupos Houthis evidenciam a escalada do conflito e a sua dimensão transnacional.",
    "n": 13,
@@ -681,6 +675,18 @@
    "n": 7,
    "pct": 88,
    "lado": "negativas"
+  },
+  "2026-11-09|Saúde": {
+   "texto": "No dia 2026-11-09, a cobertura noticiosa da área da saúde evidenciou múltiplos incidentes críticos, predominantemente relacionados com a sobrecarga do sistema de saúde e a falta de resposta urgente. Destacam-se a alegada morte de um bebé em Portimão devido ao encerramento da urgência pediátrica, a demora na atribuição de vagas nos cuidados continuados na Grande Lisboa, com um período de espera superior a um ano, e a ocorrência de um tiroteio em Cracóvia, resultando na morte do autor no hospital. Um tema transversal foi a insuficiência de recursos e a sobrecarga de serviços hospitalares, com casos de doentes urgentes a aguardar longas horas e a ausência de resposta a emergências pediátricas.",
+   "n": 25,
+   "pct": 93,
+   "lado": "negativas"
+  },
+  "2026-11-08|Reforma do Estado|+": {
+   "texto": "Não se verificou, nos títulos apresentados, qualquer acontecimento relacionado com a Reforma do Estado. Os factos reportados referem-se à aquisição de geradores pela Anthropic por 3,4 mil milhões de euros e ao apoio de inteligência artificial a campanhas de vacinação em Moçambique, não constituindo medidas ou acordos no âmbito da reforma administrativa.",
+   "n": 3,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
