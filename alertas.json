@@ -1,49 +1,70 @@
 {
- "atualizado": "2026-11-09 01:34",
+ "atualizado": "2026-11-09 10:21",
  "dia": "2026-11-09",
- "corte": "01:34",
+ "corte": "10:21",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:34, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 10:21, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Saúde",
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 17.5,
+   "variacao_pct": 130,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
-   "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 3,
-   "mediana": 1.5,
-   "limiar": 9.5,
-   "excesso": 1.5,
-   "variacao_pct": 100,
+   "area": "Saúde",
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 17.5,
+   "variacao_pct": 130,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Ambiente e Energia",
+   "hoje": 16,
+   "mediana": 11.0,
+   "limiar": 21.4,
+   "excesso": 5.0,
+   "variacao_pct": 45,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Finanças",
+   "hoje": 17,
+   "mediana": 13.0,
+   "limiar": 30.8,
+   "excesso": 4.0,
+   "variacao_pct": 31,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Economia e Coesão Territorial",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "hoje": 21,
+   "mediana": 17.5,
+   "limiar": 38.3,
+   "excesso": 3.5,
+   "variacao_pct": 20,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Educação, Ciência e Inovação",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
-   "variacao_pct": 100,
+   "area": "Presidência",
+   "hoje": 10,
+   "mediana": 7.0,
+   "limiar": 15.9,
+   "excesso": 3.0,
+   "variacao_pct": 43,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1336,6 +1357,13 @@
    "hoje": 39,
    "mediana": 19.0,
    "limiar": 38.3
+  },
+  {
+   "data": "2026-11-09",
+   "area": "Saúde",
+   "hoje": 31,
+   "mediana": 13.5,
+   "limiar": 26.8
   }
  ]
 }
