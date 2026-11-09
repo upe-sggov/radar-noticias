@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-08 19:07",
+ "gerado": "2026-11-09 02:05",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -616,18 +616,6 @@
    "pct": 56,
    "lado": "positivas"
   },
-  "2026-11-01|Administração Interna": {
-   "texto": "No dia 1 de novembro de 2026, a cobertura mediática da Administração Interna foi predominantemente negativa, centrando-se em múltiplos incidentes relacionados com a atuação da PSP durante protestos pela habitação. Destacam-se a utilização de força excessiva e desproporcionada, incluindo cargas policiais em Lisboa e no Porto, com registo de dezenas de feridos e detidos. Adicionalmente, registaram-se incidentes de agressão a jornalistas, multas a automobilistas por buzinar em apoio às manifestações e a descoberta de cocktails molotov no Rossio, acompanhada de acusações de premeditação e incumprimento da lei.",
-   "n": 123,
-   "pct": 76,
-   "lado": "negativas"
-  },
-  "2026-11-01|Justiça": {
-   "texto": "No dia 1 de novembro de 2026, registaram-se múltiplos acontecimentos judiciais e de segurança pública. Destacam-se a prisão de um arguido por furto no decurso de uma audiência, a detenção de manifestantes em Lisboa por desobediência, e a apresentação a tribunal na segunda-feira. Adicionalmente, verificou-se uma investigação de corrupção na China envolvendo ex-presidentes de petrolíferas estatais, e a transferência de um líder curdo para uma nova ala prisional na Turquia. Um cidadão português enfrenta julgamento por tentativa de homicídio após uma viagem à Hungria.",
-   "n": 16,
-   "pct": 79,
-   "lado": "negativas"
-  },
   "2026-11-04|Ambiente e Energia|+": {
    "texto": "Em 4 de novembro de 2026, a EDP Renováveis registou um aumento quadruplo do lucro para 440 milhões de euros até setembro, impulsionado pela rotação de ativos e condições favoráveis nos mercados energéticos, nomeadamente nos Estados Unidos. Paralelamente, os SMAS de Almada candidataram-se a fundos europeus para reforçar o abastecimento de água no concelho de Almada, após problemas verificados durante o verão. A Organização Mundial da Saúde propôs medidas para prevenir 1,6 milhões de mortes anuais relacionadas com as alterações climáticas, reforçando o foco político e técnico na ação climática. Adicionalmente, a Sugal comprometeu-se com a iniciativa Science Based Targets (SBTi) para acelerar a descarbonização do seu negócio, e a Nadia Calviño indicou a possibilidade de acordos futuros na área da energia nos próximos meses.",
    "n": 18,
@@ -664,16 +652,34 @@
    "pct": 87,
    "lado": "negativas"
   },
-  "2026-11-08|Defesa Nacional": {
-   "texto": "No dia 8 de novembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza conflituosa e de impacto estratégico. Os Huthis reivindicaram ataques contra infraestruturas críticas na Arábia Saudita, nomeadamente o aeroporto de Riade e instalações petrolíferas, evidenciando uma escalada de tensão regional. Paralelamente, a Ucrânia e a Rússia mantiveram um cenário de guerra ativa, com ataques a infraestruturas energéticas e logísticas que visam prejudicar a economia ucraniana, mesmo em períodos de negociação de paz. Adicionalmente, a Rússia foi acusada de aproveitar uma trégua humanitária para reforçar as suas forças e armamento, enquanto a missão de Israel no Irão permanece em curso e a situação na Ucrânia continua a ser marcada por ações de drones e operações militares.",
-   "n": 10,
-   "pct": 83,
+  "2026-11-01|Administração Interna": {
+   "texto": "No dia 1 de novembro de 2026, a cobertura mediática focou-se em múltiplos incidentes relacionados com a atuação policial nas manifestações pela habitação, tanto em Lisboa como no Porto. A PSP efetuou diversas cargas policiais durante a madrugada, resultando em dezenas de feridos e detidos, e confirmou o uso de força excessiva em alguns casos. Paralelamente, registaram-se agressões a jornalistas durante as manifestações e a subsequente formalização de queixas sindicais e de advogados contra agentes da PSP, incluindo um caso de disparo de arma por um agente fora de serviço. Adicionalmente, foram encontradas cocktails molotov no Rossio e foram multados automobilistas que buzinaram em apoio aos manifestantes, num contexto de escalada de tensão e de críticas à atuação das forças de segurança.",
+   "n": 123,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-01|Justiça": {
+   "texto": "No dia 1 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos, agrupados em detenções, processos judiciais e investigações. Destacam-se a prisão de um arguido condenado por incêndio durante o ato de furto, a detenção de manifestantes em Lisboa levados a tribunal na segunda-feira, e a apresentação de manifestantes detidos em Lisboa aos tribunais. Adicionalmente, verifica-se a detenção de um chefe da polícia criminal sérvia após eleições legislativas e uma investigação por corrupção a um ex-presidente de petrolíferas estatais na China, envolvendo duas empresas. Um tema dominante é a ocorrência de detenções e processos judiciais relacionados com manifestações e crimes de furto e violência.",
+   "n": 16,
+   "pct": 76,
    "lado": "negativas"
   },
   "2026-11-08|Administração Interna": {
-   "texto": "No dia 8 de novembro de 2026, a depressão Bruna causou perturbações significativas na região da Madeira, resultando no desalojamento de nove pessoas, conforme reportado por diversos meios de comunicação social. A Proteção Civil sinalizou 145 ocorrências na Madeira até às 10h00, incluindo danos em habitações e situações de emergência relacionadas com o mau tempo. Adicionalmente, um incêndio de grandes proporções deflagrou na fronteira com Espanha, no Sabugal, mobilizando 122 operacionais e dois meios aéreos.",
-   "n": 17,
-   "pct": 78,
+   "texto": "No dia 8 de novembro de 2026, ocorreram múltiplos eventos relacionados com fenómenos meteorológicos adversos e incêndios florestais. A depressão Bruna causou desalojamento de nove pessoas no Funchal, com posterior atualização para cinco desalojados, e motivou a sinalização de 145 ocorrências na Madeira pela Proteção Civil, acompanhadas de avisos de vento forte e agitação marítima. Adicionalmente, um incêndio na fronteira com Espanha no Sabugal mobilizou 122 operacionais e dois meios aéreos, encontrando-se em fase de conclusão. O tema dominante foi, assim, o impacto da depressão Bruna e a ocorrência de incêndios florestais.",
+   "n": 20,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-11-08|Defesa Nacional": {
+   "texto": "No dia 8 de novembro de 2026, a área da Defesa Nacional registou múltiplos eventos relacionados com o conflito na Ucrânia e a atividade militar russa. A Rússia, aproveitando uma trégua humanitária, reforçou as suas forças e armamento na Ucrânia, enquanto o Presidente Zelensky denuncia a violação do acordo. Paralelamente, ataques a infraestruturas energéticas e centros logísticos ucranianos intensificaram-se, visando a economia do país. Adicionalmente, a divulgação de dados militares russos por hackers e a reivindicação de ataques contra instalações críticas por grupos Houthis evidenciam a escalada do conflito e a sua dimensão transnacional.",
+   "n": 13,
+   "pct": 87,
+   "lado": "negativas"
+  },
+  "2026-11-08|Agricultura e Mar": {
+   "texto": "No dia 8 de novembro de 2026, foram noticiados dois eventos distintos na área governamental da Agricultura e Mar. O primeiro, comum a vários órgãos de comunicação social, refere um pedido conjunto do PS e do Chega ao Governo da República para o pagamento de 23 milhões de euros aos agricultores açorianos, motivado por reivindicações políticas e negociais. O segundo, reportado pelo Açoriano Oriental, diz respeito à deteção de um palangre ilegal na reserva natural do Ilhéu da Vila, indicando uma infração à legislação de conservação marinha. Adicionalmente, o mesmo jornal noticiou uma acusação pública de Jorge Rita, líder de uma associação agrícola, contra a República, alegando má gestão e engano aos agricultores. O tema dominante parece ser a contestação política e a defesa dos interesses dos agricultores, com particular foco na região dos Açores.",
+   "n": 7,
+   "pct": 88,
    "lado": "negativas"
   }
  }
