@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-10 11:38",
+ "gerado": "2026-11-10 15:19",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -700,17 +700,17 @@
    "pct": 75,
    "lado": "negativas"
   },
-  "2026-11-10|Educação, Ciência e Inovação": {
-   "texto": "Na quarta-feira, 13 de novembro de 2026, o Governo português decretou situação de alerta devido à aproximação da depressão meteorológica \"Charles\", determinando o encerramento de escolas e serviços públicos não essenciais em todo o território continental. Esta medida preventiva, comunicada através de diversos meios de comunicação social, visou garantir a segurança da população face a previsões de condições meteorológicas adversas, incluindo vento forte e precipitação intensa. Adicionalmente, verificou-se um incidente noticiado pelo Ministério da Educação relativamente a um estudante brasileiro que, durante um episódio de crise emocional, praticou automutilação, embora sem colocar em risco a sua vida.",
-   "n": 28,
-   "pct": 82,
+  "2026-11-10|Justiça": {
+   "texto": "No dia 2026-11-10, a área da Justiça registou múltiplos acontecimentos, sendo a demissão do diretor da ULS de Aveiro, detido por suspeitas de corrupção, o tema dominante. A demissão, decretada pela Ministra da Saúde, ocorreu após a detenção do responsável pela Unidade Local de Saúde de Aveiro no âmbito da Operação \"Batas & Betão\", que envolveu a investigação de corrupção, abuso de poder e tráfico de influência. Paralelamente, o Ministério Público decretou segredo de justiça em processos relacionados com acampados detidos no Porto e com o mesmo caso de corrupção na ULS de Aveiro, afetando a cobertura mediática e a transparência dos processos.",
+   "n": 44,
+   "pct": 84,
    "lado": "negativas"
   },
-  "2026-11-10|Justiça": {
-   "texto": "No dia 10 de novembro de 2026, a área da justiça registou múltiplos acontecimentos de natureza criminal e administrativa. Destacam-se a detenção do presidente da ULS de Aveiro, sob suspeitas de corrupção, com alegações que envolvem uma casa na Praia da Barra, e a imposição de segredo de justiça em processos relacionados com detidos na Praça de D. João I e em Caldas da Rainha, onde um indivíduo cumpre pena por crimes sexuais. Adicionalmente, verificou-se uma prisão preventiva por furtos em Ferreira do Alentejo e a aplicação de medidas cautelares a indivíduos envolvidos em confrontos na Acampada do Porto, cujo processo poderá ser suspenso temporariamente. O tema dominante foi a corrupção e os crimes de natureza grave.",
-   "n": 17,
-   "pct": 89,
-   "lado": "negativas"
+  "2026-11-10|Agricultura e Mar|+": {
+   "texto": "No dia 10 de novembro de 2026, Portugal participou na COP31 defendendo o papel dos agricultores na mitigação das alterações climáticas. Simultaneamente, o Banco Central de Moçambique autorizou a constituição de reservas financeiras destinadas ao financiamento de atividades agrícolas e industriais. Adicionalmente, foi divulgado um projeto de gestão florestal portuguesa, promovido pela Gulbenkian e pela Efanor, que atraiu um investimento estrangeiro de 30 milhões de euros. O tema dominante destes acontecimentos é o apoio ao desenvolvimento sustentável no setor primário e na indústria, através de financiamento e inovação tecnológica.",
+   "n": 5,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
