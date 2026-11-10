@@ -1,59 +1,59 @@
 {
- "atualizado": "2026-11-10 04:01",
+ "atualizado": "2026-11-10 09:42",
  "dia": "2026-11-10",
- "corte": "04:01",
+ "corte": "09:42",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 04:01, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:42, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
-   "area": "Administração Interna",
-   "hoje": 6,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 3.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 3,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 2.0,
-   "variacao_pct": 200,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Presidência",
-   "hoje": 3,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 2.0,
-   "variacao_pct": 200,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
+   "area": "Educação, Ciência e Inovação",
+   "hoje": 23,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 9.5,
+   "variacao_pct": 70,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Defesa Nacional",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "hoje": 26,
+   "mediana": 17.5,
+   "limiar": 33.8,
+   "excesso": 8.5,
+   "variacao_pct": 49,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Saúde",
+   "hoje": 19,
+   "mediana": 11.0,
+   "limiar": 21.4,
+   "excesso": 8.0,
+   "variacao_pct": 73,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Administração Interna",
+   "hoje": 23,
+   "mediana": 16.0,
+   "limiar": 33.8,
+   "excesso": 7.0,
+   "variacao_pct": 44,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 20,
+   "mediana": 16.0,
+   "limiar": 36.8,
+   "excesso": 4.0,
+   "variacao_pct": 25,
    "dias_base": 28,
    "tempestade": false
   }
