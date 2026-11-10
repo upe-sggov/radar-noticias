@@ -1,82 +1,61 @@
 {
- "atualizado": "2026-11-09 16:04",
- "dia": "2026-11-09",
- "corte": "16:04",
- "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 16:04, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "atualizado": "2026-11-10 00:12",
+ "dia": "2026-11-10",
+ "corte": "00:12",
+ "dias_base": 26,
+ "regra": "Tempestade quando a contagem do dia, até às 00:12, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [
-  {
-   "area": "Saúde",
-   "hoje": 61,
-   "mediana": 34.5,
-   "limiar": 58.2,
-   "excesso": 26.5,
-   "variacao_pct": 77,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Presidência",
-   "hoje": 23,
-   "mediana": 12.0,
-   "limiar": 22.4,
-   "excesso": 11.0,
-   "variacao_pct": 92,
-   "dias_base": 28,
-   "tempestade": true
-  }
- ],
+ "tempestades": [],
  "momentum": [
   {
-   "area": "Justiça",
-   "hoje": 70,
-   "mediana": 38.0,
-   "limiar": 75.1,
-   "excesso": 32.0,
-   "variacao_pct": 84,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Saúde",
-   "hoje": 61,
-   "mediana": 34.5,
-   "limiar": 58.2,
-   "excesso": 26.5,
-   "variacao_pct": 77,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Finanças",
-   "hoje": 54,
-   "mediana": 30.0,
-   "limiar": 71.5,
-   "excesso": 24.0,
-   "variacao_pct": 80,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
    "area": "Economia e Coesão Territorial",
-   "hoje": 60,
-   "mediana": 46.0,
-   "limiar": 90.5,
-   "excesso": 14.0,
-   "variacao_pct": 30,
-   "dias_base": 28,
+   "hoje": 4,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 3.0,
+   "variacao_pct": 300,
+   "dias_base": 26,
    "tempestade": false
   },
   {
-   "area": "Presidência",
-   "hoje": 23,
-   "mediana": 12.0,
-   "limiar": 22.4,
-   "excesso": 11.0,
-   "variacao_pct": 92,
-   "dias_base": 28,
-   "tempestade": true
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 2,
+   "mediana": 0.5,
+   "limiar": 8.5,
+   "excesso": 1.5,
+   "variacao_pct": 300,
+   "dias_base": 26,
+   "tempestade": false
+  },
+  {
+   "area": "Educação, Ciência e Inovação",
+   "hoje": 2,
+   "mediana": 1.0,
+   "limiar": 9.0,
+   "excesso": 1.0,
+   "variacao_pct": 100,
+   "dias_base": 26,
+   "tempestade": false
+  },
+  {
+   "area": "Administração Interna",
+   "hoje": 1,
+   "mediana": 0.0,
+   "limiar": 8.0,
+   "excesso": 1.0,
+   "variacao_pct": null,
+   "dias_base": 26,
+   "tempestade": false
+  },
+  {
+   "area": "Defesa Nacional",
+   "hoje": 1,
+   "mediana": 0.0,
+   "limiar": 8.0,
+   "excesso": 1.0,
+   "variacao_pct": null,
+   "dias_base": 26,
+   "tempestade": false
   }
  ],
  "historico": [
