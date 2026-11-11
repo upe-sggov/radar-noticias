@@ -1,59 +1,59 @@
 {
- "atualizado": "2026-11-11 01:50",
+ "atualizado": "2026-11-11 11:17",
  "dia": "2026-11-11",
- "corte": "01:50",
+ "corte": "11:17",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:50, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:17, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
    "area": "Defesa Nacional",
-   "hoje": 4,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 3.0,
-   "variacao_pct": 300,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 4,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 2.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
-   "dias_base": 28,
-   "tempestade": false
-  },
-  {
-   "area": "Justiça",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
+   "hoje": 37,
+   "mediana": 24.5,
+   "limiar": 45.3,
+   "excesso": 12.5,
+   "variacao_pct": 51,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Educação, Ciência e Inovação",
-   "hoje": 3,
-   "mediana": 2.5,
-   "limiar": 10.5,
-   "excesso": 0.5,
+   "hoje": 22,
+   "mediana": 19.0,
+   "limiar": 36.8,
+   "excesso": 3.0,
+   "variacao_pct": 16,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Ambiente e Energia",
+   "hoje": 18,
+   "mediana": 15.0,
+   "limiar": 31.3,
+   "excesso": 3.0,
    "variacao_pct": 20,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Negócios Estrangeiros",
+   "hoje": 12,
+   "mediana": 10.0,
+   "limiar": 18.9,
+   "excesso": 2.0,
+   "variacao_pct": 20,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Justiça",
+   "hoje": 22,
+   "mediana": 20.5,
+   "limiar": 42.7,
+   "excesso": 1.5,
+   "variacao_pct": 7,
    "dias_base": 28,
    "tempestade": false
   }
