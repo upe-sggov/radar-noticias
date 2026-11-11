@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11 11:39",
+ "gerado": "2026-11-11 21:53",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -712,17 +712,11 @@
    "pct": 80,
    "lado": "negativas"
   },
-  "2026-11-11|Justiça": {
-   "texto": "No dia 2026-11-11, a cobertura noticiosa da área da Justiça centrou-se em dois casos distintos: primeiro, a reclusão do pai de Meghan Markle, após a remoção da pulseira eletrónica; e, em segundo lugar, a aplicação de multas a plataformas digitais por tratamento desigual de candidatos políticos no Brasil. Paralelamente, verificaram-se decisões judiciais em Timor-Leste e na Venezuela, com greves de fome de militares a contestar garantias processuais. Adicionalmente, a cobertura incluiu um tema transversal sobre a responsabilidade fiscal, com notícias sobre a TAP e a não devolução de fundos aos contribuintes.",
-   "n": 9,
-   "pct": 75,
-   "lado": "negativas"
-  },
-  "2026-11-11|Saúde": {
-   "texto": "No dia 2026-11-11, a cobertura mediática da área da saúde foi predominantemente negativa, centrando-se nos efeitos da depressão atmosférica \"Charles\". Esta depressão motivou a suspensão de consultas e cirurgias em diversas unidades da ULS Amadora-Sintra e de Lisboa, bem como o reagendamento de atos médicos. Adicionalmente, o mau tempo levou ao encerramento de 35 unidades de saúde primários na ULS Médio Tejo, afetando a prestação de cuidados de saúde primários. Em contrapartida, o SNS reforçou as urgências nos dias de alerto máximo.",
-   "n": 6,
-   "pct": 75,
-   "lado": "negativas"
+  "2026-11-11|Negócios Estrangeiros|+": {
+   "texto": "No dia 11 de novembro de 2026, o Governo da República, através do Ministro dos Negócios Estrangeiros, anunciou a apresentação de uma nova proposta de orçamento de longo prazo da União Europeia para 2027, prevista para 21 de novembro. Paralelamente, alcançou-se um acordo entre o Conselho e o Parlamento Europeu relativo ao orçamento da UE para 2027, no valor de 199,7 mil milhões de euros, marcando um avanço político. Adicionalmente, no âmbito da CPLP, a organização congratulou Angola por ocasião do 51.º aniversário da sua independência, evidenciando a cooperação internacional. O tema dominante foi, assim, o reforço da cooperação europeia e a afirmação da influência externa de Portugal.",
+   "n": 8,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
