@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-11 02:11",
+ "gerado": "2026-11-11 11:39",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -707,9 +707,21 @@
    "lado": "negativas"
   },
   "2026-11-10|Primeiro-Ministro": {
-   "texto": "O Primeiro-Ministro Luís Montenegro alertou para as consequências adversas da tempestade \"Charles\", prevendo \"horas difíceis\" e solicitando aos portugueses que não subestimassem os riscos associados ao mau tempo. O Governo ativou o centro de crise e foram emitidos avisos para a população, com destaque para a necessidade de evitar deslocações desnecessárias. Simultaneamente, o Partido Socialista, através do seu líder, acusou Montenegro de responsabilidade por uma quarta morte num hospital de Portimão, relacionada com a gestão da crise hospitalar. Paralelamente, a cobertura mediática do mau tempo e da situação nos cuidados de saúde gerou alguma controvérsia, com distinções de prémios a publicações sobre temas relacionados.",
-   "n": 26,
-   "pct": 79,
+   "texto": "O Primeiro-Ministro Luís Montenegro dirigiu avisos reiterados sobre a tempestade \"Charles\", alertando para \"horas difíceis\" e solicitando que a população não subestime os riscos associados ao mau tempo, tendo sido ativado o centro de crise governamental. Paralelamente, o Partido Socialista, através do líder António Carneiro, responsabilizou Montenegro por alegadas falhas na gestão de cuidados de saúde no Algarve, nomeadamente relacionadas com uma quarta morte num hospital de Portimão. Adicionalmente, foram reportadas a suspensão da Web Summit e o encerramento de escolas devido à tempestade. A cobertura mediática da tempestade e da crise sanitária no Algarve constituem o tema dominante.",
+   "n": 27,
+   "pct": 80,
+   "lado": "negativas"
+  },
+  "2026-11-11|Justiça": {
+   "texto": "No dia 2026-11-11, a cobertura noticiosa da área da Justiça centrou-se em dois casos distintos: primeiro, a reclusão do pai de Meghan Markle, após a remoção da pulseira eletrónica; e, em segundo lugar, a aplicação de multas a plataformas digitais por tratamento desigual de candidatos políticos no Brasil. Paralelamente, verificaram-se decisões judiciais em Timor-Leste e na Venezuela, com greves de fome de militares a contestar garantias processuais. Adicionalmente, a cobertura incluiu um tema transversal sobre a responsabilidade fiscal, com notícias sobre a TAP e a não devolução de fundos aos contribuintes.",
+   "n": 9,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-11|Saúde": {
+   "texto": "No dia 2026-11-11, a cobertura mediática da área da saúde foi predominantemente negativa, centrando-se nos efeitos da depressão atmosférica \"Charles\". Esta depressão motivou a suspensão de consultas e cirurgias em diversas unidades da ULS Amadora-Sintra e de Lisboa, bem como o reagendamento de atos médicos. Adicionalmente, o mau tempo levou ao encerramento de 35 unidades de saúde primários na ULS Médio Tejo, afetando a prestação de cuidados de saúde primários. Em contrapartida, o SNS reforçou as urgências nos dias de alerto máximo.",
+   "n": 6,
+   "pct": 75,
    "lado": "negativas"
   }
  }
