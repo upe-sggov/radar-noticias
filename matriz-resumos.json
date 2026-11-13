@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-13 02:51",
+ "gerado": "2026-11-13 10:07",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -712,16 +712,28 @@
    "pct": 81,
    "lado": "negativas"
   },
-  "2026-11-12|Justiça": {
-   "texto": "No dia 12 de novembro de 2026, foram noticiados diversos acontecimentos no âmbito da área da Justiça, com particular destaque para investigações do Ministério Público relacionadas com intervenções policiais em manifestações de habitação em Lisboa e no Porto. Adicionalmente, registaram-se casos de responsabilização criminal de agentes da PSP, nomeadamente a condenação de antigos polícias por tráfico de droga e violência doméstica, e a abertura de investigações a adjudicações de serviços públicos. Observou-se ainda a manutenção de cargos públicos apesar de acusações de corrupção, incluindo a ministra da Saúde, e a existência de processos judiciais relacionados com alegados maus-tratos a figuras públicas.",
-   "n": 33,
-   "pct": 75,
-   "lado": "negativas"
-  },
   "2026-11-05|Agricultura e Mar|+": {
    "texto": "O dia foi marcado por um conjunto de medidas e apoios à agricultura, face ao aumento dos custos de produção, com a aprovação de apoios financeiros de montantes significativos por parte do Governo, nomeadamente um apoio de 40 milhões de euros aos agricultores nacionais e regionais, incluindo a Madeira e os Açores. Adicionalmente, foram anunciados planos para a atribuição de terrenos do Estado a jovens agricultores, com o objetivo de fomentar o investimento e a renovação do setor. O tema dominante foi, portanto, o reforço do apoio estatal e o incentivo à juventude na agricultura, num contexto de crise dos custos de adubos e energia. Paralelamente, foram registados eventos criminais relacionados com incêndios florestais, embora não estejam diretamente relacionados com as medidas positivas em matéria agrícola.",
    "n": 29,
    "pct": 74,
+   "lado": "positivas"
+  },
+  "2026-11-12|Justiça": {
+   "texto": "No dia 12 de novembro de 2026, foram registados múltiplos acontecimentos na área da Justiça, com destaque para investigações do Ministério Público relacionadas com intervenções policiais em manifestações de habitação em Lisboa e no Porto, bem como com a atuação de agentes da PSP. Adicionalmente, verificaram-se condenações de antigos agentes da PSP por tráfico de droga e corrupção, e iniciou-se uma investigação a um caso de alegada corrupção envolvendo a adjudicação de um contrato de distribuição de jornais. O tema dominante foi a investigação de potenciais irregularidades na atuação policial e a responsabilização de indivíduos por crimes de corrupção.",
+   "n": 34,
+   "pct": 76,
+   "lado": "negativas"
+  },
+  "2026-11-13|Ambiente e Energia|+": {
+   "texto": "Até outubro de 2026, as fontes renováveis asseguraram 73% da produção elétrica nacional, consolidando a posição de Portugal como quarto país europeu com maior dependência destas em eletricidade. Este desempenho resultou numa poupança de 2,2 mil milhões de euros em custos de energia, conforme apurado por estudos da APREN e do Diário de Notícias. O tema dominante é a expansão e consolidação da produção de energia renovável, com impacto económico e ambiental significativo. Adicionalmente, o governo japonês aprovou subsídios de 3,7 mil milhões de euros para projetos de energia renovável, embora este facto não tenha sido diretamente implementado em território nacional até esta data.",
+   "n": 7,
+   "pct": 58,
+   "lado": "positivas"
+  },
+  "2026-11-13|Trabalho, Solidariedade e Segurança Social|+": {
+   "texto": "1. O Grupo Parlamentar do PS em Gaia propôs medidas para 2027, incluindo a gratuitidade de transportes públicos, a redução do Imposto Municipal sobre Imóveis (IMI) e o reforço do apoio financeiro para material escolar, visando melhorar as condições de vida dos agregados familiares.  \n\n2. O Primeiro-Ministro da China solicitou medidas de reforço da segurança social, justificadas pela necessidade de mitigar os efeitos do envelhecimento populacional e do desemprego, numa intervenção pública sobre desafios sociais.  \n\n3. A Santa Casa da Misericórdia de Lisboa inaugurou um novo ponto de atendimento integrado no Saldanha, com o objetivo de otimizar a prestação de serviços sociais e de saúde à população local.  \n\n4. O Jornal de Notícias noticiou a existência de uma discussão sobre a adequação dos salários atuais para permitir que os trabalhadores possam pagar as suas habitações, indicando um debate sobre a remuneração e o custo de vida.  \n\nTema dominante: Aumento do apoio social e da proteção aos agregados familiares, com foco em transportes, habitação e educação.",
+   "n": 4,
+   "pct": 50,
    "lado": "positivas"
   }
  }
