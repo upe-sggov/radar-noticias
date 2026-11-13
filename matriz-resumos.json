@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-12 20:41",
+ "gerado": "2026-11-13 02:51",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -628,12 +628,6 @@
    "pct": 54,
    "lado": "positivas"
   },
-  "2026-11-05|Agricultura e Mar|+": {
-   "texto": "No dia 2026-11-05, o Governo aprovou medidas de apoio aos agricultores face ao aumento dos custos dos adubos e da energia, nomeadamente através da concessão de um apoio de 40 milhões de euros, com destaque para as regiões dos Açores e da Madeira. Adicionalmente, foi aprovado um plano de disponibilização de terrenos do Estado para jovens agricultores, visando fomentar o investimento e a renovação do setor. O Orçamento do Estado para 2027 (OE2027) prevê um aumento significativo do financiamento para a agricultura, qualificado pelo Ministro como o “maior orçamento de sempre”, e foram confirmados apoios extraordinários regionais. Observou-se também um reforço do apoio à agricultura regenerativa, com projetos de valorização da biomassa e recuperação de solos, e foram anunciadas novas oportunidades de financiamento no âmbito da missão europeia “Solo”.",
-   "n": 29,
-   "pct": 76,
-   "lado": "positivas"
-  },
   "2026-11-06|Administração Interna": {
    "texto": "No dia 6 de novembro de 2026, a Administração Interna enfrentou múltiplos acontecimentos de natureza diversa. A PSP e as autoridades locais registaram incidentes de segurança pública, incluindo um ataque a agentes policiais com pedras e garrafas em Lisboa, e uma ameaça de bomba que motivou alertas e intervenções em voos da TAP, Ryanair e outras companhias, levando à ativação de protocolos de segurança por parte da ANA e do NAV. Paralelamente, verificou-se a decisão de retirar a acampada do Rossio, com base num despacho ministerial que considerou incompatível a coexistência entre a atividade policial e a presença de comerciantes no espaço público, conforme parecer da PSP. Adicionalmente, a GNR realizou apreensões de embarcações e combustível em Alcácer do Sal, relacionadas com atividades de narcotráfico, e a Proteção Civil emitiu alertas de risco de cheias, deslizamentos de terras e agitação marítima devido à passagem da depressão Bruna.",
    "n": 39,
@@ -719,10 +713,16 @@
    "lado": "negativas"
   },
   "2026-11-12|Justiça": {
-   "texto": "No dia 12 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos, predominantemente relacionados com investigações do Ministério Público a intervenções policiais em manifestações de habitação e a casos de violência doméstica. Destacam-se a abertura de inquéritos a intervenções da PSP em Lisboa e no Porto, motivados por protestos habitacionais, e a investigação a um ex-agente da PSP do Porto, condenado a oito anos e meio de prisão por tráfico de droga. Adicionalmente, verificou-se a condenação de outro ex-PSP, “Joca”, pelo mesmo crime, e processos judiciais relacionados com violência doméstica em Mafra.",
-   "n": 30,
-   "pct": 77,
+   "texto": "No dia 12 de novembro de 2026, foram noticiados diversos acontecimentos no âmbito da área da Justiça, com particular destaque para investigações do Ministério Público relacionadas com intervenções policiais em manifestações de habitação em Lisboa e no Porto. Adicionalmente, registaram-se casos de responsabilização criminal de agentes da PSP, nomeadamente a condenação de antigos polícias por tráfico de droga e violência doméstica, e a abertura de investigações a adjudicações de serviços públicos. Observou-se ainda a manutenção de cargos públicos apesar de acusações de corrupção, incluindo a ministra da Saúde, e a existência de processos judiciais relacionados com alegados maus-tratos a figuras públicas.",
+   "n": 33,
+   "pct": 75,
    "lado": "negativas"
+  },
+  "2026-11-05|Agricultura e Mar|+": {
+   "texto": "O dia foi marcado por um conjunto de medidas e apoios à agricultura, face ao aumento dos custos de produção, com a aprovação de apoios financeiros de montantes significativos por parte do Governo, nomeadamente um apoio de 40 milhões de euros aos agricultores nacionais e regionais, incluindo a Madeira e os Açores. Adicionalmente, foram anunciados planos para a atribuição de terrenos do Estado a jovens agricultores, com o objetivo de fomentar o investimento e a renovação do setor. O tema dominante foi, portanto, o reforço do apoio estatal e o incentivo à juventude na agricultura, num contexto de crise dos custos de adubos e energia. Paralelamente, foram registados eventos criminais relacionados com incêndios florestais, embora não estejam diretamente relacionados com as medidas positivas em matéria agrícola.",
+   "n": 29,
+   "pct": 74,
+   "lado": "positivas"
   }
  }
 }
