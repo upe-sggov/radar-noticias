@@ -1,90 +1,59 @@
 {
- "atualizado": "2026-11-13 09:39",
+ "atualizado": "2026-11-13 11:36",
  "dia": "2026-11-13",
- "corte": "09:39",
+ "corte": "11:36",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 09:39, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 11:36, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [
-  {
-   "area": "Saúde",
-   "hoje": 20,
-   "mediana": 10.0,
-   "limiar": 18.9,
-   "excesso": 10.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 24,
-   "mediana": 14.5,
-   "limiar": 22.5,
-   "excesso": 9.5,
-   "variacao_pct": 66,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 18,
-   "mediana": 9.0,
-   "limiar": 17.9,
-   "excesso": 9.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": true
-  }
- ],
+ "tempestades": [],
  "momentum": [
   {
    "area": "Economia e Coesão Territorial",
-   "hoje": 28,
-   "mediana": 16.0,
-   "limiar": 30.8,
-   "excesso": 12.0,
-   "variacao_pct": 75,
+   "hoje": 41,
+   "mediana": 25.0,
+   "limiar": 47.2,
+   "excesso": 16.0,
+   "variacao_pct": 64,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Cultura, Juventude e Desporto",
+   "hoje": 33,
+   "mediana": 24.0,
+   "limiar": 38.8,
+   "excesso": 9.0,
+   "variacao_pct": 38,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Saúde",
-   "hoje": 20,
-   "mediana": 10.0,
-   "limiar": 18.9,
-   "excesso": 10.0,
-   "variacao_pct": 100,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 24,
-   "mediana": 14.5,
-   "limiar": 22.5,
-   "excesso": 9.5,
-   "variacao_pct": 66,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Ambiente e Energia",
-   "hoje": 18,
-   "mediana": 9.0,
-   "limiar": 17.9,
+   "hoje": 27,
+   "mediana": 18.0,
+   "limiar": 35.8,
    "excesso": 9.0,
-   "variacao_pct": 100,
+   "variacao_pct": 50,
    "dias_base": 28,
-   "tempestade": true
+   "tempestade": false
   },
   {
    "area": "Defesa Nacional",
+   "hoje": 33,
+   "mediana": 26.5,
+   "limiar": 47.3,
+   "excesso": 6.5,
+   "variacao_pct": 25,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Ambiente e Energia",
    "hoje": 22,
-   "mediana": 16.5,
-   "limiar": 31.3,
-   "excesso": 5.5,
-   "variacao_pct": 33,
+   "mediana": 16.0,
+   "limiar": 33.8,
+   "excesso": 6.0,
+   "variacao_pct": 38,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1412,27 +1381,6 @@
    "hoje": 99,
    "mediana": 48.0,
    "limiar": 79.1
-  },
-  {
-   "data": "2026-11-13",
-   "area": "Ambiente e Energia",
-   "hoje": 18,
-   "mediana": 9.0,
-   "limiar": 17.9
-  },
-  {
-   "data": "2026-11-13",
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 24,
-   "mediana": 14.5,
-   "limiar": 22.5
-  },
-  {
-   "data": "2026-11-13",
-   "area": "Saúde",
-   "hoje": 20,
-   "mediana": 10.0,
-   "limiar": 18.9
   }
  ]
 }
