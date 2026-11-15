@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15 01:59",
+ "gerado": "2026-11-15 20:00",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -730,10 +730,16 @@
    "pct": 88,
    "lado": "negativas"
   },
-  "2026-11-14|Negócios Estrangeiros|+": {
-   "texto": "No dia 14 de novembro de 2026, o Conselho da União Europeia alcançou um acordo relativo à atribuição gratuita de licenças de CO2, suscitando aplausos do Governo português. Paralelamente, a cobertura mediática internacional focou-se na política externa dos Estados Unidos após a derrota de Donald Trump nas eleições legislativas, com a perspetiva de uma reorientação da estratégia diplomática. Adicionalmente, registou-se a manutenção de iniciativas de preservação linguística, nomeadamente através do trabalho de uma livraria irlandesa na promoção do gaélico, e a celebração da cultura portuguesa por parte de uma comunidade emigrante em Londres. Não obstante, a cobertura noticiosa do dia caracterizou-se por uma predominância de temas neutros e de observação, sem registo de eventos de política externa concretos da área governativa dos Negócios Estrangeiros.",
-   "n": 4,
-   "pct": 50,
+  "2026-11-15|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 15 de novembro de 2026, a área do Trabalho, Solidariedade e Segurança Social foi marcada por um conjunto de acontecimentos de natureza laboral e de cobertura mediática predominantemente negativa. Destacam-se a greve dos trabalhadores da Metro Transportes do Sul, iniciada na madrugada de segunda-feira, motivada por reivindicações salariais e condições de trabalho, com impacto na operação do serviço de transportes. Adicionalmente, registou-se uma cobertura mediática negativa em torno do ciclismo português devido à redução de patrocínios, colocando em risco a continuidade profissional de mais de 20 atletas. O tema dominante da cobertura negativa foi, portanto, a instabilidade laboral e as dificuldades financeiras em setores chave da economia nacional.",
+   "n": 12,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-15|Agricultura e Mar|+": {
+   "texto": "O Governo português assinou um memorando de entendimento com a Coreia do Sul no âmbito das pescas, estabelecendo a base para a cooperação futura. O Canadá anunciou a disponibilização de 560 milhões de dólares para a proteção de florestas tropicais, através de um investimento num fundo dedicado a este fim. Estes dois acontecimentos refletem um tema dominante de proteção ambiental e conservação de recursos naturais. A intervenção do Papa Francisco, com a sua mensagem simbólica de Cusco para a Amazónia, constitui um terceiro evento relacionado com a sensibilização para a preservação da floresta tropical.",
+   "n": 5,
+   "pct": 56,
    "lado": "positivas"
   }
  }
