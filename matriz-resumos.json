@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-16 01:55",
+ "gerado": "2026-11-16 09:59",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -727,6 +727,18 @@
   "2026-11-15|Agricultura e Mar|+": {
    "texto": "1. O Governo português assinou um memorando de entendimento com a Coreia do Sul no âmbito das pescas, visando reforçar a cooperação técnica e a gestão sustentável dos recursos marinhos.\n\n2. O Canadá anunciou um investimento de 560 milhões de dólares para a proteção de florestas tropicais, com o objetivo de apoiar iniciativas de conservação e combate à desflorestação.\n\n3. O Papa Leão XIV realizou uma visita pastoral a Cusco e à floresta amazónica peruana, onde expressou apoio aos povos indígenas e defendeu a proteção do seu património cultural e ambiental.",
    "n": 6,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-11-16|Justiça": {
+   "texto": "No dia 16 de novembro de 2026, registaram-se dois acontecimentos principais na área da Justiça. Em primeiro lugar, foram aplicadas medidas de prisão domiciliária a suspeitos de um tiroteio ocorrido na Baixa de Lisboa, que resultou em ferimentos numa turista sueca. Em segundo lugar, o sistema informático dos Tribunais Administrativos apresentou avarias, afetando o seu funcionamento. Adicionalmente, verificou-se uma decisão judicial que contrariava o entendimento do Ministério Público no mesmo caso do tiroteio, ao determinar a aplicação de prisão domiciliária aos suspeitos. O tema dominante destes eventos é a instabilidade no sistema judicial, nomeadamente no que diz respeito à gestão de processos e à aplicação de medidas cautelares.",
+   "n": 6,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-16|Cultura, Juventude e Desporto|+": {
+   "texto": "No dia 16 de novembro de 2026, a área da Cultura, Juventude e Desporto registou desenvolvimentos diversos. Philomena Cunk protagonizou um momento mediático ao evidenciar desconhecimento sobre cinema, embora o título não detalhe uma medida governamental específica. Em paralelo, a Ópera à Moda do Porto iniciou um projeto de descentralização da ópera em diversos pontos da cidade do Porto, visando alargar o acesso à arte lírica. Adicionalmente, jovens participantes em iniciativas de debate público foram destacados em cobertura noticiosa, sem que o título indique uma ação governamental concreta. Por fim, Coimbra acolheu uma exposição dedicada ao jazz interpretado por mulheres, evidenciando o apoio a manifestações artísticas específicas. Não se identifica um tema dominante unificador entre os factos noticiados.",
+   "n": 4,
    "pct": 50,
    "lado": "positivas"
   }
