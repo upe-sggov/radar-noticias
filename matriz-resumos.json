@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-15 20:00",
+ "gerado": "2026-11-16 01:55",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -658,18 +658,6 @@
    "pct": 87,
    "lado": "negativas"
   },
-  "2026-11-08|Reforma do Estado|+": {
-   "texto": "Não se verificou, nos títulos apresentados, qualquer acontecimento relacionado com a Reforma do Estado. Os factos reportados referem-se à aquisição de geradores pela Anthropic por 3,4 mil milhões de euros e ao apoio de inteligência artificial a campanhas de vacinação em Moçambique, não constituindo medidas ou acordos no âmbito da reforma administrativa.",
-   "n": 3,
-   "pct": 50,
-   "lado": "positivas"
-  },
-  "2026-11-08|Agricultura e Mar": {
-   "texto": "No dia 8 de novembro de 2026, foram noticiados dois eventos distintos na área governamental da Agricultura e Mar. O primeiro, comum a vários órgãos de comunicação social, refere um pedido conjunto do PS e do Chega ao Governo da República para o pagamento de 23 milhões de euros aos agricultores açorianos, motivado por alegada necessidade de compensação. O segundo, reportado pelo Açoriano Oriental, prende-se com a deteção de um palangre ilegal na reserva natural do Ilhéu da Vila, constituindo uma infração à legislação ambiental. Adicionalmente, o mesmo jornal noticiou uma acusação pública de Jorge Rita, líder de uma associação de produtores, contra a República, alegando má gestão e desinformação junto dos agricultores. O tema dominante parece ser a contestação de políticas governamentais e a defesa dos interesses agrícolas, particularmente nos Açores.",
-   "n": 7,
-   "pct": 89,
-   "lado": "negativas"
-  },
   "2026-11-09|Saúde": {
    "texto": "No dia 9 de novembro de 2026, a cobertura mediática da área da saúde foi predominantemente negativa, centrando-se num conjunto de eventos relacionados com a prestação de cuidados de saúde no Algarve, particularmente no Hospital de Portimão. Vários casos de mortes nas urgências, a demissão do presidente do Conselho de Administração da Unidade Local de Saúde (ULS) do Algarve e a abertura de inquéritos por parte da Inspeção-Geral da Saúde (IGAS) evidenciam problemas de organização, recursos e assistência médica. Adicionalmente, foram reportadas falhas de pessoal, tempos de espera excessivos em cuidados continuados e dificuldades operacionais noutras unidades de saúde, incluindo a Grande Lisboa, contribuindo para um contexto de crise e escrutínio público.",
    "n": 88,
@@ -730,16 +718,16 @@
    "pct": 88,
    "lado": "negativas"
   },
-  "2026-11-15|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 15 de novembro de 2026, a área do Trabalho, Solidariedade e Segurança Social foi marcada por um conjunto de acontecimentos de natureza laboral e de cobertura mediática predominantemente negativa. Destacam-se a greve dos trabalhadores da Metro Transportes do Sul, iniciada na madrugada de segunda-feira, motivada por reivindicações salariais e condições de trabalho, com impacto na operação do serviço de transportes. Adicionalmente, registou-se uma cobertura mediática negativa em torno do ciclismo português devido à redução de patrocínios, colocando em risco a continuidade profissional de mais de 20 atletas. O tema dominante da cobertura negativa foi, portanto, a instabilidade laboral e as dificuldades financeiras em setores chave da economia nacional.",
-   "n": 12,
-   "pct": 75,
+  "2026-11-08|Agricultura e Mar": {
+   "texto": "No dia 8 de novembro de 2026, foram noticiados dois eventos distintos na área governamental da Agricultura e Mar. O primeiro, comum a vários órgãos de comunicação social, refere um pedido conjunto do PS e do Chega ao Governo da República para o pagamento de 23 milhões de euros aos agricultores açorianos, motivado por reivindicações políticas e partidárias. O segundo, reportado pelo Açoriano Oriental, prende-se com a deteção de um palangre ilegal na reserva natural do Ilhéu da Vila, constituindo uma infração à legislação de conservação marinha. Adicionalmente, o mesmo jornal noticiou uma acusação pública de Jorge Rita, líder de uma associação agrícola, contra a República, alegando enganos aos agricultores. Não se identificou um tema dominante unificador para além da especificidade destes casos.",
+   "n": 7,
+   "pct": 88,
    "lado": "negativas"
   },
   "2026-11-15|Agricultura e Mar|+": {
-   "texto": "O Governo português assinou um memorando de entendimento com a Coreia do Sul no âmbito das pescas, estabelecendo a base para a cooperação futura. O Canadá anunciou a disponibilização de 560 milhões de dólares para a proteção de florestas tropicais, através de um investimento num fundo dedicado a este fim. Estes dois acontecimentos refletem um tema dominante de proteção ambiental e conservação de recursos naturais. A intervenção do Papa Francisco, com a sua mensagem simbólica de Cusco para a Amazónia, constitui um terceiro evento relacionado com a sensibilização para a preservação da floresta tropical.",
-   "n": 5,
-   "pct": 56,
+   "texto": "1. O Governo português assinou um memorando de entendimento com a Coreia do Sul no âmbito das pescas, visando reforçar a cooperação técnica e a gestão sustentável dos recursos marinhos.\n\n2. O Canadá anunciou um investimento de 560 milhões de dólares para a proteção de florestas tropicais, com o objetivo de apoiar iniciativas de conservação e combate à desflorestação.\n\n3. O Papa Leão XIV realizou uma visita pastoral a Cusco e à floresta amazónica peruana, onde expressou apoio aos povos indígenas e defendeu a proteção do seu património cultural e ambiental.",
+   "n": 6,
+   "pct": 50,
    "lado": "positivas"
   }
  }
