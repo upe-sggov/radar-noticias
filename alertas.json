@@ -1,19 +1,70 @@
 {
- "atualizado": "2026-11-16 01:44",
+ "atualizado": "2026-11-16 09:44",
  "dia": "2026-11-16",
- "corte": "01:44",
+ "corte": "09:44",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 01:44, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:44, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Defesa Nacional",
+   "hoje": 36,
+   "mediana": 16.5,
+   "limiar": 35.8,
+   "excesso": 19.5,
+   "variacao_pct": 118,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
+   "area": "Defesa Nacional",
+   "hoje": 36,
+   "mediana": 16.5,
+   "limiar": 35.8,
+   "excesso": 19.5,
+   "variacao_pct": 118,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
    "area": "Educação, Ciência e Inovação",
-   "hoje": 3,
-   "mediana": 2.0,
-   "limiar": 10.0,
-   "excesso": 1.0,
-   "variacao_pct": 50,
+   "hoje": 22,
+   "mediana": 14.5,
+   "limiar": 30.8,
+   "excesso": 7.5,
+   "variacao_pct": 52,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Negócios Estrangeiros",
+   "hoje": 14,
+   "mediana": 6.5,
+   "limiar": 15.4,
+   "excesso": 7.5,
+   "variacao_pct": 115,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 19,
+   "mediana": 12.5,
+   "limiar": 30.3,
+   "excesso": 6.5,
+   "variacao_pct": 52,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Administração Interna",
+   "hoje": 19,
+   "mediana": 15.5,
+   "limiar": 33.3,
+   "excesso": 3.5,
+   "variacao_pct": 23,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1341,6 +1392,13 @@
    "hoje": 99,
    "mediana": 48.0,
    "limiar": 79.1
+  },
+  {
+   "data": "2026-11-16",
+   "area": "Defesa Nacional",
+   "hoje": 36,
+   "mediana": 16.5,
+   "limiar": 35.8
   }
  ]
 }
