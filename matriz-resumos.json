@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-17 00:43",
+ "gerado": "2026-11-17 09:49",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -724,10 +724,28 @@
    "pct": 50,
    "lado": "positivas"
   },
+  "2026-11-17|Justiça": {
+   "texto": "No dia 17 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos. Destacam-se a prisão preventiva de um jovem de 18 anos suspeito de ter matado o senhorio com 20 facadas na Moita, a greve de guardas prisionais que abrangeu 40 estabelecimentos prisionais, a manutenção da prisão preventiva de influenciadores condenados por violação em Loures e a condenação do Tribunal Constitucional a críticas ao líder do partido AD. Adicionalmente, verificaram-se casos de obsolescência programada de produtos eletrónicos, nomeadamente iPhones, perante tribunais em França.",
+   "n": 15,
+   "pct": 79,
+   "lado": "negativas"
+  },
   "2026-11-16|Economia e Coesão Territorial|+": {
-   "texto": "**Temas dominantes:** Investimento público e privado no mar, reabilitação urbana e infraestruturas, execução do PRR e crescimento económico.\n\n**Acontecimentos concretos:**\n\n1. **Investimento no mar:** O Governo anunciou um investimento de 814 milhões de euros para acelerar a estratégia do mar, abrangendo seis prioridades e projetos de desenvolvimento portuário e marítimo.\n\n2. **Reabilitação urbana:** A Câmara Municipal de Lisboa aprovou a construção de 160 habitações no Paço do Lumiar, num investimento de 28,5 milhões de euros, com conclusão prevista para 2029.\n\n3. **Execução do PRR:** As empresas portuguesas já receberam quase 16 mil milhões de euros de fundos europeus, com destaque para pagamentos liderados por empresas e a reabilitação de infraestruturas.\n\n4. **Crescimento económico:** A KPMG prevê um crescimento do PIB português de 2,3% em 2026 e 1,9% em 2027, impulsionado por setores como o turismo e a indústria.\n\n5. **Coesão territorial:** O Plano de Desenvolvimento Territorial do Turismo nos Açores iniciou a sua quarta fase, com foco na diversificação e sustentabilidade do setor.\n\n6. **Investimento privado:** Um rei brasileiro do alumínio anunciou um investimento de 55 milhões de euros",
-   "n": 34,
-   "pct": 51,
+   "texto": "No âmbito da economia e coesão territorial, o Governo português concretizou investimentos significativos em infraestruturas e desenvolvimento territorial, nomeadamente através da aceleração da estratégia do mar com 814 milhões de euros, da construção de 160 habitações em Lisboa por 28,5 milhões de euros e da requalificação de 24 casas em Reguengos de Monsaraz com 1,47 milhões do PRR. Paralelamente, o Plano de Desenvolvimento Territorial do Turismo nos Açores entrou na quarta fase, enquanto a economia portuguesa, segundo a KPMG, deverá crescer 2,3% em 2026 e 1,9% em 2027. O tema dominante é o impulso ao investimento e à coesão territorial, evidenciado pelos pagamentos do PRR, a atração de investimento estrangeiro e o reforço do setor turístico.",
+   "n": 37,
+   "pct": 53,
+   "lado": "positivas"
+  },
+  "2026-11-16|Agricultura e Mar|+": {
+   "texto": "O Governo anunciou um investimento de 814 milhões de euros para acelerar a estratégia nacional do mar, abrangendo medidas de gestão costeira e desenvolvimento portuário. A Autoridade de Segurança Alimentar e Veterinária (ASAE) disponibilizou uma série estatística detalhada sobre a agricultura biológica em Portugal, com dados entre 2015 e 2025. Investidores internacionais reforçaram o apoio a um projeto florestal em Portugal, impulsionando a expansão de áreas florestais e a valorização de biomassa residual. Paralelamente, a parceria com a Coreia do Sul foi reforçada nas áreas da agricultura, mar e florestas, com o objetivo de promover a cooperação técnica e comercial.",
+   "n": 12,
+   "pct": 54,
+   "lado": "positivas"
+  },
+  "2026-11-17|Saúde|+": {
+   "texto": "No dia 17 de novembro de 2026, a Apifarma propôs um roteiro decenal para a reindustrialização do setor farmacêutico, visando reforçar a autonomia de Portugal. Paralelamente, o programa Bolsas Mais Valor em Saúde do SNS atribuiu financiamento a quatro Unidades Locais de Saúde, reconhecendo a sua excelência na prestação de cuidados de saúde. Adicionalmente, foi noticiado um autotransplante intestinal bem-sucedido, que permitiu a remoção de um tumor de grandes dimensões, demonstrando avanços na cirurgia especializada. Estes eventos evidenciam um tema dominante de inovação e melhoria contínua nos cuidados de saúde.",
+   "n": 9,
+   "pct": 56,
    "lado": "positivas"
   }
  }
