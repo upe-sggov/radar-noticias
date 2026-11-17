@@ -1,80 +1,59 @@
 {
- "atualizado": "2026-11-17 09:23",
+ "atualizado": "2026-11-17 14:20",
  "dia": "2026-11-17",
- "corte": "09:23",
+ "corte": "14:20",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 09:23, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 14:20, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [
-  {
-   "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 34,
-   "mediana": 11.5,
-   "limiar": 29.3,
-   "excesso": 22.5,
-   "variacao_pct": 196,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 29,
-   "mediana": 14.0,
-   "limiar": 27.3,
-   "excesso": 15.0,
-   "variacao_pct": 107,
-   "dias_base": 28,
-   "tempestade": true
-  }
- ],
+ "tempestades": [],
  "momentum": [
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 34,
-   "mediana": 11.5,
-   "limiar": 29.3,
-   "excesso": 22.5,
-   "variacao_pct": 196,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Economia e Coesão Territorial",
-   "hoje": 29,
-   "mediana": 14.0,
-   "limiar": 27.3,
-   "excesso": 15.0,
-   "variacao_pct": 107,
-   "dias_base": 28,
-   "tempestade": true
-  },
-  {
-   "area": "Defesa Nacional",
-   "hoje": 28,
-   "mediana": 15.0,
-   "limiar": 35.8,
-   "excesso": 13.0,
-   "variacao_pct": 87,
+   "hoje": 67,
+   "mediana": 30.0,
+   "limiar": 74.5,
+   "excesso": 37.0,
+   "variacao_pct": 123,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Justiça",
-   "hoje": 25,
-   "mediana": 14.0,
-   "limiar": 25.9,
-   "excesso": 11.0,
-   "variacao_pct": 79,
+   "area": "Economia e Coesão Territorial",
+   "hoje": 68,
+   "mediana": 36.5,
+   "limiar": 81.0,
+   "excesso": 31.5,
+   "variacao_pct": 86,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Defesa Nacional",
+   "hoje": 66,
+   "mediana": 38.5,
+   "limiar": 75.6,
+   "excesso": 27.5,
+   "variacao_pct": 71,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Educação, Ciência e Inovação",
-   "hoje": 20,
-   "mediana": 12.0,
-   "limiar": 28.3,
-   "excesso": 8.0,
-   "variacao_pct": 67,
+   "hoje": 53,
+   "mediana": 30.5,
+   "limiar": 58.7,
+   "excesso": 22.5,
+   "variacao_pct": 74,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Cultura, Juventude e Desporto",
+   "hoje": 50,
+   "mediana": 33.0,
+   "limiar": 52.3,
+   "excesso": 17.0,
+   "variacao_pct": 52,
    "dias_base": 28,
    "tempestade": false
   }
@@ -1409,20 +1388,6 @@
    "hoje": 30,
    "mediana": 9.0,
    "limiar": 25.3
-  },
-  {
-   "data": "2026-11-17",
-   "area": "Economia e Coesão Territorial",
-   "hoje": 29,
-   "mediana": 14.0,
-   "limiar": 27.3
-  },
-  {
-   "data": "2026-11-17",
-   "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 34,
-   "mediana": 11.5,
-   "limiar": 29.3
   }
  ]
 }
