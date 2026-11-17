@@ -1,18 +1,38 @@
 {
- "atualizado": "2026-11-17 15:55",
+ "atualizado": "2026-11-17 17:59",
  "dia": "2026-11-17",
- "corte": "15:55",
+ "corte": "17:59",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 15:55, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 17:59, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [
   {
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 59,
-   "mediana": 40.0,
-   "limiar": 54.8,
-   "excesso": 19.0,
-   "variacao_pct": 48,
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 106,
+   "mediana": 46.0,
+   "limiar": 102.3,
+   "excesso": 60.0,
+   "variacao_pct": 130,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Defesa Nacional",
+   "hoje": 105,
+   "mediana": 52.0,
+   "limiar": 96.5,
+   "excesso": 53.0,
+   "variacao_pct": 102,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
+   "area": "Negócios Estrangeiros",
+   "hoje": 43,
+   "mediana": 20.5,
+   "limiar": 42.7,
+   "excesso": 22.5,
+   "variacao_pct": 110,
    "dias_base": 28,
    "tempestade": true
   }
@@ -20,53 +40,53 @@
  "momentum": [
   {
    "area": "Trabalho, Solidariedade e Segurança Social",
-   "hoje": 83,
-   "mediana": 35.5,
-   "limiar": 87.4,
-   "excesso": 47.5,
-   "variacao_pct": 134,
+   "hoje": 106,
+   "mediana": 46.0,
+   "limiar": 102.3,
+   "excesso": 60.0,
+   "variacao_pct": 130,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   },
   {
    "area": "Defesa Nacional",
-   "hoje": 83,
-   "mediana": 45.5,
-   "limiar": 85.5,
-   "excesso": 37.5,
-   "variacao_pct": 82,
+   "hoje": 105,
+   "mediana": 52.0,
+   "limiar": 96.5,
+   "excesso": 53.0,
+   "variacao_pct": 102,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   },
   {
    "area": "Economia e Coesão Territorial",
-   "hoje": 79,
-   "mediana": 47.0,
-   "limiar": 84.1,
-   "excesso": 32.0,
-   "variacao_pct": 68,
+   "hoje": 92,
+   "mediana": 58.0,
+   "limiar": 98.0,
+   "excesso": 34.0,
+   "variacao_pct": 59,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Educação, Ciência e Inovação",
-   "hoje": 68,
-   "mediana": 39.5,
-   "limiar": 82.5,
-   "excesso": 28.5,
-   "variacao_pct": 72,
+   "hoje": 80,
+   "mediana": 48.0,
+   "limiar": 88.0,
+   "excesso": 32.0,
+   "variacao_pct": 67,
    "dias_base": 28,
    "tempestade": false
   },
   {
    "area": "Negócios Estrangeiros",
-   "hoje": 37,
-   "mediana": 16.5,
-   "limiar": 37.3,
-   "excesso": 20.5,
-   "variacao_pct": 124,
+   "hoje": 43,
+   "mediana": 20.5,
+   "limiar": 42.7,
+   "excesso": 22.5,
+   "variacao_pct": 110,
    "dias_base": 28,
-   "tempestade": false
+   "tempestade": true
   }
  ],
  "historico": [
@@ -1402,10 +1422,24 @@
   },
   {
    "data": "2026-11-17",
-   "area": "Cultura, Juventude e Desporto",
-   "hoje": 59,
-   "mediana": 40.0,
-   "limiar": 54.8
+   "area": "Defesa Nacional",
+   "hoje": 105,
+   "mediana": 52.0,
+   "limiar": 96.5
+  },
+  {
+   "data": "2026-11-17",
+   "area": "Negócios Estrangeiros",
+   "hoje": 43,
+   "mediana": 20.5,
+   "limiar": 42.7
+  },
+  {
+   "data": "2026-11-17",
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 106,
+   "mediana": 46.0,
+   "limiar": 102.3
   }
  ]
 }
