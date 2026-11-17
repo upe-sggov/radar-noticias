@@ -1,8 +1,8 @@
 {
- "recolhido": "2026-11-17 00:12",
- "horas_desde_a_anterior": 8.6,
+ "recolhido": "2026-11-17 04:24",
+ "horas_desde_a_anterior": 4.2,
  "fontes": 66,
- "sem_artigos": 8,
+ "sem_artigos": 9,
  "por_recurso": 0,
  "detalhe": [
   {
@@ -28,9 +28,31 @@
    "erro": "HTTP Error 429: Too Many Requests"
   },
   {
-   "fonte": "Diário de Notícias da Madeira",
-   "dominio": "dnoticias.pt",
+   "fonte": "Executive Digest",
+   "dominio": "executivedigest.sapo.pt",
    "origem": "nacionais",
+   "pt": true,
+   "via_config": "google",
+   "via": "google",
+   "lidos": 0,
+   "marcados": 0,
+   "erro": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "fonte": "Expresso",
+   "dominio": "expresso.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "google",
+   "via": "google",
+   "lidos": 0,
+   "marcados": 0,
+   "erro": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "fonte": "Inforpress (Cabo Verde)",
+   "dominio": "inforpress.cv",
+   "origem": "lusofonas",
    "pt": true,
    "via_config": "google",
    "via": "google",
@@ -47,23 +69,12 @@
    "via": "google",
    "lidos": 0,
    "marcados": 0,
-   "erro": ""
+   "erro": "HTTP Error 429: Too Many Requests"
   },
   {
-   "fonte": "La Repubblica",
-   "dominio": "repubblica.it",
-   "origem": "internacionais",
-   "pt": false,
-   "via_config": "feed",
-   "via": "direta",
-   "lidos": 0,
-   "marcados": 0,
-   "erro": "HTTP Error 403: Forbidden"
-  },
-  {
-   "fonte": "Renascença",
-   "dominio": "rr.pt",
-   "origem": "nacionais",
+   "fonte": "Novo Jornal (Angola)",
+   "dominio": "novojornal.co.ao",
+   "origem": "lusofonas",
    "pt": true,
    "via_config": "google",
    "via": "google",
@@ -72,8 +83,8 @@
    "erro": "HTTP Error 429: Too Many Requests"
   },
   {
-   "fonte": "SIC Notícias",
-   "dominio": "sicnoticias.pt",
+   "fonte": "Renascença",
+   "dominio": "rr.pt",
    "origem": "nacionais",
    "pt": true,
    "via_config": "google",
@@ -91,7 +102,7 @@
    "via": "google",
    "lidos": 0,
    "marcados": 0,
-   "erro": "HTTP Error 429: Too Many Requests"
+   "erro": ""
   },
   {
    "fonte": "Construir",
@@ -100,30 +111,30 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 6,
-   "marcados": 4,
+   "lidos": 4,
+   "marcados": 2,
    "erro": ""
   },
   {
-   "fonte": "Inforpress (Cabo Verde)",
-   "dominio": "inforpress.cv",
+   "fonte": "O País (Moçambique)",
+   "dominio": "opais.co.mz",
    "origem": "lusofonas",
-   "pt": true,
-   "via_config": "google",
-   "via": "google",
-   "lidos": 7,
-   "marcados": 1,
-   "erro": ""
-  },
-  {
-   "fonte": "Dinheiro Vivo",
-   "dominio": "dinheirovivo.pt",
-   "origem": "nacionais",
    "pt": true,
    "via_config": "feed",
    "via": "direta",
-   "lidos": 9,
-   "marcados": 1,
+   "lidos": 5,
+   "marcados": 5,
+   "erro": ""
+  },
+  {
+   "fonte": "Agência Brasil",
+   "dominio": "agenciabrasil.ebc.com.br",
+   "origem": "lusofonas",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 10,
+   "marcados": 26,
    "erro": ""
   },
   {
@@ -149,6 +160,28 @@
    "erro": ""
   },
   {
+   "fonte": "Dinheiro Vivo",
+   "dominio": "dinheirovivo.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 10,
+   "marcados": 0,
+   "erro": ""
+  },
+  {
+   "fonte": "Expresso das Ilhas (Cabo Verde)",
+   "dominio": "expressodasilhas.cv",
+   "origem": "lusofonas",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 10,
+   "marcados": 18,
+   "erro": ""
+  },
+  {
    "fonte": "Healthnews",
    "dominio": "healthnews.pt",
    "origem": "nacionais",
@@ -167,7 +200,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 10,
-   "marcados": 8,
+   "marcados": 6,
    "erro": ""
   },
   {
@@ -179,17 +212,6 @@
    "via": "direta",
    "lidos": 10,
    "marcados": 0,
-   "erro": ""
-  },
-  {
-   "fonte": "Público",
-   "dominio": "publico.pt",
-   "origem": "nacionais",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta",
-   "lidos": 10,
-   "marcados": 7,
    "erro": ""
   },
   {
@@ -243,29 +265,7 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 13,
-   "marcados": 1,
-   "erro": ""
-  },
-  {
-   "fonte": "Expresso das Ilhas (Cabo Verde)",
-   "dominio": "expressodasilhas.cv",
-   "origem": "lusofonas",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta + Google",
-   "lidos": 14,
-   "marcados": 18,
-   "erro": ""
-  },
-  {
-   "fonte": "Novo Jornal (Angola)",
-   "dominio": "novojornal.co.ao",
-   "origem": "lusofonas",
-   "pt": true,
-   "via_config": "google",
-   "via": "google",
-   "lidos": 14,
+   "lidos": 12,
    "marcados": 3,
    "erro": ""
   },
@@ -281,13 +281,13 @@
    "erro": ""
   },
   {
-   "fonte": "Correio da Manhã",
-   "dominio": "cmjornal.pt",
-   "origem": "nacionais",
-   "pt": true,
+   "fonte": "Le Figaro",
+   "dominio": "lefigaro.fr",
+   "origem": "internacionais",
+   "pt": false,
    "via_config": "feed",
    "via": "direta",
-   "lidos": 20,
+   "lidos": 19,
    "marcados": 0,
    "erro": ""
   },
@@ -303,14 +303,14 @@
    "erro": ""
   },
   {
-   "fonte": "Le Figaro",
-   "dominio": "lefigaro.fr",
-   "origem": "internacionais",
-   "pt": false,
+   "fonte": "Jornal de Negócios",
+   "dominio": "jornaldenegocios.pt",
+   "origem": "nacionais",
+   "pt": true,
    "via_config": "feed",
    "via": "direta",
    "lidos": 20,
-   "marcados": 0,
+   "marcados": 8,
    "erro": ""
   },
   {
@@ -358,17 +358,6 @@
    "erro": ""
   },
   {
-   "fonte": "O País (Moçambique)",
-   "dominio": "opais.co.mz",
-   "origem": "lusofonas",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta + Google",
-   "lidos": 22,
-   "marcados": 6,
-   "erro": ""
-  },
-  {
    "fonte": "RFI (português)",
    "dominio": "rfi.fr",
    "origem": "internacionais",
@@ -380,8 +369,8 @@
    "erro": ""
   },
   {
-   "fonte": "El País · Internacional",
-   "dominio": "elpais.com",
+   "fonte": "El Mundo",
+   "dominio": "elmundo.es",
    "origem": "internacionais",
    "pt": false,
    "via_config": "feed",
@@ -391,13 +380,13 @@
    "erro": ""
   },
   {
-   "fonte": "El Mundo",
-   "dominio": "elmundo.es",
+   "fonte": "El País · Internacional",
+   "dominio": "elpais.com",
    "origem": "internacionais",
    "pt": false,
    "via_config": "feed",
    "via": "direta",
-   "lidos": 24,
+   "lidos": 23,
    "marcados": 0,
    "erro": ""
   },
@@ -431,7 +420,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 25,
-   "marcados": 15,
+   "marcados": 13,
    "erro": ""
   },
   {
@@ -459,6 +448,17 @@
   {
    "fonte": "France Info",
    "dominio": "francetvinfo.fr",
+   "origem": "internacionais",
+   "pt": false,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 30,
+   "marcados": 0,
+   "erro": ""
+  },
+  {
+   "fonte": "La Repubblica",
+   "dominio": "repubblica.it",
    "origem": "internacionais",
    "pt": false,
    "via_config": "feed",
@@ -497,7 +497,7 @@
    "via_config": "google",
    "via": "google",
    "lidos": 38,
-   "marcados": 2,
+   "marcados": 1,
    "erro": ""
   },
   {
@@ -545,6 +545,17 @@
    "erro": ""
   },
   {
+   "fonte": "RTP Notícias",
+   "dominio": "rtp.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta",
+   "lidos": 50,
+   "marcados": 26,
+   "erro": ""
+  },
+  {
    "fonte": "Observador",
    "dominio": "observador.pt",
    "origem": "nacionais",
@@ -552,7 +563,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 51,
-   "marcados": 29,
+   "marcados": 23,
    "erro": ""
   },
   {
@@ -578,24 +589,13 @@
    "erro": ""
   },
   {
-   "fonte": "Expresso",
-   "dominio": "expresso.pt",
-   "origem": "nacionais",
-   "pt": true,
-   "via_config": "google",
-   "via": "google",
-   "lidos": 87,
-   "marcados": 29,
-   "erro": ""
-  },
-  {
    "fonte": "JM Madeira",
    "dominio": "jm-madeira.pt",
    "origem": "nacionais",
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 91,
+   "lidos": 90,
    "marcados": 16,
    "erro": ""
   },
@@ -606,8 +606,8 @@
    "pt": true,
    "via_config": "google",
    "via": "google",
-   "lidos": 96,
-   "marcados": 25,
+   "lidos": 98,
+   "marcados": 23,
    "erro": ""
   },
   {
@@ -618,29 +618,18 @@
    "via_config": "google",
    "via": "google",
    "lidos": 99,
-   "marcados": 26,
+   "marcados": 27,
    "erro": ""
   },
   {
-   "fonte": "Agência Brasil",
-   "dominio": "agenciabrasil.ebc.com.br",
-   "origem": "lusofonas",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta + Google",
-   "lidos": 100,
-   "marcados": 32,
-   "erro": ""
-  },
-  {
-   "fonte": "Executive Digest",
-   "dominio": "executivedigest.sapo.pt",
+   "fonte": "Diário de Notícias da Madeira",
+   "dominio": "dnoticias.pt",
    "origem": "nacionais",
    "pt": true,
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 29,
+   "marcados": 21,
    "erro": ""
   },
   {
@@ -655,17 +644,6 @@
    "erro": ""
   },
   {
-   "fonte": "Jornal de Negócios",
-   "dominio": "jornaldenegocios.pt",
-   "origem": "nacionais",
-   "pt": true,
-   "via_config": "feed",
-   "via": "direta + Google",
-   "lidos": 100,
-   "marcados": 21,
-   "erro": ""
-  },
-  {
    "fonte": "Jornal de Notícias",
    "dominio": "jn.pt",
    "origem": "nacionais",
@@ -673,7 +651,7 @@
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 25,
+   "marcados": 26,
    "erro": ""
   },
   {
@@ -684,18 +662,40 @@
    "via_config": "google",
    "via": "google",
    "lidos": 100,
-   "marcados": 6,
+   "marcados": 9,
    "erro": ""
   },
   {
-   "fonte": "RTP Notícias",
-   "dominio": "rtp.pt",
+   "fonte": "SIC Notícias",
+   "dominio": "sicnoticias.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "google",
+   "via": "google",
+   "lidos": 100,
+   "marcados": 33,
+   "erro": ""
+  },
+  {
+   "fonte": "Público",
+   "dominio": "publico.pt",
    "origem": "nacionais",
    "pt": true,
    "via_config": "feed",
    "via": "direta + Google",
-   "lidos": 144,
-   "marcados": 36,
+   "lidos": 102,
+   "marcados": 30,
+   "erro": ""
+  },
+  {
+   "fonte": "Correio da Manhã",
+   "dominio": "cmjornal.pt",
+   "origem": "nacionais",
+   "pt": true,
+   "via_config": "feed",
+   "via": "direta + Google",
+   "lidos": 120,
+   "marcados": 25,
    "erro": ""
   },
   {
@@ -705,7 +705,7 @@
    "pt": false,
    "via_config": "feed",
    "via": "direta",
-   "lidos": 145,
+   "lidos": 146,
    "marcados": 0,
    "erro": ""
   },
@@ -728,7 +728,7 @@
    "via_config": "feed",
    "via": "direta",
    "lidos": 490,
-   "marcados": 103,
+   "marcados": 104,
    "erro": ""
   }
  ]
