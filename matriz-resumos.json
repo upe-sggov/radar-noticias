@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-18 15:59",
+ "gerado": "2026-11-18 23:32",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -743,10 +743,16 @@
    "lado": "negativas"
   },
   "2026-11-18|Justiça": {
-   "texto": "No dia 18 de novembro de 2026, vários acontecimentos de natureza judicial e de segurança pública marcaram a cobertura mediática da área da Justiça. O Supremo Tribunal de Espanha iniciou uma investigação sobre alegações de abusos sexuais contra o cantor Julio Iglesias, enquanto em Portugal, um líder parlamentar do Chega foi constituído arguido por crimes contra a honra, gravações e fotografias ilícitas. Adicionalmente, a Polícia de Segurança Pública interveio numa situação de violência escolar na Escola Delfim Santos, remetendo o caso ao Ministério Público, e um homem de 48 anos foi proibido de contactar a sua ex-mulher, após decisão judicial. Estes eventos refletem um tema dominante de conflitos judiciais, investigações criminais e intervenções policiais em contextos de violência e proteção de vítimas.",
-   "n": 19,
-   "pct": 80,
+   "texto": "No dia 18 de novembro de 2026, registaram-se múltiplos acontecimentos de natureza judicial e de segurança pública. Destacam-se a aplicação de prisão preventiva a indivíduos por crimes como furtos, agressões a ex-cônjuges, pornografia de menores e tráfico de droga, bem como a condenação de Ekrem Imamoglu e a abertura de inquéritos contra Julio Iglesias por alegados abusos sexuais. Adicionalmente, verificou-se uma investigação do Tribunal de Contas relativamente à gestão de substâncias químicas persistentes, e a divulgação de um relatório sobre a falta de rigor e transparência na Saúde. Um caso notável foi o de um homem que destruiu um avião militar dos EUA, resultando em prisão preventiva.",
+   "n": 28,
+   "pct": 78,
    "lado": "negativas"
+  },
+  "2026-11-18|Agricultura e Mar|+": {
+   "texto": "**Temas dominantes:** Desenvolvimento agrícola sustentável, inovação tecnológica e gestão de recursos hídricos.\n\n**Acontecimentos:**\n\n1. **Gestão de recursos hídricos:** O aumento de 82,6% na área agrícola regada em dez anos, acompanhado de um crescimento de 37,2% no consumo de água, demonstra uma gestão eficiente dos recursos hídricos, com os agricultores a reportarem uma redução no consumo.\n\n2. **Inovação tecnológica:** O reconhecimento de Bernardo Vieira e Brito como melhor jovem agricultor europeu na categoria de Digitalização na Agricultura evidencia o avanço da inovação tecnológica no setor.\n\n3. **Participação em eventos:** A coorganização do 12º. Congresso Europeu dos Jovens Agricultores por Paulo do Nascimento Cabral, com destaque para a participação açoriana, demonstra o reforço da cooperação europeia no setor.\n\n4. **Gestão de recursos marinhos:** A diminuição de 35,5% nas capturas até outubro, apesar do aumento da área regada, sugere uma gestão sustentável dos recursos marinhos.\n\n5. **Políticas de apoio:** O Chega propõe a ampliação da quota de atum, a renovação da frota de pesca e apoios ao combustível, procurando reforçar a sustentabilidade do setor.",
+   "n": 8,
+   "pct": 50,
+   "lado": "positivas"
   }
  }
 }
