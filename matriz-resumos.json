@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19 16:27",
+ "gerado": "2026-11-20 09:39",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -682,12 +682,6 @@
    "pct": 74,
    "lado": "positivas"
   },
-  "2026-11-12|Justiça": {
-   "texto": "No dia 12 de novembro de 2026, foram registados múltiplos acontecimentos na área da Justiça, com destaque para investigações do Ministério Público relacionadas com intervenções policiais em manifestações de habitação em Lisboa e no Porto, bem como com a atuação de agentes da PSP. Adicionalmente, verificaram-se condenações de antigos agentes da PSP por tráfico de droga e corrupção, e iniciou-se uma investigação a um caso de alegada corrupção envolvendo a adjudicação de um contrato de distribuição de jornais. O tema dominante foi a investigação de potenciais irregularidades na atuação policial e a responsabilização de indivíduos por crimes de corrupção.",
-   "n": 34,
-   "pct": 76,
-   "lado": "negativas"
-  },
   "2026-11-13|Ambiente e Energia|+": {
    "texto": "No dia 13 de novembro de 2026, verificaram-se vários acontecimentos relevantes no âmbito da área da Energia e Ambiente. Em primeiro lugar, a ilha do Porto Santo alcançou o funcionamento a 100% com energias renováveis, com impacto positivo na faturação energética dos consumidores. Paralelamente, o LNEG identificou a Zona Sul de Portugal como uma área com elevado potencial geológico para a produção de hidrogénio natural, abrindo caminho para novas iniciativas neste setor. Adicionalmente, a AIEA divulgou dados que evidenciam a crescente importância das renováveis na matriz elétrica portuguesa, com 73% da produção elétrica assegurada por fontes renováveis até outubro de 2026, resultando numa poupança de 2,2 mil milhões de euros para o país.",
    "n": 17,
@@ -760,11 +754,17 @@
    "pct": 52,
    "lado": "positivas"
   },
-  "2026-11-19|Cultura, Juventude e Desporto|+": {
-   "texto": "No âmbito da área da cultura e juventude, o Museu Nacional da Música, em Mafra, assinalou o seu aniversário com concertos e atividades educativas, incluindo um ‘peddy-paper’ para o público. Simultaneamente, a cidade de Évora iniciou a programação do festival Évora_27, com centenas de artistas e um forte envolvimento de jovens, tendo o Governo manifestado o seu empenho no seu sucesso. Adicionalmente, o Museu Etnográfico da Madeira acolheu um concerto dedicado à tradição madeirense, e o Museu da Música da Madeira organizou um concerto, evidenciando um reforço da oferta cultural regional. A nível internacional, obras do barroco brasileiro Aleijadinho foram expostas nos Museus Vaticanos pela primeira vez, e a venda de uma pintura de Van Gogh por 190,4 milhões de dólares estabeleceu um novo recorde para o artista.",
-   "n": 17,
-   "pct": 50,
-   "lado": "positivas"
+  "2026-11-20|Saúde": {
+   "texto": "No dia 20 de novembro de 2026, registou-se uma greve da função pública que afetou diversos serviços, incluindo a recolha de lixo e unidades de saúde, com impacto na prestação de cuidados. Paralelamente, verificou-se uma crise no financiamento e abastecimento do Serviço Nacional de Saúde (SNS), evidenciada por um estudo da Lusa que aponta para ruturas de medicamentos em mais de 90% dos hospitais e a consequente alteração de terapêuticas ou adiamento de tratamentos. Adicionalmente, a carência de farmacêuticos em mais de 90% das unidades hospitalares agravou a situação, comprometendo a segurança e qualidade dos cuidados prestados. O tema dominante é, assim, a crise de recursos humanos e financeiros no SNS, com impacto direto na assistência aos doentes.",
+   "n": 18,
+   "pct": 78,
+   "lado": "negativas"
+  },
+  "2026-11-20|Justiça": {
+   "texto": "No dia 20 de novembro de 2026, registaram-se múltiplos acontecimentos na área da justiça, abrangendo desde processos judiciais de elevada visibilidade até incidentes de natureza diversa. Relativamente a figuras públicas, o debate televisivo entre Sánchez e Feijóo foi marcado por acusações de corrupção e ataques pessoais, tendo o primeiro solicitado perdão público por alegados atos ilícitos e acidentes ferroviários. Paralelamente, ocorreu a detenção de um indivíduo por circular em contramão na autoestrada A1, evidenciando uma situação de incumprimento da lei de trânsito. Adicionalmente, dois profissionais de saúde – um médico e uma enfermeira – foram condenados em Angola pela morte de uma mãe e do seu bebé durante o parto, demonstrando a aplicação de justiça internacional. Por fim, registou-se uma greve na Função Pública que já afetava a recolha de lixo, ilustrando a instabilidade laboral e o impacto na prestação de serviços públicos. O tema dominante, contudo, foi a exposição de casos de corrupção e a instabilidade política, refletida nas declarações públicas de figuras proeminentes.",
+   "n": 10,
+   "pct": 80,
+   "lado": "negativas"
   }
  }
 }
