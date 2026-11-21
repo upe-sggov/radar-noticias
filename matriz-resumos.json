@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-20 23:10",
+ "gerado": "2026-11-21 03:28",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -682,12 +682,6 @@
    "pct": 74,
    "lado": "positivas"
   },
-  "2026-11-13|Ambiente e Energia|+": {
-   "texto": "No dia 13 de novembro de 2026, verificaram-se vários acontecimentos relevantes no âmbito da área da Energia e Ambiente. Em primeiro lugar, a ilha do Porto Santo alcançou o funcionamento a 100% com energias renováveis, com impacto positivo na faturação energética dos consumidores. Paralelamente, o LNEG identificou a Zona Sul de Portugal como uma área com elevado potencial geológico para a produção de hidrogénio natural, abrindo caminho para novas iniciativas neste setor. Adicionalmente, a AIEA divulgou dados que evidenciam a crescente importância das renováveis na matriz elétrica portuguesa, com 73% da produção elétrica assegurada por fontes renováveis até outubro de 2026, resultando numa poupança de 2,2 mil milhões de euros para o país.",
-   "n": 17,
-   "pct": 53,
-   "lado": "positivas"
-  },
   "2026-11-14|Primeiro-Ministro": {
    "texto": "No dia 14 de novembro de 2026, a cobertura mediática focou-se em questões de saúde e habitação, com particular destaque para a atuação do Governo. Relatos indicam uma pressão da oposição à Ministra da Saúde, com José Luís Carneiro a acusar o Primeiro-Ministro, Luís Montenegro, de \"silêncio cúmplice\" face a problemas no setor da saúde, nomeadamente uma crise nas urgências de Portimão, suscitando pedidos de responsabilização governamental por parte do BE. Paralelamente, a oposição criticou a gestão governamental no que concerne à habitação, com o Livre a considerar que as medidas implementadas por Montenegro \"aceleram\" os preços, e a deputada Joana Mortágua a classificar a postura do Primeiro-Ministro perante os protestos como \"lamentável\".",
    "n": 7,
@@ -755,10 +749,16 @@
    "lado": "positivas"
   },
   "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 20 de novembro de 2026, a área da Administração Pública e Segurança Social foi palco de uma greve geral da função pública, com adesão de cerca de 90% nas escolas e perturbações significativas em hospitais e serviços públicos, afetando também a recolha de lixo em vários concelhos. Paralelamente, a Frente Comum, maior sindicato da PSP, manifestou oposição a uma proposta governamental de aumentos salariais para 2027, agravando tensões no setor da segurança. Adicionalmente, técnicos de diagnóstico e terapêutica, sapadores bombeiros florestais do ICNF e outros profissionais de saúde e serviços públicos aderiram a greves parciais ou totais, motivadas por salários insuficientes para cobrir a renda acessível em mais de metade dos concelhos portugueses, gerando constrangimentos no acesso a consultas, cirurgias e outros serviços essenciais.",
-   "n": 98,
-   "pct": 77,
+   "texto": "No dia 20 de novembro de 2026, a área governativa do Trabalho, Solidariedade e Segurança Social foi palco de uma série de eventos relacionados com a contestação laboral e a pressão sobre os serviços públicos. Uma greve geral da função pública, com adesão estimada em torno dos 90% nas escolas e com impacto significativo em hospitais, serviços de saúde, finanças e segurança social, afetou a prestação de serviços em todo o país. Paralelamente, registaram-se greves setoriais em diversas áreas, incluindo a PSP, guardas prisionais, médicos, técnicos de diagnóstico e terapêutica, sapadores bombeiros florestais e trabalhadores de empresas públicas como a Teijin, com perturbações na recolha de lixo e constrangimentos em serviços essenciais. Adicionalmente, a cobertura mediática evidenciou preocupações com salários insuficientes para o custo de vida em mais de 200 municípios, a insuficiência de rendimentos para a habitação acessível e a previsão de constrangimentos na assistência médica e hospitalar.",
+   "n": 102,
+   "pct": 78,
    "lado": "negativas"
+  },
+  "2026-11-13|Ambiente e Energia|+": {
+   "texto": "No âmbito da área de Ambiente e Energia, verificaram-se vários acontecimentos relevantes. O Porto Santo alcançou o funcionamento a 100% com energias renováveis, demonstrando a viabilidade de sistemas energéticos sustentáveis. O LNEG identificou a Zona Sul Portuguesa como a região com maior potencial geológico para a produção de hidrogénio natural, abrindo caminho para novas tecnologias energéticas. Paralelamente, a EDP concluiu um projeto pioneiro na Península Ibérica que combina energia hídrica e solar, reforçando a aposta em fontes renováveis e a eficiência energética. Adicionalmente, a AIEA indicou uma crescente preocupação com as instalações nucleares do Irão, enquanto a produção elétrica em Portugal, liderada pelas renováveis, atingiu 73% até outubro, gerando uma poupança de 2,2 mil milhões de euros e consolidando a posição do país como um dos líderes europeus neste domínio.",
+   "n": 17,
+   "pct": 52,
+   "lado": "positivas"
   }
  }
 }
