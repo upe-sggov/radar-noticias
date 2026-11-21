@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21 03:28",
+ "gerado": "2026-11-21 15:05",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -748,16 +748,34 @@
    "pct": 52,
    "lado": "positivas"
   },
-  "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 20 de novembro de 2026, a área governativa do Trabalho, Solidariedade e Segurança Social foi palco de uma série de eventos relacionados com a contestação laboral e a pressão sobre os serviços públicos. Uma greve geral da função pública, com adesão estimada em torno dos 90% nas escolas e com impacto significativo em hospitais, serviços de saúde, finanças e segurança social, afetou a prestação de serviços em todo o país. Paralelamente, registaram-se greves setoriais em diversas áreas, incluindo a PSP, guardas prisionais, médicos, técnicos de diagnóstico e terapêutica, sapadores bombeiros florestais e trabalhadores de empresas públicas como a Teijin, com perturbações na recolha de lixo e constrangimentos em serviços essenciais. Adicionalmente, a cobertura mediática evidenciou preocupações com salários insuficientes para o custo de vida em mais de 200 municípios, a insuficiência de rendimentos para a habitação acessível e a previsão de constrangimentos na assistência médica e hospitalar.",
-   "n": 102,
-   "pct": 78,
-   "lado": "negativas"
-  },
   "2026-11-13|Ambiente e Energia|+": {
    "texto": "No âmbito da área de Ambiente e Energia, verificaram-se vários acontecimentos relevantes. O Porto Santo alcançou o funcionamento a 100% com energias renováveis, demonstrando a viabilidade de sistemas energéticos sustentáveis. O LNEG identificou a Zona Sul Portuguesa como a região com maior potencial geológico para a produção de hidrogénio natural, abrindo caminho para novas tecnologias energéticas. Paralelamente, a EDP concluiu um projeto pioneiro na Península Ibérica que combina energia hídrica e solar, reforçando a aposta em fontes renováveis e a eficiência energética. Adicionalmente, a AIEA indicou uma crescente preocupação com as instalações nucleares do Irão, enquanto a produção elétrica em Portugal, liderada pelas renováveis, atingiu 73% até outubro, gerando uma poupança de 2,2 mil milhões de euros e consolidando a posição do país como um dos líderes europeus neste domínio.",
    "n": 17,
    "pct": 52,
+   "lado": "positivas"
+  },
+  "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 20 de novembro de 2026, a área da Administração Pública e Segurança Social foi palco de uma greve geral da função pública, com adesão estimada em 90% nas escolas e afetação significativa de hospitais e serviços de saúde, tendo também impactado a recolha de lixo em diversos concelhos. Adicionalmente, os sindicatos da PSP manifestaram oposição a uma proposta governamental de aumentos salariais para 2027, e registaram-se greves parciais em setores como a saúde, educação, recolha de resíduos e segurança, motivadas por reivindicações de melhores salários e condições laborais. Um tema dominante foi a contestação de políticas orçamentais e de medidas governamentais relativas à sustentabilidade financeira dos trabalhadores e à adequação dos salários face ao custo de vida.",
+   "n": 103,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-11-21|Cultura, Juventude e Desporto|+": {
+   "texto": "O Museu Nacional de Arte Antiga reabriu hoje com um novo percurso e programação especial, conforme noticiado pela Lusa e pelo Público. O desporto beneficiou de um reforço financeiro de 2,14 milhões de euros, conforme reportado pelo JM Madeira. A obra do compositor Mário-Henrique Leiria foi alvo de um espetáculo discográfico e de lançamento em Lisboa, conforme noticiado pelo Notícias ao Minuto. O tema dominante é a reabertura e revitalização de instituições culturais e o apoio financeiro ao setor desportivo.",
+   "n": 7,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-11-21|Saúde|+": {
+   "texto": "Na área da saúde, verificaram-se avanços no diagnóstico e tratamento de doenças complexas, com destaque para a melhoria dos cuidados de fibrose quística e a retoma de serviços de cirurgia oftalmológica em ambulatório nos hospitais de Seia e Ponta Delgada. Paralelamente, houve investimentos na requalificação de serviços cirúrgicos e na modernização de infraestruturas hospitalares, como no Hospital de Ponta Delgada, e a aquisição de novos meios de diagnóstico em Maputo. O tema dominante foi a expansão e melhoria da capacidade de resposta do sistema de saúde, abrangendo tanto a vertente hospitalar como a comunitária, com reforço de equipamentos e infraestruturas.",
+   "n": 6,
+   "pct": 55,
+   "lado": "positivas"
+  },
+  "2026-11-21|Economia e Coesão Territorial|+": {
+   "texto": "No dia 21 de novembro de 2026, a Agência Moody’s reviu em alta o 'rating' de Portugal, sinalizando confiança na estabilidade económica e financeira do país. Em Coimbra, a UC Biomed inaugurou novas instalações de investigação, beneficiando de um investimento de 38 milhões de euros em infraestruturas e equipamentos. Adicionalmente, o Hospital de Ponta Delgada recebeu financiamento de 1,2 milhões de euros para a requalificação da sua unidade de cirurgia ambulatória, melhorando a capacidade de resposta a intervenções programadas. Simultaneamente, o Município de Alcanena concretizou um investimento de 2,6 milhões de euros em centros de saúde, promovendo a melhoria dos serviços de saúde primários e a discussão sobre a carência de recursos médicos no território.",
+   "n": 6,
+   "pct": 50,
    "lado": "positivas"
   }
  }
