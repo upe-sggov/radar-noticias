@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22 02:17",
+ "gerado": "2026-11-22 14:55",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -776,6 +776,24 @@
    "texto": "No dia 14 de novembro de 2026, o Governo português saudou um acordo da União Europeia relativo à atribuição gratuita de licenças de CO2, reforçando o compromisso com a transição energética e a redução de emissões. Paralelamente, a comunidade de emigrantes irlandeses em Portugal celebrou a preservação da língua gaélica através de iniciativas de promoção cultural. Adicionalmente, a comunidade portuguesa residente em Londres reconheceu e valorizou a prática do seu canto tradicional como expressão cultural. Não há, contudo, um tema dominante comum a todos os acontecimentos noticiados.",
    "n": 4,
    "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-11-22|Defesa Nacional": {
+   "texto": "No dia 22 de novembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e política. A Ucrânia enfrentou intensos ataques russos, resultando em danos em infraestruturas civis, com relatos de vítimas e pessoas presas nos escombros, e na deteção de drones ucranianos abatidos. Paralelamente, a instabilidade política na Guiné-Bissau persistiu, com a democracia suspensa por um ano após um golpe militar. Adicionalmente, a escalada do conflito na Ucrânia foi acompanhada por ações estratégicas de ambos os lados, incluindo ataques a cargueiros e operações de defesa aérea. O tema dominante foi a intensificação do conflito na Ucrânia e a instabilidade política em países africanos.",
+   "n": 19,
+   "pct": 90,
+   "lado": "negativas"
+  },
+  "2026-11-22|Administração Interna": {
+   "texto": "No dia 22 de novembro de 2026, a área da Administração Interna foi marcada por dois eventos distintos. Em Vale de Cambra, um incêndio numa habitação resultou em quatro desalojados e um ferido, envolvendo intervenção da GNR. Paralelamente, foi noticiado um processo judicial com a acusação de tortura contra agentes da PSP. Adicionalmente, o risco de derrocadas em Manteigas manteve um plano de emergência ativo, enquanto, no plano político, o Ministro da Administração Interna anunciou a criação de um comando nacional para os bombeiros.",
+   "n": 8,
+   "pct": 89,
+   "lado": "negativas"
+  },
+  "2026-11-22|Cultura, Juventude e Desporto|+": {
+   "texto": "A área da Cultura, Juventude e Desporto registou, no dia 22 de novembro de 2026, um conjunto de desenvolvimentos notáveis. Destaca-se o apoio financeiro da Madeira a jovens agricultores, com a disponibilização de 2,9 milhões de euros em apoios, tendo já sido apresentadas 18 candidaturas. Paralelamente, promoveu-se a iniciativa \"Natal em família\", com a realização de 12 espetáculos e experiências imersivas. Adicionalmente, dois jovens portugueses foram premiados em Bruxelas com um projeto de combate à fraude financeira, designado \"O Guardião\". Não se identificou um tema dominante específico, mas a juventude e a inovação foram elementos transversais em vários dos factos relatados.",
+   "n": 8,
+   "pct": 53,
    "lado": "positivas"
   }
  }
