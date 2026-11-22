@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-22 14:55",
+ "gerado": "2026-11-22 21:04",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -779,21 +779,27 @@
    "lado": "positivas"
   },
   "2026-11-22|Defesa Nacional": {
-   "texto": "No dia 22 de novembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e política. A Ucrânia enfrentou intensos ataques russos, resultando em danos em infraestruturas civis, com relatos de vítimas e pessoas presas nos escombros, e na deteção de drones ucranianos abatidos. Paralelamente, a instabilidade política na Guiné-Bissau persistiu, com a democracia suspensa por um ano após um golpe militar. Adicionalmente, a escalada do conflito na Ucrânia foi acompanhada por ações estratégicas de ambos os lados, incluindo ataques a cargueiros e operações de defesa aérea. O tema dominante foi a intensificação do conflito na Ucrânia e a instabilidade política em países africanos.",
-   "n": 19,
-   "pct": 90,
+   "texto": "No dia 22 de novembro de 2026, a área da Defesa Nacional registou múltiplos acontecimentos de natureza militar e de segurança. Destacam-se ataques russos contra a Ucrânia, incluindo um ataque com drone que resultou na morte de duas pessoas e no colapso de um edifício residencial, bem como bombardeamentos que ameaçaram o sistema energético e instalações nucleares. Paralelamente, a Rússia intensificou as ofensivas, alegando uma fragilidade ucraniana. Adicionalmente, verifica-se o abate de drones ucranianos pela Rússia e a deteção de aeronaves militares chinesas perto de Taiwan. Relativamente a conflitos externos, militares colombianos foram atingidos num ataque que causou cinco baixas, e a Ucrânia terá atacado um navio russo na Líbia.",
+   "n": 31,
+   "pct": 82,
    "lado": "negativas"
   },
-  "2026-11-22|Administração Interna": {
-   "texto": "No dia 22 de novembro de 2026, a área da Administração Interna foi marcada por dois eventos distintos. Em Vale de Cambra, um incêndio numa habitação resultou em quatro desalojados e um ferido, envolvendo intervenção da GNR. Paralelamente, foi noticiado um processo judicial com a acusação de tortura contra agentes da PSP. Adicionalmente, o risco de derrocadas em Manteigas manteve um plano de emergência ativo, enquanto, no plano político, o Ministro da Administração Interna anunciou a criação de um comando nacional para os bombeiros.",
+  "2026-11-22|Primeiro-Ministro": {
+   "texto": "No dia 22 de novembro de 2026, a cobertura mediática focou-se em tensões no âmbito da elaboração do Orçamento do Estado (OE). O PSD criticou a postura do governo, designando-a de \"gerinsonsa\", e defendeu que Montenegro deveria evitar \"dramatismos\". André Ventura, líder do Chega, responsabilizou o Primeiro-Ministro pelas coligações com o PS no contexto do OE e propôs um confronto direto com o Partido Socialista, excluindo o PSD. Paralelamente, o partido de André Ventura acusou o governo de negligência face à crise económica, com declarações sobre o uso de golfe em detrimento da gestão do país. O tema dominante foi a instabilidade política e a perceção de falta de ação governamental perante a crise.",
+   "n": 7,
+   "pct": 78,
+   "lado": "negativas"
+  },
+  "2026-11-22|Negócios Estrangeiros": {
+   "texto": "A cobertura noticiosa de 22 de novembro de 2026, na área de Negócios Estrangeiros, centra-se na falha da COP31 em alcançar um acordo global sobre a transição energética. A União Europeia, em conjunto com outros países, vetou o texto final, rejeitando metas ambiciosas de descarbonização e prolongando a discussão até à sessão de encerramento sem consenso. Este impasse, que prolongou a conferência a um nível inédito, resultou na ausência de um acordo vinculativo sobre a redução de combustíveis fósseis. O tema dominante é, portanto, a incapacidade de alcançar um acordo climático abrangente, evidenciando divergências entre os principais atores internacionais.",
    "n": 8,
-   "pct": 89,
+   "pct": 80,
    "lado": "negativas"
   },
   "2026-11-22|Cultura, Juventude e Desporto|+": {
-   "texto": "A área da Cultura, Juventude e Desporto registou, no dia 22 de novembro de 2026, um conjunto de desenvolvimentos notáveis. Destaca-se o apoio financeiro da Madeira a jovens agricultores, com a disponibilização de 2,9 milhões de euros em apoios, tendo já sido apresentadas 18 candidaturas. Paralelamente, promoveu-se a iniciativa \"Natal em família\", com a realização de 12 espetáculos e experiências imersivas. Adicionalmente, dois jovens portugueses foram premiados em Bruxelas com um projeto de combate à fraude financeira, designado \"O Guardião\". Não se identificou um tema dominante específico, mas a juventude e a inovação foram elementos transversais em vários dos factos relatados.",
-   "n": 8,
-   "pct": 53,
+   "texto": "No dia 22 de novembro de 2026, Dino d'Santiago foi galardoado com um novo prémio nos Estados Unidos, reforçando o reconhecimento internacional da sua obra e evidenciando o seu papel na promoção da lusofonia através da música. A Fundação INATEL implementou o projeto 'Salão Piolho' na Horta, levando cinema mudo com banda sonora ao vivo, enquanto o Governo da Madeira disponibilizou 2,9 milhões de euros em apoios a jovens agricultores, incentivando o desenvolvimento do setor. Adicionalmente, o projeto 'Natal em família' ofereceu 12 espetáculos e experiências imersivas, e dois jovens portugueses foram premiados em Bruxelas com o projeto 'O Guardião', destinado a combater a fraude financeira. O tema dominante foi a valorização da cultura, a inovação no desporto e o apoio ao empreendedorismo jovem.",
+   "n": 11,
+   "pct": 52,
    "lado": "positivas"
   }
  }
