@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-21 22:03",
+ "gerado": "2026-11-22 02:17",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -760,12 +760,6 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-11-21|Cultura, Juventude e Desporto|+": {
-   "texto": "O Museu Nacional de Arte Antiga reabriu hoje com um novo percurso e programação especial, conforme noticiado pela Lusa e pelo Público. O desporto beneficiou de um reforço financeiro de 2,14 milhões de euros, conforme reportado pelo JM Madeira. A obra do compositor Mário-Henrique Leiria foi alvo de um espetáculo discográfico e de lançamento em Lisboa, conforme noticiado pelo Notícias ao Minuto. O tema dominante é a reabertura e revitalização de instituições culturais e o apoio financeiro ao setor desportivo.",
-   "n": 7,
-   "pct": 50,
-   "lado": "positivas"
-  },
   "2026-11-21|Economia e Coesão Territorial|+": {
    "texto": "O Governo argentino aprovou um megaprojeto de exportação de gás natural liquefeito, conforme noticiado pelo Observador e pelo Executivo Digest. O Presidente da República, Luís F. Bolieiro, reiterou que os fundos do Plano de Recuperação e Resiliência (PRR) foram \"bem empregados\" no domínio da habitação, conforme referido pelo Observador, pelo Açoriano Oriental e pela TSF. O Museu Nacional de Arte Antiga reabriu ao público, conforme noticiado pelo Observador, e a UC Biomed, em Coimbra, iniciou a sua atividade com um investimento de 38 milhões de euros, conforme noticiado pela Healthnews. A Agência Moody’s elevou o 'rating' de Portugal, conforme noticiado pelo Observador. O 2º Fórum Empresarial do Douro, dedicado à Coesão Territorial e Governação Local, decorreu conforme noticiado pela TSF.",
    "n": 12,
@@ -775,6 +769,12 @@
   "2026-11-21|Saúde|+": {
    "texto": "No domínio da saúde, registaram-se diversos avanços e melhorias operacionais. A fibrose quística deixou de ser considerada uma sentença de morte, graças a um programa que integra o teste do pezinho com novos medicamentos. Em Moçambique, o Hospital de Maputo foi dotado de meios para diagnóstico de cancro avaliados em 40 mil euros, enquanto nos Açores e na Madeira foram alocados fundos para requalificar a cirurgia ambulatória e retomar cirurgias oftalmológicas, respetivamente. Adicionalmente, o município de Alcanena investiu 2,6 milhões de euros na modernização de centros de saúde e na criação de um fórum para abordar a carência de médicos. Não obstante, no âmbito da educação, e não da saúde, estudantes da Faculdade de Administração e Línguas (FAL) manifestaram-se satisfeitos com a decisão de congelar as propinas.",
    "n": 6,
+   "pct": 50,
+   "lado": "positivas"
+  },
+  "2026-11-14|Negócios Estrangeiros|+": {
+   "texto": "No dia 14 de novembro de 2026, o Governo português saudou um acordo da União Europeia relativo à atribuição gratuita de licenças de CO2, reforçando o compromisso com a transição energética e a redução de emissões. Paralelamente, a comunidade de emigrantes irlandeses em Portugal celebrou a preservação da língua gaélica através de iniciativas de promoção cultural. Adicionalmente, a comunidade portuguesa residente em Londres reconheceu e valorizou a prática do seu canto tradicional como expressão cultural. Não há, contudo, um tema dominante comum a todos os acontecimentos noticiados.",
+   "n": 4,
    "pct": 50,
    "lado": "positivas"
   }
