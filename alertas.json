@@ -1,19 +1,19 @@
 {
- "atualizado": "2026-11-22 14:29",
+ "atualizado": "2026-11-22 20:41",
  "dia": "2026-11-22",
- "corte": "14:29",
+ "corte": "20:41",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 14:29, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 20:41, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
  "tempestades": [],
  "momentum": [
   {
    "area": "Assuntos Parlamentares",
-   "hoje": 6,
-   "mediana": 2.5,
-   "limiar": 10.5,
-   "excesso": 3.5,
-   "variacao_pct": 140,
+   "hoje": 12,
+   "mediana": 6.5,
+   "limiar": 16.9,
+   "excesso": 5.5,
+   "variacao_pct": 85,
    "dias_base": 28,
    "tempestade": false
   }
