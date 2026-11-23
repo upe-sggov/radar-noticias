@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-23 02:57",
+ "gerado": "2026-11-23 10:05",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -807,6 +807,18 @@
    "n": 11,
    "pct": 50,
    "lado": "positivas"
+  },
+  "2026-11-23|Infraestruturas e Habitação": {
+   "texto": "Durante o dia 23 de novembro de 2026, verificou-se uma greve dos maquinistas da CP que motivou a supressão de 30 comboios até às 08h00, com previsão de paralisação total nos dias seguintes. O movimento de contestação, que se prolongou até sexta-feira, afetou a operação ferroviária e gerou impacto nos serviços de transporte de passageiros. Paralelamente, a cobertura mediática focou-se também numa questão de habitação, embora o título fornecido seja incompleto e não permita identificar um caso concreto específico. O tema dominante da cobertura negativa foi, portanto, a greve no setor ferroviário.",
+   "n": 18,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-23|Administração Interna": {
+   "texto": "No dia 23 de novembro de 2026, a Polícia de Segurança Pública (PSP) desencadeou uma operação nacional designada \"Violência Fica à Porta\", focada na prevenção e repressão da violência doméstica. Paralelamente, a Guarda Nacional Republicana (GNR) realizou uma intervenção no âmbito da segurança de cemitérios, utilizando drones para detetar e impedir atos de vandalismo. Adicionalmente, a PSP aplicou sanções pecuniárias a dez manifestantes que acampavam em Lisboa, com base na regulamentação da utilização de vestuário que suscitava controvérsia. O tema dominante associado a estes acontecimentos é a segurança pública e a aplicação da lei, com particular ênfase em crimes contra a integridade física e património.",
+   "n": 9,
+   "pct": 82,
+   "lado": "negativas"
   }
  }
 }
