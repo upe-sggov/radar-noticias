@@ -1,28 +1,69 @@
 {
- "atualizado": "2026-11-23 02:26",
+ "atualizado": "2026-11-23 09:37",
  "dia": "2026-11-23",
- "corte": "02:26",
+ "corte": "09:37",
  "dias_base": 28,
- "regra": "Tempestade quando a contagem do dia, até às 02:26, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
+ "regra": "Tempestade quando a contagem do dia, até às 09:37, excede a mediana dos últimos 28 dias à mesma hora em máx(2 desvios robustos, 8 notícias) e atinge pelo menos 12 notícias; sem alertas com menos de 7 dias de série, contada desde 2026-08-04 (método de recolha atual).",
  "transicao_fontes": null,
- "tempestades": [],
+ "tempestades": [
+  {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 44,
+   "mediana": 13.5,
+   "limiar": 32.8,
+   "excesso": 30.5,
+   "variacao_pct": 226,
+   "dias_base": 28,
+   "tempestade": true
+  }
+ ],
  "momentum": [
   {
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 44,
+   "mediana": 13.5,
+   "limiar": 32.8,
+   "excesso": 30.5,
+   "variacao_pct": 226,
+   "dias_base": 28,
+   "tempestade": true
+  },
+  {
    "area": "Cultura, Juventude e Desporto",
-   "hoje": 4,
-   "mediana": 3.0,
-   "limiar": 11.0,
-   "excesso": 1.0,
-   "variacao_pct": 33,
+   "hoje": 20,
+   "mediana": 13.5,
+   "limiar": 26.8,
+   "excesso": 6.5,
+   "variacao_pct": 48,
    "dias_base": 28,
    "tempestade": false
   },
   {
-   "area": "Presidência",
-   "hoje": 2,
-   "mediana": 1.0,
-   "limiar": 9.0,
-   "excesso": 1.0,
+   "area": "Saúde",
+   "hoje": 17,
+   "mediana": 11.0,
+   "limiar": 28.8,
+   "excesso": 6.0,
+   "variacao_pct": 55,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Economia e Coesão Territorial",
+   "hoje": 21,
+   "mediana": 16.0,
+   "limiar": 32.3,
+   "excesso": 5.0,
+   "variacao_pct": 31,
+   "dias_base": 28,
+   "tempestade": false
+  },
+  {
+   "area": "Reforma do Estado",
+   "hoje": 9,
+   "mediana": 4.5,
+   "limiar": 12.5,
+   "excesso": 4.5,
    "variacao_pct": 100,
    "dias_base": 28,
    "tempestade": false
@@ -1393,6 +1434,13 @@
    "hoje": 146,
    "mediana": 68.0,
    "limiar": 145.1
+  },
+  {
+   "data": "2026-11-23",
+   "area": "Trabalho, Solidariedade e Segurança Social",
+   "hoje": 44,
+   "mediana": 13.5,
+   "limiar": 32.8
   }
  ]
 }
