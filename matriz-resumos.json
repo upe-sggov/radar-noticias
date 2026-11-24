@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-24 17:07",
+ "gerado": "2026-11-24 17:56",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -813,6 +813,18 @@
    "n": 16,
    "pct": 51,
    "lado": "positivas"
+  },
+  "2026-11-24|Defesa Nacional": {
+   "texto": "No dia 24 de novembro de 2026, a cobertura noticiosa focou-se em múltiplos eventos relacionados com a guerra na Ucrânia e a atividade militar russa. Destacaram-se a alegada descoberta de uma câmara de tortura em Kiev, embora a veracidade do título não tenha sido confirmada, e a notificação de quase 700 drones ucranianos abatidos pela Rússia na última noite. Adicionalmente, registaram-se ataques ucranianos a navios russos na Líbia, qualificados pela Líbia como \"ato de guerra\", e a destruição de uma corveta russa ao largo da costa líbia, atribuída à Ucrânia. O Pentágono manteve a não autorização da entrega de mísseis Patriot à Ucrânia, enquanto a NATO reforçava a sua estratégia de dissuasão contra a guerra híbrida russa, com o Kremlin a testar os limites da Aliança.",
+   "n": 31,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-24|Justiça": {
+   "texto": "No dia 24 de novembro de 2026, a área da justiça registou múltiplos acontecimentos de natureza judicial e administrativa. Destacam-se a abertura de um concurso governamental para promoção de guardas prisionais, que se encontra em impasse devido a uma greve sindical, e a promessa de conclusão de um tribunal em Vila Franca, com custos superiores ao previsto inicialmente. Adicionalmente, foram noticiados casos de investigação por corrupção, nomeadamente denúncias que aumentaram mais de 30% face ao ano anterior, e processos criminais que resultaram em detenções preventivas, como o dono de uma oficina de armas ilegais e um indivíduo ligado a um sequestro familiar. O tema dominante é a investigação de irregularidades financeiras e a instauração de processos judiciais.",
+   "n": 18,
+   "pct": 75,
+   "lado": "negativas"
   }
  }
 }
