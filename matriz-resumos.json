@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25 10:25",
+ "gerado": "2026-11-25 11:20",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -802,18 +802,6 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-11-25|Defesa Nacional": {
-   "texto": "No dia 25 de novembro de 2026, foram registados múltiplos incidentes de natureza militar e de segurança na área da Defesa Nacional, predominantemente relacionados com a guerra na Ucrânia e as suas consequências. Destacam-se ataques ucranianos a alvos na Rússia a distâncias crescentes da linha da frente, bem como ações de drones que resultaram na morte de dois oficiais navais líbios. Paralelamente, verificaram-se ataques russos na Ucrânia que causaram pelo menos três vítimas mortais em diferentes regiões do país. O tema dominante é a intensificação do conflito armado e as suas implicações geopolíticas, incluindo alegações de pressões externas sobre a Ucrânia.",
-   "n": 7,
-   "pct": 78,
-   "lado": "negativas"
-  },
-  "2026-11-25|Justiça": {
-   "texto": "No dia 25 de novembro de 2026, o sistema judicial português registou dois eventos principais relacionados com a gestão financeira pública. Em primeiro lugar, um tribunal identificou um montante de 1.860 milhões de euros em empréstimos do Estado moçambicano que permanecem por reembolso, revelando dificuldades na recuperação de créditos. Em segundo lugar, foi assinalada uma divergência contabilística de 925 milhões de euros nas contas do Estado moçambicano, indicando potenciais irregularidades na gestão financeira. Adicionalmente, verificou-se a condenação de dois engenheiros a oito anos de prisão por um incêndio num centro de formação desportivo, evidenciando a aplicação da lei penal em casos de danos materiais. Não se identificou um tema dominante comum entre os factos apresentados.",
-   "n": 8,
-   "pct": 75,
-   "lado": "negativas"
-  },
   "2026-11-18|Agricultura e Mar|+": {
    "texto": "No dia 18 de novembro de 2026, foram registados dois eventos principais na área da agricultura e do mar. O primeiro, de natureza repressiva, consistiu na apreensão de jerricãs suspeitas de contrabando no rio de Alhandra, no âmbito de uma operação de fiscalização. Paralelamente, destacou-se a distinção de Bernardo Vieira e Brito como o melhor jovem agricultor europeu na categoria de Digitalização na Agricultura, evidenciando o reconhecimento de competências e inovação no setor. Adicionalmente, o Governo reforçou o apoio financeiro aos agricultores, sublinhado por figuras políticas que enfatizaram o seu papel na garantia da segurança alimentar. O tema dominante destes acontecimentos é o investimento e a valorização dos recursos humanos e tecnológicos na agricultura, bem como a gestão sustentável dos recursos hídricos e a modernização da atividade piscatória.",
    "n": 10,
@@ -832,10 +820,22 @@
    "pct": 51,
    "lado": "positivas"
   },
+  "2026-11-25|Justiça": {
+   "texto": "No dia 25 de novembro de 2026, foram noticiados múltiplos acontecimentos de natureza judicial e financeira. Em primeiro lugar, a Chega denunciou um alegado \"sistema político viciado\" e exigiu medidas contra a corrupção e a falta de transparência, num contexto de cobertura mediática predominantemente negativa. Em segundo lugar, dois engenheiros foram condenados a oito anos de prisão por um incêndio num centro de formação no Brasil, que resultou na morte de dez adolescentes. Finalmente, o dia foi marcado por alertas de divergências contabilísticas e não reembolso de empréstimos do Estado moçambicano, no montante de 1.860 milhões de euros, com implicações financeiras significativas. O tema dominante foi, assim, a problemática da gestão financeira pública e a responsabilização em casos de irregularidades.",
+   "n": 10,
+   "pct": 79,
+   "lado": "negativas"
+  },
+  "2026-11-25|Defesa Nacional": {
+   "texto": "No dia 25 de novembro de 2026, registaram-se múltiplos acontecimentos relacionados com a guerra na Ucrânia e operações militares em diferentes teatros de operações. Um ataque com drones ucranianos na Líbia resultou na morte de dois oficiais navais líbios, enquanto a Ucrânia intensificou ataques aéreos contra alvos russos a distâncias crescentes da linha da frente, atingindo território russo. Paralelamente, a Rússia sofreu perdas humanas significativas, com estimativas que apontam para 720 mil soldados mortos desde o início do conflito, conforme novos dados divulgados. Adicionalmente, registaram-se ataques russos na Ucrânia que causaram pelo menos três mortes em diversas regiões do país. O tema dominante é a intensificação do conflito na Ucrânia e as operações militares em múltiplos fronts.",
+   "n": 9,
+   "pct": 75,
+   "lado": "negativas"
+  },
   "2026-11-25|Saúde|+": {
-   "texto": "A área da saúde registou vários avanços e melhorias de capacidade durante o dia 25 de novembro de 2026. Foi implantado na República Checa o primeiro pacemaker que se recarrega autonomamente, um desenvolvimento tecnológico relevante. A União Europeia, através de Bruxelas, estabeleceu uma estratégia para posicionar-se como líder mundial na produção de tecnologias quânticas, com implicações para a investigação e inovação em saúde. Adicionalmente, a ULS do Estuário do Tejo reabriu a urgência de ginecologia em Vila Franca de Xira, recuperando serviços anteriormente considerados perdidos, e o Hospital de Aveiro assegurou cinco milhões de euros para a modernização de instalações de urgência até 2028. Por fim, um estudo concluiu para a ampliação do Hospital de Penafiel, reforçando a capacidade de resposta do sistema de saúde. O tema dominante é a melhoria da capacidade de resposta e inovação no sistema de saúde.",
+   "texto": "No domínio da saúde, verificaram-se desenvolvimentos tecnológicos e melhorias na capacidade de resposta dos serviços. Foi implantado na República Checa o primeiro pacemaker que se recarrega autonomamente, representando um avanço na cardiologia. A ULS do Estuário do Tejo anunciou a reabertura da urgência de ginecologia em Vila Franca de Xira, recuperando serviços anteriormente inexistentes. O Hospital de Aveiro assegurou financiamento de cinco milhões de euros para a ampliação da sua urgência até 2028. Adicionalmente, foi concluído um estudo para a ampliação do Hospital de Penafiel, visando reforçar a capacidade de resposta do serviço de saúde local. O tema dominante é a modernização e expansão da capacidade assistencial e tecnológica nos cuidados de saúde.",
    "n": 8,
-   "pct": 67,
+   "pct": 62,
    "lado": "positivas"
   }
  }
