@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-25 02:50",
+ "gerado": "2026-11-25 05:14",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -766,58 +766,52 @@
    "pct": 50,
    "lado": "positivas"
   },
+  "2026-11-17|Saúde|+": {
+   "texto": "No dia 17 de novembro de 2026, registaram-se vários acontecimentos relevantes na área da saúde. A Madeira acolheu uma formação europeia sobre saúde mental e terapia na natureza, com foco na prevenção e apoio psicológico. A Comissão Europeia autorizou um novo tratamento para cancro do pâncreas metastático, um avanço terapêutico significativo. Adicionalmente, quatro Unidades Locais de Saúde (ULS) obtiveram financiamento através das Bolsas Mais Valor em Saúde, destinando-o à implementação de novos modelos de cuidados e à melhoria da eficiência do Serviço Nacional de Saúde. O tema dominante é o progresso no acesso a tratamentos inovadores e na melhoria da qualidade dos cuidados de saúde.",
+   "n": 20,
+   "pct": 51,
+   "lado": "positivas"
+  },
   "2026-11-18|Justiça": {
    "texto": "No dia 18 de novembro de 2026, registaram-se múltiplos acontecimentos de natureza judicial e de segurança pública. Destacam-se a prisão preventiva de indivíduos por crimes diversos, incluindo furtos, agressões a ex-cônjuges, tráfico de droga e pornografia de menores, com aplicação de medidas de coação como a proibição de contacto e a prisão preventiva. Adicionalmente, verificou-se uma investigação judicial a figuras públicas como Julio Iglesias, por alegações de abusos sexuais, e a líderes políticos, como o líder parlamentar do Chega, por crimes de injúria e gravações ilícitas. Observou-se também a condenação de indivíduos por crimes graves, como terrorismo, e a divulgação de dados sensíveis, incluindo o roubo de informações sobre o GTA VI.",
    "n": 30,
-   "pct": 80,
+   "pct": 79,
    "lado": "negativas"
   },
   "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
    "texto": "No dia 20 de novembro de 2026, a área da Administração Pública e Segurança Social foi palco de múltiplos acontecimentos de natureza laboral, centrados numa greve geral da função pública. A greve, com adesão superior a 90% em diversos setores (escolas, hospitais, serviços de finanças e segurança social), resultou no encerramento de estabelecimentos, cancelamento de consultas e constrangimentos na recolha de resíduos e outros serviços essenciais. Adicionalmente, verificaram-se greves setoriais, como a dos maquinistas da CP, técnicos de diagnóstico e terapêutica, e sapadores florestais do ICNF, com impacto em serviços específicos. O tema dominante foi a reivindicação de melhores salários e condições laborais, face à inflação e à perceção de insuficiência salarial para o custo de vida.",
    "n": 103,
-   "pct": 79,
+   "pct": 78,
    "lado": "negativas"
   },
   "2026-11-22|Defesa Nacional": {
    "texto": "No dia 22 de novembro de 2026, a cobertura noticiosa focou-se predominantemente na guerra na Ucrânia e em questões de segurança interna. Na esfera internacional, registaram-se ataques russos a instalações civis e militares ucranianas, incluindo um bombardeamento que causou vítimas e danos num prédio residencial, com 14 pessoas desaparecidas. Paralelamente, a Rússia intensificou as suas ofensivas, alegando explorar a fragilidade da Ucrânia, e foi noticiado um aumento de ataques híbridos contra a Europa. No plano interno, verificaram-se incidentes relacionados com a segurança militar, como um acidente de velocidade envolvendo militares da GNR e um incêndio numa habitação em Vale de Cambra. Adicionalmente, a situação política na Guiné-Bissau e na Guiné foi reportada, com a suspensão da democracia em ambos os países após golpes militares.",
    "n": 38,
-   "pct": 81,
+   "pct": 83,
    "lado": "negativas"
   },
   "2026-11-22|Justiça": {
    "texto": "No dia 22 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza judicial e administrativa. Destacam-se pedidos de prisão preventiva e penas de prisão para traficantes de haxixe, bem como a detenção de um técnico da Polícia Judiciária suspeito de desvio de armas apreendidas. Paralelamente, ocorreram decisões judiciais que proibiram a comercialização de veículos automóveis, nomeadamente um SUV da BYD na União Europeia, e processos disciplinares contra agentes das forças de segurança por alegada tortura. Adicionalmente, registaram-se pedidos de penas elevadas para agentes da PSP e da Polícia Judiciária, bem como processos judiciais envolvendo a religião, evidenciando uma diversidade de casos com implicações criminais e administrativas.",
    "n": 12,
-   "pct": 76,
+   "pct": 75,
+   "lado": "negativas"
+  },
+  "2026-11-24|Administração Interna": {
+   "texto": "No dia 24 de novembro de 2026, a Administração Interna registou múltiplos acontecimentos de natureza diversa. Destacaram-se, em primeiro lugar, tensões internacionais envolvendo a Rússia e a Estónia, com avisos de potencial conflito devido ao fecho de fronteira e incidentes fronteiriços. Em paralelo, a PSP e a GNR desenvolveram operações de combate ao crime, incluindo detenções por furto, tráfico de droga e fraude fiscal, com buscas em diversas localidades, nomeadamente no Porto de Leixões. Adicionalmente, verificaram-se incidentes de segurança pública, como sequestros, acidentes rodoviários e confrontos com cidadãos, bem como falhas na comunicação de emergência e deteções de carteiristas e de condutores com cadastro.",
+   "n": 44,
+   "pct": 77,
    "lado": "negativas"
   },
   "2026-11-18|Agricultura e Mar|+": {
-   "texto": "**Temas dominantes:** Expansão da área agrícola regada, sustentabilidade hídrica, apoio governamental à agricultura e pesca, e reconhecimento de jovens agricultores.\n\n**Acontecimentos:**\n\n1. **Sustentabilidade hídrica e expansão da área agrícola:** O aumento de 82,6% na área agrícola regada em dez anos, acompanhado de um crescimento de 37,2% no consumo de água, demonstra uma gestão mais eficiente dos recursos hídricos, com os agricultores a reportar uma redução no consumo.\n\n2. **Reconhecimento de jovens agricultores:** Bernardo Vieira e Brito, jovem agricultor português, foi distinguido como o melhor jovem agricultor da Europa na categoria de Digitalização na Agricultura, evidenciando a aposta no desenvolvimento tecnológico do setor.\n\n3. **Apoio governamental e organização de eventos:** O Governo apoiou os agricultores, com declarações que reconhecem o seu papel na segurança alimentar, e Paulo do Nascimento Cabral coorganizou o 12º. Congresso Europeu dos Jovens Agricultores, com destaque para a participação açoriana.\n\n4. **Propostas para a pesca:** O partido Chega propôs o aumento da quota de atum e apoios para a renovação da frota de pesca, visando a sustentabilidade da atividade e a melhoria das condições de trabalho.",
+   "texto": "No âmbito da agricultura, o Governo reforçou o apoio financeiro aos agricultores, reconhecendo o seu papel no abastecimento alimentar nacional. Simultaneamente, Bernardo Vieira e Brito, jovem agricultor português, foi distinguido com o prémio europeu de melhor jovem agricultor na categoria de Digitalização na Agricultura. No setor da pesca, a área regada para a agricultura aumentou 82,6% em dez anos, com um crescimento de 37,2% no consumo de água, demonstrando uma gestão mais eficiente dos recursos hídricos. Adicionalmente, o partido Chega propôs o aumento da quota de atum e apoios para a renovação da frota de pesca, com vista a mitigar os impactos da queda de 35,5% nas capturas até outubro.",
    "n": 10,
-   "pct": 52,
+   "pct": 50,
    "lado": "positivas"
   },
   "2026-11-21|Economia e Coesão Territorial|+": {
-   "texto": "1. **Exportação de gás natural liquefeito na Argentina**: O governo argentino aprovou um megaprojeto de exportação de gás natural liquefeito, impulsionando a diversificação energética e as relações comerciais com mercados externos.\n\n2. **Investimento no PRR para habitação**: O envelope financeiro do Plano de Recuperação e Resiliência (PRR) foi alocado à habitação, resultando em obras concluídas e na melhoria de condições de habitação, conforme reconhecido pelo governo.\n\n3. **Reabertura do Museu Nacional de Arte Antiga**: O Museu Nacional de Arte Antiga reabriu ao público, após obras de restauro, reforçando a oferta cultural e o património nacional.\n\n4. **Retorno no Turismo do Algarve**: O Presidente do Turismo do Algarve afirmou que o retorno económico do investimento público no setor é superior ao montante investido, evidenciando a eficácia das políticas de promoção turística.\n\n5. **Investimento em saúde em Coimbra e Ponta Delgada**: Foram inaugurados e financiados projetos de saúde em Coimbra e Ponta Delgada, com investimentos de 38 milhões de euros e 1,2 milhões de euros, respetivamente, para melhorar a prestação de cuidados de saúde.\n\n6. **Coesão territorial no Douro**: O 2º Fórum Empresarial do Douro debateu a coesão territorial e a governação local, com foco em 50 anos de",
+   "texto": "O dia registou múltiplos desenvolvimentos na área da economia e coesão territorial, com destaque para a aprovação de um megaprojeto argentino de exportação de gás natural liquefeito e a reabertura do Museu Nacional de Arte Antiga. No âmbito do Plano de Recuperação e Resiliência (PRR), foram confirmados investimentos bem empregues na habitação, evidenciados por declarações do Presidente da República, e foram anunciados avanços na saúde, nomeadamente a inauguração de uma unidade de investigação em Coimbra e a requalificação de serviços cirúrgicos em Ponta Delgada. Adicionalmente, a coesão territorial foi abordada no 2º Fórum Empresarial do Douro e no investimento em infraestruturas de saúde em diversas regiões do país. O tema dominante foi o sucesso da execução e impacto dos fundos europeus.",
    "n": 13,
-   "pct": 52,
-   "lado": "positivas"
-  },
-  "2026-11-23|Negócios Estrangeiros|+": {
-   "texto": "No âmbito da cooperação internacional, a União Europeia confirmou um acordo com a Mauritânia relativo à pesca, estabelecendo termos para a atividade pesqueira de navios europeus no país. Paralelamente, foram implementadas alterações fiscais para emigrantes reformados, com a redução do IVA das amas para 6% e a isenção de IRS para aqueles que regressem a Portugal, medidas alargadas ao abrigo do IRS reduzido do \"Programa Regressar\" para pensionistas emigrantes, com efeitos visíveis a partir de 2027. Adicionalmente, a União Europeia sancionou um líder neonazi e paramilitar, demonstrando uma postura ativa contra o extremismo. O tema dominante é a integração europeia e o apoio a emigrantes portugueses.",
-   "n": 16,
-   "pct": 51,
-   "lado": "positivas"
-  },
-  "2026-11-24|Administração Interna": {
-   "texto": "No dia 24 de novembro de 2026, registaram-se múltiplos acontecimentos de natureza diversa na área da Administração Interna. Relativamente à segurança interna, verificou-se um aumento significativo de furtos por carteiristas, com a PSP a identificar 321 suspeitos e a deter 114 em dez meses, sendo que redes criminosas demonstram maior profissionalismo. Adicionalmente, ocorreram incidentes de criminalidade violenta, incluindo um sequestro e um assalto à mão armada em Santarém, e um atropelamento com ferimentos numa passadeira. No âmbito da fraude fiscal, a GNR e a Autoridade Tributária realizaram oito buscas, resultando na investigação de um esquema ilícito superior a 2,5 milhões de euros, com a constituição de sete arguidos. Paralelamente, a segurança pública esteve em foco devido a incidentes durante manifestações, com a PSP a ordenar o encerramento de estabelecimentos e a proibição de venda de garrafas junto ao Parlamento, e a ocorrerem incidentes de trânsito, incluindo um atropelamento e um abalroamento com a GNR.",
-   "n": 44,
-   "pct": 78,
-   "lado": "negativas"
-  },
-  "2026-11-17|Saúde|+": {
-   "texto": "No dia 17 de novembro de 2026, registaram-se vários acontecimentos relevantes na área da saúde. A Madeira acolheu uma formação europeia sobre saúde mental e terapia na natureza, com foco na prevenção e apoio psicológico. A Comissão Europeia autorizou um novo tratamento para cancro do pâncreas metastático, um avanço terapêutico significativo. Adicionalmente, quatro Unidades Locais de Saúde (ULS) obtiveram financiamento através das Bolsas Mais Valor em Saúde, destinando-o à implementação de novos modelos de cuidados e à melhoria da eficiência do Serviço Nacional de Saúde. O tema dominante é o progresso no acesso a tratamentos inovadores e na melhoria da qualidade dos cuidados de saúde.",
-   "n": 20,
-   "pct": 51,
+   "pct": 50,
    "lado": "positivas"
   }
  }
