@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-26 09:57",
+ "gerado": "2026-11-26 12:09",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -814,18 +814,6 @@
    "pct": 79,
    "lado": "negativas"
   },
-  "2026-11-26|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 26 de novembro de 2026, verificou-se uma greve de maquinistas da CP (Comboios de Portugal) que, embora em formato parcial, resultou na supressão de 93 comboios até às 08:00, afetando significativamente a circulação ferroviária. Paralelamente, a indústria do Norte registou uma perda acumulada de mais de 24 mil postos de trabalho desde janeiro de 2025, evidenciando um declínio estrutural no setor. Adicionalmente, a greve dos guardas prisionais impediu a transferência de 111 reclusos do Estabelecimento Prisional de Lisboa, afetando a gestão da população carcerária. O tema dominante foi, portanto, a instabilidade laboral e as perturbações nos serviços públicos, com particular incidência nos transportes e na segurança prisional.",
-   "n": 17,
-   "pct": 82,
-   "lado": "negativas"
-  },
-  "2026-11-26|Justiça": {
-   "texto": "No dia 26 de novembro de 2026, a área da Justiça registou múltiplos acontecimentos de natureza judicial e financeira. Moçambique encerrou 2025 com uma dívida pública equivalente a 72,5% do PIB, motivando alertas do tribunal sobre a gestão da dívida. Paralelamente, a antiga Portugal Telecom (PT) iniciou ações judiciais contra Zeinal Bava, a sua ex-mulher e três filhos, visando a recuperação de 8,5 milhões de euros. Adicionalmente, o Tribunal Administrativo moçambicano sinalizou processos fiscais pendentes no valor de 2,180 milhões de euros, e o Supremo Tribunal confirmou penas para quatro auxiliares de creche. Observou-se ainda um caso de desaparecimento de menor com o suspeito em prisão preventiva e um movimento cívico a solicitar respostas à Provedora de Justiça relativamente a mortes nas prisões.",
-   "n": 10,
-   "pct": 79,
-   "lado": "negativas"
-  },
   "2026-11-21|Economia e Coesão Territorial|+": {
    "texto": "1. **Exportação de gás argentino**: A Argentina aprovou um megaprojeto de exportação de gás natural liquefeito, conforme noticiado pelo Observador e pelo Executivo Digest.  \n2. **Habitação e PRR**: O Governo, através do Bolieiro, reconheceu o \"bom emprego\" do envelope financeiro do PRR no domínio da habitação, conforme reportado pelo Açoriano Oriental, Observador e Jornal de Notícias.  \n3. **Turismo no Algarve**: O Presidente do Turismo do Algarve afirmou que o retorno do investimento público é superior ao investimento, conforme noticiado pelo Jornal de Notícias.  \n4. **Coesão territorial e saúde**: O 2º Fórum Empresarial do Douro abordou a coesão territorial e a governação local, enquanto a UC Biomed inaugurou em Coimbra um investimento de 38 milhões de euros e o Hospital de Ponta Delgada recebeu 1,2 milhões para requalificar cirurgia ambulatória.  \n5. **Rating da Moody’s**: A Agência Moody’s elevou o 'rating' de Portugal, conforme noticiado pelo Observador.  \n\nTema dominante: Resultados e reconhecimentos de boa gestão de fundos públicos em áreas como habitação, coesão territorial e saúde.",
    "n": 13,
@@ -837,6 +825,12 @@
    "n": 16,
    "pct": 51,
    "lado": "positivas"
+  },
+  "2026-11-26|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 26 de novembro de 2026, a área do Trabalho, Solidariedade e Segurança Social foi marcada por dois tipos de acontecimentos distintos. Por um lado, registou-se uma perda significativa de emprego no setor têxtil da indústria do Norte, com mais de 24 mil postos de trabalho eliminados desde janeiro de 2025, afetando também outras empresas da região. Por outro lado, a CP viveu uma série de greves de maquinistas, com supressão de comboios em diferentes graus (até 93 em determinados momentos), impactando a circulação ferroviária nacional e, em particular, os serviços de longo curso. Adicionalmente, verificou-se uma greve no handling da SATA, com potencial impacto nos voos até domingo. Não se identificou um tema dominante unificador, mas sim uma combinação de dificuldades no emprego industrial e perturbações na mobilidade ferroviária.",
+   "n": 23,
+   "pct": 81,
+   "lado": "negativas"
   }
  }
 }
