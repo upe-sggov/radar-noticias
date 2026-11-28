@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-27 17:00",
+ "gerado": "2026-11-28 01:51",
  "modelo": "amalia-llm/AMALIA-9B-0626-DPO",
  "limiar": 75,
  "limiar_positivo": 50,
@@ -784,12 +784,6 @@
    "pct": 50,
    "lado": "positivas"
   },
-  "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
-   "texto": "No dia 20 de novembro de 2026, a área da Administração Pública e Segurança Social foi palco de uma greve geral da função pública, com adesão estimada em 90% nas escolas e afetação significativa de hospitais e serviços de saúde, tendo também impactado a recolha de lixo em diversos concelhos. Adicionalmente, os sindicatos da PSP manifestaram oposição a uma proposta governamental de aumentos salariais para 2027, e registaram-se greves parciais em setores como a saúde, educação, recolha de resíduos e segurança, motivadas por reivindicações de melhores salários e condições laborais. Um tema dominante foi a contestação de políticas orçamentais e de medidas governamentais relativas à sustentabilidade financeira dos trabalhadores e à adequação dos salários face ao custo de vida.",
-   "n": 103,
-   "pct": 79,
-   "lado": "negativas"
-  },
   "2026-11-22|Defesa Nacional": {
    "texto": "No dia 22 de novembro de 2026, a área da Defesa Nacional registou uma série de acontecimentos relacionados com a guerra na Ucrânia, ataques híbridos e incidentes militares. Destacam-se a intensificação das ofensivas russas, com ataques a infraestruturas civis e militares ucranianas, incluindo um bombardeamento que causou a morte de duas pessoas e ferimentos a outras 14, e a perceção de uma fragilidade ucraniana crescente. Adicionalmente, verificaram-se incidentes de drones russos e ucranianos, ataques a cargueiros e a escalada de tensões no Golfo da Finlândia, bem como operações militares colombianas com perdas de vidas. Por fim, registaram-se eventos não relacionados com a área da Defesa, como um incêndio em Vale de Cambra que afetou um militar da GNR e a suspensão da democracia na Guiné-Bissau.",
    "n": 38,
@@ -831,6 +825,12 @@
    "n": 7,
    "pct": 50,
    "lado": "positivas"
+  },
+  "2026-11-20|Trabalho, Solidariedade e Segurança Social": {
+   "texto": "No dia 20 de novembro de 2026, a área da Administração Pública e Segurança Social foi palco de múltiplos eventos de greve e contestação laboral, com impacto generalizado nos serviços públicos. A Frente Comum, maior sindicato da função pública, registou uma adesão próxima dos 90% nas escolas, afetando o funcionamento de estabelecimentos de ensino, e uma forte perturbação nos hospitais e outros serviços de saúde. Adicionalmente, a greve paralisou a recolha de lixo em vários concelhos, impactando a higiene urbana e a gestão de resíduos. Paralelamente, o maior sindicato da PSP manifestou oposição a propostas governamentais de aumentos salariais para 2027, e outros sindicatos, como os médicos e guardas prisionais, anteciparam novas paralisações nas próximas semanas, agravando os constrangimentos nos serviços essenciais.",
+   "n": 103,
+   "pct": 78,
+   "lado": "negativas"
   }
  }
 }
